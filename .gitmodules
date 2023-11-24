@@ -1,0 +1,3 @@
+[submodule "themes/educenter-fork"]
+	path = themes/educenter-fork
+	url = git@github.com:TeamYayin/educenter-hugo.git
