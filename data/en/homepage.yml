@@ -4,8 +4,8 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Welcome To Government Polytechnic, Maheshwaram."
-      content : "The Government of Telangana is committed to raise the standard of living in rural areas . To ensure that all the people have access to quality education, educational institutions are being set up in remote areas."
+    - title : "Welcome To Career Development Cell-Vardhaman College of Engineering"
+      content : "The CDC department aims to enhance and upskill your skils and bridge a gap between academic learning and industry requirements."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -16,7 +16,7 @@ slider:
 
     # slider item loop
     - title : "Your bright future is our mission"
-      content : "Education is a fundamental right which every citizen of the country has, Providing good quality education in remote areas, thereby enabling the marginalised, poor sections of society to develop  on par with their counterparts in cities."
+      content : "By bridging the gap between academic learning and industry requirements we aim to enhance your employability and foster succesfull career transactions"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -54,9 +54,9 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About Government Polytechnic Maheshwaram"
+  title : "About Career Development Cell"
   image : "images/about/about-us.jpg"
-  content : "The Government of Telangana is committed to raise the standard of living in rural areas . To ensure that all the people have access to quality education, educational institutions are being set up in remote areas. Education is a fundamental right which every citizen of the country has, Providing good quality education in remote areas, thereby enabling the marginalised, poor sections of society to develop  on par with their counterparts in cities."
+  content : "The Career Development Cell in Vardhaman engineering college plays a crucial role in bridging the gap between academic learning and industry requirements. Its primary focus is on enhancing the employability of students by providing them with the necessary skills, knowledge, and exposure to the corporate world. The functions of CDC department are Placement Assistance,Training Programs,Industry Interaction,Career Counseling,Internship oppurtunities,Resume Building and Mock Interviews,Skill Development Programs"
   button:
     enable : true
     label : "Learn more"
@@ -85,7 +85,7 @@ success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Visit the College"
-  content : "Click on the play button to visit the Government Polytechnic College - Maheshwaram virtually"
+  content : "Click on the play button to visit the College virtually"
   # video link
   video_link : "https://youtu.be/GWkueHhz64U"
 
