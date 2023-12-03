@@ -1,16 +1,15 @@
 ---
 title: "About Us"
-draft: false
+draft: true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description : "The Government of Telangana is committed to raise the standard of living in rural areas. To ensure that all the people have access to quality education, educational institutions are being set up in remote areas."
+description : "The CDC department aims to enhance and upskill your skils and bridge a gap between academic learning and industry requirements."
 ---
 
 ## ABOUT OUR JOURNEY
 
-The Government of Telangana is committed to raise the standard of living in rural areas . To ensure that all the people have access to quality education, educational institutions are being set up in remote areas.
-
-Education is a fundamental right which every citizen of the country has, Providing good quality education in remote areas, thereby enabling the marginalised, poor sections of society to develop  on par with their counterparts in cities.
+The Career Development Cell in Vardhaman engineering college plays a crucial role in bridging the gap between academic learning and industry requirements. Its primary focus is on enhancing the employability of students by providing them with the necessary skills, knowledge, and exposure to the corporate world.
+The functions of CDC department are Placement Assistance,Training Programs,Industry Interaction,Career Counseling,Internship oppurtunities,Resume Building and Mock Interviews,Skill Development Programs
