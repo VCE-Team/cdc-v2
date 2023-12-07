@@ -7,16 +7,19 @@ bg_image: "images/backgrounds/page-title.jpg"
 # scholarship image
 image: "images/committee/scholarship.jpg"
 # meta description
-description: "Govt. Polytechnic College, Maheshwaram"
+description: "Career Development Cell"
 ---
 
-| S.No | Category                                                                      | Name of Member           | Designation        | Profession                                                                               |
-| ---- | ----------------------------------------------------------------------------- | ------------------------ | ------------------ | ---------------------------------------------------------------------------------------- |
-| 1    | Management - Nominees                                                         | Sri G. Giri Babu         | Chairman           | Deputy Director Tech-I, Department of Technical Education, State Government of Telangana |
-| 2    | Management - Nominees                                                         | Sri A. Swamy             |                    | Deputy Director Technical                                                                |
-| 3    | Faculty of the College - Nominated by The Principal                           | Sri Tarasingh            | Member             | HOD                                                                                      |
-| 4    | Educationist / Industrialist                                                  | Dr. P. Mallikarjun Reddy | Member             | GPW                                                                                      |
-| 5    | Educationist / Industrialist                                                  | Y.Sainath                | Member             | MEP; Manager, Akila Homes                                                                |
-| 6    | State government Nominee - Nominated by the State Council of Higher Education | Sri A. Pullaiah          | Member             | Regional Joint Director, Commissioner of Higher Education                                |
-| 7    | University nominee - Nominated by the university                              | Dr.P. V. Raghu           | Member             | Additional Secretary, SBTET                                                              |
-| 8    | Principal of college                                                          | Smt. S.Bhavani           | Member & Secretary | Principal (OSD)                                                                          |
+| S.No | Name of Member           | Designation        | Profession                                                                               |
+| ---- | ------------------------ | ------------------ | ---------------------------------------------------------------------------------------- |
+| 1    | Dr.J V R Ravindra        | Chairman(BOS)      | Principal VCE                                                                            |
+| 2    | Prof.Deepa ganu|         | Subject Expert     | Director Academics,KMIT                                                                  |
+| 3    | Mrs.Vibuthi Lall         | Industry Expert    | Manager-Operations at Expera                                                             |
+| 4    | Mr.Karthik Ayalh         | Industry Expert    | Director,Technology Delivery,MassMutual India                                            |
+| 5    | Mr.Raghuvaran Velichala  | Industry Expert    | Software Engineer,Microsoft                                                              |
+| 6    | Prof.Manish K.Srivastava | Placement Officer  | Dean,Corporate Relations,Placement Officer                                               |
+| 7    | Dr.H Venkateswara Reddy  | Subject Expert     | Professor of CSE,VCE                                                                     |
+| 8    | Prof.Vivek Kulkarni      | Subject Expert     | Associate Professor of IT,VCE                                                            |
+| 9    | Prof.Muralidhar Mourya   | Subject Expert     | Associate Professor of IT,VCE                                                            |
+| 10   | Mr.E Sai Abhinav         |  Alumini Members   | Consultant,Advance Auto Parts,India                                                      |
+| 11    | Dr.Muni Sekhar          | Coordinator        | Associate Professor of IT & Dean,CDC,VCE                                                 |
