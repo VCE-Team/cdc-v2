@@ -1,4 +1,4 @@
-
+---
 title: "Committees"
 draft: false
 # page title background image
@@ -9,5 +9,5 @@ image: "images/committee/committee-page.jpg"
 description: "**Page Under Construction**"
 # List of committees appointed for the Govt. Polytechnic College in Maheshwaram.
 
-
+---
 # PAGE UNDER CONSTRUCTION
