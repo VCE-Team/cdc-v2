@@ -13,7 +13,7 @@ description: "Career Development Cell"
 | S.No | Name of Member           | Designation        | Profession                                                                               |
 | ---- | ------------------------ | ------------------ | ---------------------------------------------------------------------------------------- |
 | 1    | Dr.J V R Ravindra        | Chairman(BOS)      | Principal VCE                                                                            |
-| 2    | Prof.Deepa ganu|         | Subject Expert     | Director Academics,KMIT                                                                  |
+| 2    | Prof.Deepa ganu          | Subject Expert     | Director Academics,KMIT                                                                  |
 | 3    | Mrs.Vibuthi Lall         | Industry Expert    | Manager-Operations at Expera                                                             |
 | 4    | Mr.Karthik Ayalh         | Industry Expert    | Director,Technology Delivery,MassMutual India                                            |
 | 5    | Mr.Raghuvaran Velichala  | Industry Expert    | Software Engineer,Microsoft                                                              |
