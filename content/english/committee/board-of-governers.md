@@ -1,7 +1,7 @@
 ---
 title: "Board of Governers"
 date: 2023-05-03T15:27:17+06:00
-draft: true
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # scholarship image
