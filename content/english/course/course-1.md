@@ -5,7 +5,11 @@ draft: true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Diploma or Polytechnic in Civil Engineering course helps you learn fundamental knowledge of bridge, flats, hospital and other giant building constructions. However, the civil engineering is an old discipline in the engineering education."
+description : "Programming Essentials course designed to improve coding skills and focus on efficient coding skills. 
+This course covers fundamental programming concepts, algorithm analysis, bit manipulation, control 
+statements, pattern printing, functions, arrays, and strings. this course offers a structured path to 
+mastering the art of competitive coding and analyse the code for building an optimized solution to 
+the problem"
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
