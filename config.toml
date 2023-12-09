@@ -48,9 +48,9 @@ logo = "images/Telangana-LOGO.png"
 description = "Government Polytechnic College in Maheshwaram"
 author = "Team Yayin"
 # contact info
-address = "Government Polytechnic, Maheshwaram, Telangana, India, Pincode: 501359."
-mobile = "+91-7207683644"
-email = "gptmaheshwaram644@gmail.com"
+address = "Vardhaman College of Engineering,Kacharam, Shamshabad – 501218 Hyderabad, Telangana, India"
+mobile = "+91-8688901557"
+email = "deancdc@vardhaman.org"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
