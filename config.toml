@@ -45,7 +45,7 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/Telangana-LOGO.png"
 # Meta data
-description = "Government Polytechnic College in Maheshwaram"
+description = "Vardhaman College of Engineering"
 author = "Team Yayin"
 # contact info
 address = "Vardhaman College of Engineering,Kacharam, Shamshabad – 501218 Hyderabad, Telangana, India"
@@ -106,7 +106,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2023 Government Polytechnic College, Maheshwaram, Telangana. Handcrafted with ❤️ by [Yayin AI Lab](https://yayinailab.tech), Website design template from [Themefisher](https://themefisher.com/hugo-themes/)."
+copyright = "Copyright &copy; 2023 Vardhaman College of Engineering, Telangana. Handcrafted with ❤️ by [Yayin AI Lab](https://yayinailab.tech), Website design template from [Themefisher](https://themefisher.com/hugo-themes/)."
 
 
 ################### English navigation ####################
@@ -134,7 +134,7 @@ weight = 4
 
 [[Languages.en.menu.main]]
 name = "Gallery"
-url = "https://gallery.gptmhrm.org/"
+url = "#"
 weight = 5
     
 [[Languages.en.menu.main]]
