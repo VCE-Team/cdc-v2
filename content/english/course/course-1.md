@@ -1,11 +1,11 @@
 ---
-title: "Civil Engineering"
+title: "Competitive Programming Essentials"
 date: 2019-07-06T15:27:17+06:00
-draft: false
+draft: true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Diploma or Polytechnic in Civil Engineering course helps you learn fundamental knowledge of bridge, flats, hospital and other giant building constructions. However, the civil engineering is an old discipline in the engineering education."
+description : ""
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
@@ -27,97 +27,39 @@ type: "course"
 
 ### About Course
 
-Diploma or Polytechnic in Civil Engineering course helps you learn fundamental knowledge of bridge, flats, hospital and other giant building constructions. However, the civil engineering is an old discipline in the engineering education.
+Programming Essentials course designed to improve coding skills and focus on efficient coding skills. 
+This course covers fundamental programming concepts, algorithm analysis, bit manipulation, control 
+statements, pattern printing, functions, arrays, and strings. this course offers a structured path to 
+mastering the art of competitive coding and analyse the code for building an optimized solution to 
+the problem.
 
-### Diploma Curriculum
+### Course Syllabus
 
-#### SEMESTER-I 
+## Programming Essentials: 
+Interpreters vs Compilers, Hardware Operations, Computing Power, Time 
+and Space Limits for Programs, Bits/Bytes, 32bit vs 64bit architecture, One's Complement and Two's 
+Complement.
 
-| Subject Code | Subject Name |
-| --- | --- |
-| HU-101 | Basic English |
-| SC-102 | Basic Engineering Mathematics |
-| SC-103 | Basic Physics |
-| SC-104 | General Engineering Chemistry |
-| CE-105 | Basic Surveying |
-| ME-106 | Basic Engineering Drawing |
-| ME-107 | Basic AutoCAD Lab |
-| CE-108 | Basic Surveying Lab |
-| SC-109 | Basic Science Lab |
-| CS-110 | Basic Computer Science Lab |
-| CE-111 | Skill Upgradation |
+## Data Types: 
+Variables and Data types (in C/C++/Java/Python), Understanding Constraints, Types of 
+Operators, Input and Output (in C/C++/Java/Python).
+Bit Manipulations: Bitwise Operators (&, |, ^, ~, <<, >>).
 
-#### SEMESTER-II 
+## Control Statements: 
+Decision statements- if, if else, nested if, switch. 
+Loops: while, do while, for, for each, Jump statements.
 
-| SubCode | Subject Name |
-| --- | --- |
-| HU-201 | Advanced English |
-| SC-202 | Engineering Mathematics |
-| SC-203 | Applied Physics |
-| SC-204 | Engineering Chemistry & Environmental Studies |
-| CS-205 | Programming In C |
-| ME-206 | Advanced Engineering Drawing |
-| ME-207 | Advanced AutoCAD Lab |
-| CE-208 | Civil Engineering Workshop Lab |
-| SC-209 | Applied Science Lab |
-| CS-210 | Programming In C Lab |
-| CE-211 | Skill Upgradation |
+## Functions: 
+Definition, passing parameters
+Arrays: Definition, creating 1D array, accessing array elements.
 
-#### SEMESTER III 
+## Strings: 
+Definition, creating strings in (C/C++/Java/Python), string operations, ASCII representation of 
+characters.
 
-| Subject Code | Subject Name |
-| --- | --- |
-| SC-301 | Applied Engineering Mathematics |
-| CE-302 | Engineering Mechanics |
-| CE-303 | Building Materials & Construction Practices |
-| CE-304 | Hydraulics |
-| CE-305 | Advanced Surveying |
-| CE-306 | Building Drawing |
-| CE-307 | Hydraulics Lab |
-| CE-308 | Advanced Surveying Lab |
-| CE-309 | Material Testing Lab |
-| HU-310 | Communication and Life Skills Lab |
-| CE-311 | Skill Upgradation | 
-
-#### SEMESTER IV 
-
-| Subject Code | Subject Name |
-| --- | --- |
-| SC-401 | Advanced Engineering Mathematics |
-| CE-402 | Strength of Materials  |
-| CE-403 | Transportation Engineering  |
-| CE-404 | Quantity Surveying |
-| CE-405 | Irrigation Engineering |
-| CE-406 | Civil Engineering Drawing |
-| CE-407 | Civil CAD Lab |
-| CE-408 | Modern Surveying Lab |
-| CE-409 | Construction Technology Lab |
-| HU-410 | Employability Skills Lab |
-| CE-411 | Skill Upgradation |
-
-#### SEMESTER V 
-
-| Subject Code | Subject Name |
-| --- | --- |
-| CE-501 | Construction Management & Entrepreneurship |
-| CE-502 | Reinforced Concrete Structures |
-| CE-503 | Water Supply and Sanitary Engineering |
-| CE-574 | Steel Structures |
-| CE-584 | Green Buildings and Energy Conservation |
-| CE-575 | Soil Mechanics |
-| CE-585 | Theory of Structures |
-| CE-506 | Structural Engineering Drawing |
-| CE-507 | Civil Engineering Computer Applications Lab |
-| CE-508 | Environmental Engineering Lab |
-| CE-509 | Field Practices Lab |
-| CE-510 | Project Work |
-| CE-511 | Skill Upgradation |
-
-#### Semester VI
-
-| Subject Code | Subject Name |
-| --- | --- |
-| CE-601 | IndustrialTraining |
+## Pointers: 
+Definition, creating pointer, Pointer Arithmetic
+Programming Practices: Indentation, Naming Conventions, Introduction to Online coding platforms.
 
 ### Syllabus
 
