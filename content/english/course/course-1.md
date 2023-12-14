@@ -63,9 +63,6 @@ Programming Practices: Indentation, Naming Conventions, Introduction to Online c
 
 ### Syllabus
 
-- For Semester - I : **[Click here](https://app.box.com/s/mriucjzrt47609d12xszvcs3qyv2kvmi)**
-- For Semester - II: **[Click here](https://app.box.com/s/b6y7gemsjnh51qrw5wg7d4m9zyzx5hx9)**
-- For Semester - III: **[Click here](https://app.box.com/s/vyu54v7rihypijo8j9mp8m9t4eosubp5)**
-- For Semester - IV: **[Click here](https://app.box.com/s/6oyk5m61tj67eq7r6qx9cpxgtk7wn9fb)**
-- For Semester - V: **[Click here](https://app.box.com/s/n0t24icz7po64jr6rnz9jmpaz1wzkuf0)**
-- For Semester - VI: **[Click here](https://app.box.com/s/chuvdavwhkd19slxymyclb1whjw12s6d)**
+
+- **[Click here](https://drive.google.com/file/d/11ir_BX8u4iEDzp8sQD39zO-qsE9o0OCs/view?usp=drive_link)**
+

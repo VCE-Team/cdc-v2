@@ -1,5 +1,5 @@
 ---
-title: "Mechanical Engineering"
+title: "Logical Programming and Algorithms"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -25,100 +25,64 @@ type: "course"
 ---
 
 
-### About Course
+## About Course
 
-Mechanical engineering combines engineering physics and mathematics principles with materials science, to design, analyze, manufacture, and maintain mechanical systems.
 
-### Diploma Curriculum
 
-#### SEMESTER-I 
+## Course Syllabus
 
-| Subject Code | Subject Name |
-| --- | --- |
-| HU-101 | Basic English |
-| SC-102 | Basic Engineering Mathematics |
-| SC-103 | Basic Physics |
-| SC-104 | General Engineering Chemistry |
-| ME-105 | Basic Manufacturing Technology |
-| ME-106 | Basic Engineering Drawing |
-| ME-107 | Basic AutoCAD Lab |
-| ME-108 | Basic Workshop Lab |
-| SC-109 | Basic Science Lab |
-| CS-110 | Basic Computer Science Lab |
-| ME-111 | Skill Upgradation |
+### Complexity analysis of Algorithms
+Algorithm definition, time complexity and space 
+complexity, examples on finding complexity.
 
-#### SEMESTER-II 
+#### Practice Problems on Frequency logic
+1. **[Print the frequency count of array elements](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1)**
+2. **[Print the not-repeated elements of array elements](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)**
+3. **[Find the missing number in an unsorted array](https://leetcode.com/problems/missing-number/)**
+4. **[The saga of the Missing coin]()**
+5. **[Given a string, find the first repeated character in it](https://practice.geeksforgeeks.org/problems/find-first-repeated-character4108/1)**
+6. **[Super ascii string checker]()**
 
-| SubCode | Subject Name |
-| --- | --- |
-| HU-201 | Advanced English |
-| SC-202 | Engineering Mathematics |
-| SC-203 | Applied Physics |
-| SC-204 | Engineering Chemistry & Environmental Studies |
-| CS-205 | Programming In C |
-| ME-206 | Advanced Engineering Drawing |
-| ME-207 | Advanced AutoCAD Lab |
-| ME-208 | Basic Electrical Workshop Lab |
-| SC-209 | Applied Science Lab |
-| CS-210 | Programming In C Lab |
-| ME-211 | Skill Upgradation |
+#### Recursion/Back Tracking
+Definition, understanding base case and general case, recurrence relations, masters theorem.
 
-#### SEMESTER III 
+#### Practice Problems on Recursion/ Backtracking
+1. **[Print moves in Towers of Hanoi  problem](https://www.hackerrank.com/contests/launchpad-1-winter-challenge/challenges/shift-plates)**
+2. **[find nth Fibonacci number](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem)**
+3. **[Find factorial of a number](https://www.hackerrank.com/contests/c-programming-test/challenges/finding-factorial-of-n-number/problem)**
+4. **[Find GCD of two numbers](https://www.hackerrank.com/contests/nptel-programming-contest/challenges/gcd-of-2-numbers)**
+5. **[Rat in a maze problem](https://www.hackerrank.com/contests/noi-ph-practice-page/challenges/path-in-a-maze)**
+6. **[Generate all possible n pairs of balanced parentheses](https://leetcode.com/problems/generate-parentheses/)**
+7. **[Subset sum problem.](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1)**
+8. **[Word break problem](https://leetcode.com/problems/word-break/)**
+9. **[Remove invalid parenthesis](https://leetcode.com/problems/remove-invalid-parentheses/)**
 
-| Subject Code | Subject Name |
-| --- | --- |
-| SC-301 | Applied Engineering Mathematics |
-| ME-302 | Solid Mechanics |
-| ME-303 | Thermodynamics |
-| ME-304 | Engineering Materials |
-| ME-305 | Fluid Mechanics and Hydraulic Machinery |
-| ME-306 | Machine Drawing |
-| ME-307 | Basic Manufacturing & Fabrication Engineering Lab |
-| ME-308 | Fuels Lab |
-| ME-309 | Material Testing, Fluid Mechanics & Hydraulic Machines Lab |
-| HU-310 | Communication and Life Skills Lab |
-| ME-311 | Skill Upgradation | 
+#### Sorting algorithms
+bubble sort, insertion sort, quick sort, merge sort, counting sort
 
-#### SEMESTER IV 
+#### Practice Problems on sorting
+1. **[Winner in election](https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1)**
+2. **[Count inversions in an array](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)**
+3. **[Sort an array of 0’s and 1’s(Duch flag)](https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1)**
+4. **[Find median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)**
+5. **[Find the Minimum length Unsorted Subarray, sorting which makes complete array sorted](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)**
 
-| Subject Code | Subject Name |
-| --- | --- |
-| SC-401 | Advanced Engineering Mathematics |
-| ME-402 | Design of Machine Elements |
-| ME-403 | Heat Power Engineering |
-| ME-414 | Advanced Manufacturing Technology |
-| EE-415 | Basic Electrical Engineering |
-| ME-406 | Production Drawing |
-| EE-417 | Basic Electrical Engineering Lab |
-| ME-408 | Thermal Engineering Lab |
-| ME-409 | Solid Modeling Lab |
-| HU-410 | Employability Skills Lab |
-| ME-411 | Skill Upgradation |
+#### Searching algorithms
+Linear Search, Binary search, Ternary Search
 
-#### SEMESTER V 
+#### Practice Problems on Searching
+1. **[Find ceil and floor in sorted array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)**
+2. **[Find square root of real number](https://leetcode.com/problems/sqrtx/)**
+3. **[Find single element in sorted array where remaining elements occurs twice](https://leetcode.com/problems/single-element-in-a-sorted-array/)**
+4. **[Find best fit box](https://leetcode.com/problems/minimum-space-wasted-from-packaging/)**
+5. **[Search for a value in sorted matrix](https://leetcode.com/problems/search-a-2d-matrix/)**
+6. **[Find minimum element in sorted rotated array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)**
+7. **[Find the first and last occurrence of given key in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)**
+8. **[Count the number of occurrences of a given n in sorted array](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1)**
 
-| Subject Code | Subject Name |
-| --- | --- |
-| ME-501 | Industrial Management and Entrepreneurship |
-| ME-502 | Refrigeration and Air Conditioning |
-| ME-503 | CAD/CAM |
-| ME-574 | Industrial Engineering & Estimation and Costing |
-| ME-584 | Mechatronics |
-| EE-594 | Electric Vehicles |
-| ME-575 | Fluid Power Systems |
-| ME-585 | Automobile Engineering |
-| ME-506 | CAM Lab |
-| ME-507 | Advanced Manufacturing & Fabrication Engineering Lab |
-| ME-508 | Refrigeration and Air Conditioning Lab |
-| ME-509 | Metrology & Pneumatics Lab |
-| ME-510 | Project Work |
-| ME-511 | Skill Upgradation |
 
-#### Semester VI
 
-| Subject Code | Subject Name |
-| --- | --- |
-| ME-601 | IndustrialTraining |
+
 
 ### Syllabus
 
