@@ -1,10 +1,10 @@
 ---
-title: "A Tharasingh"
+title: "Dr. V Muni Sekhar"
 draft: true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Head of Section in Electrical & Electronics Engineering"
+description: "Dean-CDC"
 # teacher portrait
 image: "images/teachers/male-staff-avatar.jpg"
 # course
@@ -31,4 +31,4 @@ type: "teacher"
 
 ### About Me
 
-Sri. A. Tharasingh is Head of Section in Electrical & Electronics Engineering for Government Polytechnic College, Maheshwaram, Telangana. He Previously worked at QQGPT, Hyderabad, Telangana.
+Dr. V Muni Sekhar is Head of Section in Electrical & Electronics Engineering for Government Polytechnic College, Maheshwaram, Telangana. He Previously worked at QQGPT, Hyderabad, Telangana.
