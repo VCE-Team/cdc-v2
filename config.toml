@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = 'http://gptmhrm.org/'
+baseURL = 'http://vardhamancdc.org/'
 languageCode = 'en-us'
 title = 'CDC - Vardhaman'
 theme = 'educenter-fork'
@@ -90,7 +90,7 @@ link = "#"
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "https://github.com/TeamYayin/gptmhrm-website"
+link = "#"
 
 [[params.social]]
 title = "linkedin"
@@ -134,7 +134,7 @@ weight = 4
 
 [[Languages.en.menu.main]]
 name = "Gallery"
-url = "#"
+url = "gallery/"
 weight = 5
     
 [[Languages.en.menu.main]]
