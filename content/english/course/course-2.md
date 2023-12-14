@@ -25,8 +25,7 @@ type: "course"
 ---
 
 
-## About Course
-
+# About Course
 
 
 ## Course Syllabus
@@ -37,48 +36,48 @@ complexity, examples on finding complexity.
 
 #### Practice Problems on Frequency logic
 1. **[Print the frequency count of array elements](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1)**
-2. **[Print the not-repeated elements of array elements](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)**
-3. **[Find the missing number in an unsorted array](https://leetcode.com/problems/missing-number/)**
-4. **[The saga of the Missing coin]()**
-5. **[Given a string, find the first repeated character in it](https://practice.geeksforgeeks.org/problems/find-first-repeated-character4108/1)**
-6. **[Super ascii string checker]()**
+1. **[Print the not-repeated elements of array elements](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)**
+1. **[Find the missing number in an unsorted array](https://leetcode.com/problems/missing-number/)**
+1. **[The saga of the Missing coin]()**
+1. **[Given a string, find the first repeated character in it](https://practice.geeksforgeeks.org/problems/find-first-repeated-character4108/1)**
+1. **[Super ascii string checker]()**
 
-#### Recursion/Back Tracking
+### Recursion/Back Tracking
 Definition, understanding base case and general case, recurrence relations, masters theorem.
 
 #### Practice Problems on Recursion/ Backtracking
 1. **[Print moves in Towers of Hanoi  problem](https://www.hackerrank.com/contests/launchpad-1-winter-challenge/challenges/shift-plates)**
-2. **[find nth Fibonacci number](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem)**
-3. **[Find factorial of a number](https://www.hackerrank.com/contests/c-programming-test/challenges/finding-factorial-of-n-number/problem)**
-4. **[Find GCD of two numbers](https://www.hackerrank.com/contests/nptel-programming-contest/challenges/gcd-of-2-numbers)**
-5. **[Rat in a maze problem](https://www.hackerrank.com/contests/noi-ph-practice-page/challenges/path-in-a-maze)**
-6. **[Generate all possible n pairs of balanced parentheses](https://leetcode.com/problems/generate-parentheses/)**
-7. **[Subset sum problem.](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1)**
-8. **[Word break problem](https://leetcode.com/problems/word-break/)**
-9. **[Remove invalid parenthesis](https://leetcode.com/problems/remove-invalid-parentheses/)**
+1. **[find nth Fibonacci number](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem)**
+1. **[Find factorial of a number](https://www.hackerrank.com/contests/c-programming-test/challenges/finding-factorial-of-n-number/problem)**
+1. **[Find GCD of two numbers](https://www.hackerrank.com/contests/nptel-programming-contest/challenges/gcd-of-2-numbers)**
+1. **[Rat in a maze problem](https://www.hackerrank.com/contests/noi-ph-practice-page/challenges/path-in-a-maze)**
+1. **[Generate all possible n pairs of balanced parentheses](https://leetcode.com/problems/generate-parentheses/)**
+1. **[Subset sum problem.](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1)**
+1. **[Word break problem](https://leetcode.com/problems/word-break/)**
+1. **[Remove invalid parenthesis](https://leetcode.com/problems/remove-invalid-parentheses/)**
 
-#### Sorting algorithms
-bubble sort, insertion sort, quick sort, merge sort, counting sort
+### Sorting algorithms
+Bubble sort, insertion sort, quick sort, merge sort, counting sort
 
 #### Practice Problems on sorting
 1. **[Winner in election](https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1)**
-2. **[Count inversions in an array](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)**
-3. **[Sort an array of 0’s and 1’s(Duch flag)](https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1)**
-4. **[Find median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)**
-5. **[Find the Minimum length Unsorted Subarray, sorting which makes complete array sorted](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)**
+1. **[Count inversions in an array](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)**
+1. **[Sort an array of 0’s and 1’s(Duch flag)](https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1)**
+1. **[Find median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)**
+1. **[Find the Minimum length Unsorted Subarray, sorting which makes complete array sorted](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)**
 
-#### Searching algorithms
+### Searching algorithms
 Linear Search, Binary search, Ternary Search
 
 #### Practice Problems on Searching
 1. **[Find ceil and floor in sorted array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)**
-2. **[Find square root of real number](https://leetcode.com/problems/sqrtx/)**
-3. **[Find single element in sorted array where remaining elements occurs twice](https://leetcode.com/problems/single-element-in-a-sorted-array/)**
-4. **[Find best fit box](https://leetcode.com/problems/minimum-space-wasted-from-packaging/)**
-5. **[Search for a value in sorted matrix](https://leetcode.com/problems/search-a-2d-matrix/)**
-6. **[Find minimum element in sorted rotated array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)**
-7. **[Find the first and last occurrence of given key in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)**
-8. **[Count the number of occurrences of a given n in sorted array](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1)**
+1. **[Find square root of real number](https://leetcode.com/problems/sqrtx/)**
+1. **[Find single element in sorted array where remaining elements occurs twice](https://leetcode.com/problems/single-element-in-a-sorted-array/)**
+1. **[Find best fit box](https://leetcode.com/problems/minimum-space-wasted-from-packaging/)**
+1. **[Search for a value in sorted matrix](https://leetcode.com/problems/search-a-2d-matrix/)**
+1. **[Find minimum element in sorted rotated array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)**
+1. **[Find the first and last occurrence of given key in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)**
+1. **[Count the number of occurrences of a given n in sorted array](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1)**
 
 
 
@@ -86,9 +85,4 @@ Linear Search, Binary search, Ternary Search
 
 ### Syllabus
 
-- For Semester - I : **[Click here](https://app.box.com/s/t1agqteyqcfddn6lfpm03s0us9qc4ylx)**
-- For Semester - II: **[Click here](https://app.box.com/s/3k068rqvcoo76k7per1yw5mqy9nnarrk)**
-- For Semester - III: **[Click here](https://app.box.com/s/j6za4v33sk5ou0e6npma4s9ppedu98gp)**
-- For Semester - IV: **[Click here](https://app.box.com/s/fwt8gw6io0xaimwzrlh57muyic85sv9t)**
-- For Semester - V: **[Click here](https://app.box.com/s/hgldw4g52fw19fs7649de1qwp12m06my)**
-- For Semester - VI: **[Click here](https://app.box.com/s/f7lviczytuymvxj684lg6h61kzdlr2n4)**
+- **[Click here](https://drive.google.com/file/d/1BIdzZdYtY-NHKxNshKLJj9rtk45puWWp/view?usp=sharing)**
