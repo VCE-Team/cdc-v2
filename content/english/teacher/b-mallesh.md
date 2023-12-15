@@ -10,9 +10,9 @@ image: "images/teachers/male-staff-avatar.jpg"
 # course
 department: "Computer Science and Engineering(AI&ML)"
 # biography
-faculty id: "VCE1399"
+faculty_id: "VCE1399"
 # interest
-years of experience: "11 years"
+years_of_experience: "11 years"
 # contact info
 contact:
   # contact item loop
