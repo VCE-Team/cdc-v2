@@ -1,14 +1,14 @@
 ---
-title: "D Lalitha"
+title: "Dr. V V Appaji"
 draft: true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Lecturer in English"
+description: "Trainer"
 # teacher portrait
-image: "images/teachers/female-staff-avatar.png"
+image: "images/teachers/appaji_v-200x200.jpeg"
 # course
-course: "Administrative Staff"
+course: "CDC"
 # biography
 bio: "Lecturer"
 # interest
@@ -30,5 +30,3 @@ type: "teacher"
 ---
 
 ### About Me
-
-Ms. D. Lalitha is deputed as Lecturer in English for Government Polytechnic College, Maheshwaram, Telangana. She currently works at KNPW, Hyderabad, Telangana.
