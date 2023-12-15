@@ -33,6 +33,7 @@ course:
 
 ### About Me
 
+
 **Employment Status:**
 Full Time –Ratified by JNTUH
 
@@ -68,10 +69,9 @@ Machine Learning, Data Structures and Algorithms, Image Processing, DSA.
 
 **QUALIFICATION:**
 
-Ph. D (Pursuing) in CSE, from KL University, Vijayawada.
-M. Tech in SE, 2012, Joginpally BR Engineering College, Hyderabad.
-B. Tech in Computer Science and Engineering,2009, Ramappa Engineering College,
-Warangal.
+-Ph. D (Pursuing) in CSE, from KL University, Vijayawada.
+-M. Tech in SE, 2012, Joginpally BR Engineering College, Hyderabad.
+-B. Tech in Computer Science and Engineering,2009, Ramappa Engineering College,Warangal.
 
 **SUBJECTS TAUGHT:**
 
@@ -88,11 +88,11 @@ DAA, Operating Systems.
 
 **INTERNATIONAL**
 
-1. Manzoor Mohammad and B. Swapna, &quot;COVID-19 Diagnosis with HRCT Images Using
+-Manzoor Mohammad and B. Swapna, &quot;COVID-19 Diagnosis with HRCT Images Using
 Deep Transfer Learning,&quot; 2022 First International Conference on Artificial Intelligence
 Trends and Pattern Recognition (ICAITPR), Hyderabad, India, 2022, pp. 1-6, doi:
 10.1109/ICAITPR51569.2022.9844195.
-2. M. Mohammad and M. R. Reddy, &quot;Deep Transfer Learning approach for Classification of
+-M. Mohammad and M. R. Reddy, &quot;Deep Transfer Learning approach for Classification of
 Chest Infections in Radiographic X-Ray Images,&quot; 2022 Second International Conference
 on Computer Science, Engineering and Applications (ICCSEA), Gunupur, India, 2022, pp.
 1-6, doi: 10.1109/ICCSEA54677.2022.9936426.
