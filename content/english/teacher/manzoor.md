@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "Assistant Professor"
 # teacher portrait
-image: "images/teachers/manzoor.png"
+image: "images/teachers/manzoor2.png"
 # course
 department: "Computer Science and Engineering(AI&ML)"
 # biography
