@@ -9,7 +9,7 @@ description : "Electrical engineering is concerned with the study, design, and a
 # course thumbnail
 image: "images/courses/course-3.jpg"
 # taxonomy
-category: "Diploma in Engineering"
+category: "Programming"
 # teacher
 teacher: "Alex Rook"
 # duration
