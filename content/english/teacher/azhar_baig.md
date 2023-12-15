@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: Lecturer in Maths"
 # teacher portrait
-image: "images/teachers/female-staff-avatar.png"
+image: "static/images/teachers/azhar-pp-200x200.jpeg"
 # course
 course: "Maths"
 # biography
