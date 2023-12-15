@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "Trainer"
 # teacher portrait
-image: "static/images/teachers/azhar-pp-200x200.jpeg"
+image: "images/teachers/azhar-pp-200x200.jpeg"
 # course
 course: "CDC"
 # biography
