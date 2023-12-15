@@ -1,29 +1,29 @@
 ---
-title: "B Mallesh"
-draft: true
+title: "Mr. Manzoor Mohammad"
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Watchman"
+description: "Assistant Professor"
 # teacher portrait
 image: "images/teachers/male-staff-avatar.jpg"
 # course
-course: "Administrative Staff"
+department: "Computer Science and Engineering(AI&ML)"
 # biography
-bio: "Watchman"
+faculty id: "VCE1399"
 # interest
-interest: [""]
+years of experience: "11 years"
 # contact info
 contact:
   # contact item loop
   - name: "#"
     icon: "ti-email" # icon pack : https://themify.me/themify-icons
-    link: "mailto:#"
+    link: "mailto:manzoor@vardhaman.org"
 
   # contact item loop
   - name: "#"
     icon: "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link: "tel:#"
+    link: "tel:8977870607"
 
 # type
 type: "teacher"
