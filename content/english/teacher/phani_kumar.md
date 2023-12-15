@@ -1,16 +1,16 @@
 ---
 title: "Phani Kumar"
-draft: true
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Senior Physical Director for Government Polytechnic College, Maheshwaram."
+description: "Trainer"
 # teacher portrait
-image: "images/teachers/female-staff-avatar.png"
+image: "images/teachers/male-staff-avatar.png"
 # course
-course: "P D Staff"
+course: "CDC"
 # biography
-bio: "Senior Physical Director"
+bio: "Trainer"
 # interest
 interest: [""]
 # contact info
@@ -31,4 +31,4 @@ type: "teacher"
 
 ### About Me
 
-Ms. M. Renuka is the assigned Senior Physical Director for Government Polytechnic College, Maheshwaram by Government of Telangana. She currently works at JNGPT, Hyderabad for three days a week.
+
