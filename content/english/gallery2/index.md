@@ -6,12 +6,13 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Our Gallery"
 # image
-image: "images/gallery/gal1.jpg"
-image: "images/gallery/gal2.jpg"
-image: "images/gallery/gal3.jpg"
-image: "images/gallery/gal4.jpg"
-image: "images/gallery/gal5.jpg"
-image: "images/gallery/gal6.jpg"
-image: "images/gallery/gal7.jpg"
-image: "images/gallery/gal8.jpg"
+image: 
+- "images/gallery/gal1.jpg"
+- "images/gallery/gal2.jpg"
+- "images/gallery/gal3.jpg"
+- "images/gallery/gal4.jpg"
+- "images/gallery/gal5.jpg"
+- "images/gallery/gal6.jpg"
+- "images/gallery/gal7.jpg"
+- "images/gallery/gal8.jpg"
 ---
