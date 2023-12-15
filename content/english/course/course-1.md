@@ -7,7 +7,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : ""
 # course thumbnail
-image: "images/courses/course-1.jpg"
 # taxonomy
 category: "Programming"
 # teacher
