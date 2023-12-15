@@ -1,14 +1,14 @@
 ---
-title: "G Krishnaveni"
+title: "Azhar Baig"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: Lecturer in Maths"
+description: "Trainer"
 # teacher portrait
 image: "static/images/teachers/azhar-pp-200x200.jpeg"
 # course
-course: "Maths"
+course: "CDC"
 # biography
 bio: "Lecturer"
 # interest
@@ -31,4 +31,4 @@ type: "teacher"
 
 ### About Me
 
-Ms. G. Krishnaveni is deputed as Lecturer in Maths for Government Polytechnic College, Maheshwaram, Telangana. She currently works at KNPW, Hyderabad, Telangana.
+
