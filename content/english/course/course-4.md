@@ -9,7 +9,7 @@ description : "Renewable energy is energy from renewable resources that are natu
 # course thumbnail
 image: "images/courses/course-4.jpg"
 # taxonomy
-category: "Diploma in Renewable Energy"
+category: "Programming"
 # teacher
 teacher: "Devid Luis"
 # duration
