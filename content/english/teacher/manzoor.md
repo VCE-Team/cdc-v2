@@ -16,19 +16,19 @@ years_of_experience: "11 years"
 # contact info
 contact:
   # contact item loop
-  - name: "**MAIL**"
+  - name: "MAIL"
     icon: "ti-email" # icon pack : https://themify.me/themify-icons
     link: "mailto:manzoor@vardhaman.org"
 
   # contact item loop
-  - name: "**MOBILE**"
+  - name: "MOBILE"
     icon: "ti-mobile" # icon pack : https://themify.me/themify-icons
     link: "tel:8977870607"
 
 # type
 type: "teacher"
 course:
-- "**AIML**"
+- "AIML"
 ---
 
 ### About Me
