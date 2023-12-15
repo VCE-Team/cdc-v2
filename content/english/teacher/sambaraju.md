@@ -1,16 +1,16 @@
 ---
-title: "M Basavaraj"
-draft: true
+title: "M. Sambaraju"
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Office Subordinate - Administrative Staff"
+description: "Guest Trainer"
 # teacher portrait
-image: "images/teachers/male-staff-avatar.jpg"
+image: "images/teachers/Samba-raj-200x160.jpeg"
 # course
-course: "Administrative Staff"
+course: "CDC"
 # biography
-bio: "Office Subordinate"
+bio: "Guest Trainer"
 # interest
 interest: [""]
 # contact info
@@ -31,4 +31,3 @@ type: "teacher"
 
 ### About Me
 
-Mr. M. Basavaraj is deputed as Office Subordinate for Government Polytechnic College, Maheshwaram, from GILT, Ramanthapur, Hyderabad, Telangana.
