@@ -27,6 +27,8 @@ contact:
 
 # type
 type: "teacher"
+course:
+- "course 1"
 ---
 
 ### About Me
