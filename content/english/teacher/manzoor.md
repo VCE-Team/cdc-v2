@@ -28,12 +28,13 @@ contact:
 # type
 type: "teacher"
 course:
-- "AI&ML"
+- "AI& ML"
 ---
 
 ### About Me
 
-**Employment Status:** Full Time –Ratified by JNTUH
+# Employment Status:
+Full Time –Ratified by JNTUH
 **Email:** manzoor@vardhaman.org
 **DOJ:** 19/04/2022
 **Teaching Experience:** 11 Years
