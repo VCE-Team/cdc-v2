@@ -9,7 +9,7 @@ description : "Mechanical engineering combines engineering physics and mathemati
 # course thumbnail
 image: "images/courses/course-2.jpg"
 # taxonomy
-category: "Diploma in Engineering"
+category: "Programming"
 # teacher
 teacher: "Jacke Mastio"
 # duration
