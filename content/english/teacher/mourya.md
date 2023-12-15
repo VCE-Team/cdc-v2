@@ -1,14 +1,14 @@
 ---
-title: "C Jyothirmai"
+title: "Muralidher Mourya"
 draft: true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Lecturer in Physics"
+description: "Trainer"
 # teacher portrait
-image: "images/teachers/female-staff-avatar.png"
+image: "images/teachers/Maurya-Muralidhar-200x200.png"
 # course
-course: "Physics"
+course: "CDC"
 # biography
 bio: "Lecturer"
 # interest
@@ -31,4 +31,3 @@ type: "teacher"
 
 ### About Me
 
-C Jyothirmai is deputed as Lecturer in Physics for Government Polytechnic College, Maheshwaram, Telangana. She currently works at GPT, Masabtank, Hyderabad, Telangana.
