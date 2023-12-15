@@ -9,7 +9,7 @@ description : ""
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
-category: "Diploma in Engineering"
+category: "Programming"
 # teacher
 teacher: "Clark Malik"
 # duration
