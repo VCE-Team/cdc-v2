@@ -1,14 +1,14 @@
 ---
-title: "M Anjaiah"
-draft: true
+title: "S P Kishore"
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Senior Instructor"
+description: "Trainer"
 # teacher portrait
-image: "images/teachers/male-staff-avatar.jpg"
+image: "images/teachers/SP-Kishore-scaled-1-200x200.jpg"
 # course
-course: "Administrative Staff"
+course: "CDC"
 # biography
 bio: "Senior Instructor"
 # interest
@@ -31,4 +31,4 @@ type: "teacher"
 
 ### About Me
 
-Mr. M. Anjaiah has deputed from JNGPT, Ramanthapur, to Government Polytechnic College, Maheshwaram, as Senior Instructor.
+
