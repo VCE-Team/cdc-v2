@@ -35,10 +35,19 @@ course:
 
 # Employment Status:
 Full Time –Ratified by JNTUH
-**Email:** manzoor@vardhaman.org
-**DOJ:** 19/04/2022
-**Teaching Experience:** 11 Years
-**Years Of Industry Experience:** Nil
+
+# Email: 
+manzoor@vardhaman.org
+
+# DOJ: 
+19/04/2022
+
+# Teaching Experience: 
+11 Years
+
+# Years Of Industry Experience:
+Nil
+
 **Years Of Research Experience:** Nil
 **Ph.D. Guide:** No
 **Number Of PhDs Awarded Under Your Supervision:** NA
