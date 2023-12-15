@@ -1,5 +1,5 @@
 ---
-title: "Ms. M. Renuka"
+title: "Phani Kumar"
 draft: true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
