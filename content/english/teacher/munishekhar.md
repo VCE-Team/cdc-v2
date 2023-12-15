@@ -8,7 +8,7 @@ description: "Dean-CDC"
 # teacher portrait
 image: "images/teachers/MUNI-SHEKAR-200x200.jpg"
 # course
-course: "EEE"
+course: "CDC"
 # biography
 bio: "Head of Section"
 # interest
@@ -31,4 +31,3 @@ type: "teacher"
 
 ### About Me
 
-Dr. V Muni Sekhar is Head of Section in Electrical & Electronics Engineering for Government Polytechnic College, Maheshwaram, Telangana. He Previously worked at QQGPT, Hyderabad, Telangana.
