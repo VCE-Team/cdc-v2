@@ -1,14 +1,14 @@
 ---
-title: "D Vijaya Sree"
-draft: true
+title: "G. S. Prasad Reddy"
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Head of Section in Civil Engineering"
+description: "Trainer"
 # teacher portrait
-image: "images/teachers/female-staff-avatar.png"
+image: "images/teachers/Prasad-sir-200x200.png"
 # course
-course: "Civil Engineering"
+course: "CSE"
 # biography
 bio: "Head of Section"
 # interest
@@ -30,5 +30,3 @@ type: "teacher"
 ---
 
 ### About Me
-
-Ms. D. Vijaya Sree  is Head of Section in Civil Engineering for Government Polytechnic College, Maheshwaram, Telangana. She currently works at KNPW, Hyderabad, Telangana.
