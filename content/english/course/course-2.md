@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Mechanical engineering combines engineering physics and mathematics principles with materials science, to design, analyze, manufacture, and maintain mechanical systems."
+description : ""
 # course thumbnail
 image: "images/courses/course-2.jpg"
 # taxonomy

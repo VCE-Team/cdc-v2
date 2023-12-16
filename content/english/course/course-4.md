@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Renewable energy is energy from renewable resources that are naturally replenished on a human timescale. Renewable resources include sunlight, wind, the movement of water, and geothermal heat."
+description : ""
 # course thumbnail
 image: "images/courses/course-4.jpg"
 # taxonomy
