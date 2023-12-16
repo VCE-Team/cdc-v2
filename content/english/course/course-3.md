@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Electrical engineering is concerned with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism."
+description : ""
 # course thumbnail
 image: "images/courses/course-3.jpg"
 # taxonomy
