@@ -34,8 +34,12 @@ Provide transformative education, empowering individuals and organization to ach
 **Principles of CDC**
 
 1.Slow progress.
+
 2.Make Notes & Revise.
+
 3.Ask Doubts.
+
 4.Assignments- 1 to 2 hrs/day.
+
 5.Practice 
 
