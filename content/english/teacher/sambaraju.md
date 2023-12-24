@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "Guest Trainer"
 # teacher portrait
-image: "images/teachers/Samba-raj-200x160.jpeg"
+image: "images/teachers/Samba-raj-200x160 (1).jpeg"
 # course
 course: "CDC"
 # biography
