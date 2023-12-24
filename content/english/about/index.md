@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-date:2023-12-24
+date:2023-12-24 18:46:47 +0600
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
