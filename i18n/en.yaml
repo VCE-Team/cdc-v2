@@ -19,15 +19,6 @@
 - id: contact_us
   translation: Contact Us
 
-- id: latest_article
-  translation: Latest Article
-
-- id: categories
-  translation: Categories
-
-- id: tags
-  translation: Tags
-
 - id: see_all
   translation: See all
 
