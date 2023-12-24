@@ -1,5 +1,5 @@
 ---
-title: "Board of Governers"
+title: "Board of Studies"
 date: 2023-05-03T15:27:17+06:00
 draft: false
 # page title background image
