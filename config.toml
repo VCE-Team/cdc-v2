@@ -144,7 +144,7 @@ weight = 6
 
 [[Languages.en.menu.main]]
 name = "Recruitors"
-url = "#"
+url = "recruitors/"
 weight = 7
 
 # footer menu
