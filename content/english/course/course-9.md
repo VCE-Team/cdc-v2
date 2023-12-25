@@ -1,11 +1,11 @@
 ---
-title: "Advanced Data Structures and Algorithms"
+title: "Verbal Ability"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : ""
+description : "Course Code:C1001"
 # course thumbnail
 image: "images/courses/course-4.jpg"
 # taxonomy
@@ -13,7 +13,7 @@ category: "Programming"
 # teacher
 teacher: "Devid Luis"
 # duration
-duration : "03 Years"
+duration : "1 Semester"
 # weekly
 weekly : "Will be Updated"
 # course fee
@@ -27,186 +27,143 @@ type: "course"
 
 ## About Course
 
-Advanced Data Structures and algorithms is a course for an engineering graduate to improve 
-the problem solving skills with the help of different Data Structures and algorithmic
-approaches. These methods can be used in decision making and optimization problems.
-Advanced Data Structures and algorithms course covers concepts to find strategies to win 
-games, finding best paths and cost, searching and matching of words . The course also
-includes fundamental terminology of non-linear data structures like Trees and Graphs which
-are especially used to handle large amount of data. The course will also enable the use of
-appropriate searching methods in handling collection of elements.
+Verbal ability is the capacity to understand and use language effectively. It is a crucial skill in many areas 
+of life, including education, employment, and social interaction. Strong verbal ability enables individuals 
+to express themselves clearly, understand complex ideas, and communicate effectively with others. 
+Individuals who are strong in verbal ability are likely to excel in these areas and achieve success in their 
+personal and professional lives.
+
+### Course Outcomes
+
+By the end of this Program, we are sure that one can observe incredible improvement in our Students 
+performance under the following key areas -
+Listed below are the Modules covered under this Unique Program Called CCRC (Complete, 
+Comprehensive and Re-Engineered Curriculum) along with their individual objectives and Key 
+Performance Indicators (KPIs).
+
 
 ## Course Syllabus
 
-### Mixed Bag Problems:
+##### MODULE I: Basic Word Structure – Terminology - (Prefixes & Suffixes)
 
-1. Rotate an array of size n in clockwise direction k times.
+######  Objective: 
 
-2. Prime Generator.
+The prime objective of this Module is to enlighten the student on Basic Word 
+Structure, Prefixes and Suffixes followed by Assignment I and Assignment II. This area of 
+learning is actually most neglected in our schools and colleges. We at Vardhaman, strongly feel 
+that understanding of those Greek and Latin terms is essential in order to have some sort of 
+grip on English Language. Although, English is a Germanic language, it has many Latin and 
+Greek words and roots.
 
-3. Given a sorted array of n distinct integers where each integer is in the range from 0 
-to m-1 and m > n. Find the smallest number that is missing from the array.
+In this regard, we have prepared and designed 888 slide Power-Packed Power Point 
+Presentation, (taking into a special consideration of our Telugu States Students) which consists 
+of numerous technology-related examples and interactive Quizzes, equipped with relevant 
+additional information on Vocabulary, where students cherish and enjoy learning.
 
-4. Calculate the sum of the elements of matrix inside the rectangle defined by its upper 
-left corner (row1, col1) and lower right corner (row2, col2).
+**KPI** : Upon completion of this Module, students will be able to understand Vocabulary as it is 
+and will be able to identify the Prefixes and suffixes in the new terms/words and thus extract 
+the exact meanings by applying elimination methodology. This session will help job aspirants in 
+the areas of Synonyms and Antonyms and also in Reading Comprehension. 
+##### Module II: Parts of Speech and Articles (Definite and Indefinite). Subject -Verb Agreement – (with special emphasis on the Nine Jewels Principle Proposed By our CDC Faculty, Mr. Phani, which is based on neurolinguitic techniques).
 
-5. The birthday bar problem.
+###### Objective: 
 
-6. Given a string text, you want to use the characters of text to form as many instances 
-of the word “balloon” as possible.
+The objective of this Module is to impart thorough knowledge of Parts of speech and 
+Articles. Also, familiarize the students with the Subject Verb Agreement - Nine Jewels 
+Principle, Proposed by Mr. Phani, Faculty- CDC, which explains the above guidelines, in an easy 
+to memorize manner with simple neuro-linguistic, memory techniques.
 
-7. Partition the line of filing cabinets into K sections so as to minimize the maximum 
-number of files a partition contains. E.g.: 10 20 30 40 50| 60 70 | 80 90 [N = 9, K = 3].
+**KPI:** Upon completion of this Module, the students will be able to understand and identify the 
+mistakes in the sentences given and it also prepares them for future challenges such as TOEFL 
+(Test Of English as a Foreign Language) and IELTS (International English Language Testing 
+system).
 
-8. Find Longest common prefix string amongst an array of strings.
+##### Module III: - Reading Comprehension - Solving Techniques – Elimination Method - Tenses -Sentence Correction – Error Identification/Detection. One Word Substitutes (OWS) Followed by a Quiz – Para Jumbles.
 
-#### Online Resources
-1. https://leetcode.com/problems/rotate-array/
+###### Objective: 
 
-2. https://leetcode.com/problems/count-primes/
-3. https://leetcode.com/problems/missing-element-in-sorted-array/
-4. https://leetcode.com/problems/range-sum-query-2d-immutable/
-5. https://www.hackerrank.com/challenges/the-birthday-bar/problem
-6. https://leetcode.com/problems/maximum-number-of-balloons/
-7. https://practice.geeksforgeeks.org/problems/the-painters-partition-problem1535/1
-8. https://leetcode.com/problems/longest-common-prefix/
+Well, We at Vardhaman, Strongly feels that Learning is a continuous process, 
+wherein we are encouraging our students to participate in “One Novel Per Semester Challenge 
+- ONPSC” (Outside their course of study) in order to inculcate the habit of Reading, which is 
+extinct, now-a-days. In this Module, the students will be introduced to the concepts of Reading 
+Comprehension, solving techniques and elimination methodology, Tenses, Sentence correction 
+exercises followed by Computer Based Tests and Personalized Analysis reports. It also includes 
+Para Jumbles and One word Substitutes followed by a Quiz Program after dividing the students 
+into teams and winners are eligible to Participate in “Vardhaman’s Mega English QuiZ Program 
+– (VMEZ).”
 
+**KPI:** Upon completion of this Module, students will be ready to face the future challenges 
+when it comes to verbal aptitude and to be more specific, Reading Comprehension. Overall, it 
+will also help them (by participating in such quiz Competitions) to enhance their Team building 
+capabilities, they will start cherishing the joy of Team work, and it will also foster their 
+Leadership abilities.
 
-### Problems on Game Theory:
-1. Bulb Switcher problem.
+##### Module IV: (Synonyms – Antonym - Homonyms (Sound-a-likes) – US Slang Terms/Americanisms – British Vs. American Expressions. How to Avoid Indianisms? - Crazy Idioms, Fancy Phrases and Meticulous Metaphors – Picture/Image Presentation.
 
-2. Game of N stones where each player can remove 1, 3 or 4.
-3. Game of Nim.
-4. Find the winner in Nim game where a player fails if XOR of remaining elements is 0
+###### Objective: 
 
-#### Online Resources
-1. https://leetcode.com/problems/bulb-switcher/
+This Module focuses on similar words, opposite words and sound-a-likes, from the 
+competitive examinations stand point. It also emphasizes on Americanisms, British versus 
+American expressions/slang terms, which are essential to survive in a dog eat dog world. We 
+are also concentrating on idioms, phrases and metaphors and encouraging our students to 
+avoid Indianisms so as to standout and emerge as winners by skipping the ugly rat race. 
 
-2. https://www.hackerrank.com/challenges/game-of-stones-1/problem
-3. https://www.hackerrank.com/challenges/nim-game-1/problem
-4. https://practice.geeksforgeeks.org/problems/variation-in-nim-game4317/1
-5. https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1
+**KPI:** Upon completion of this Module, students will be able understand American and British 
+cultures and culture-related terminology. They will also be able avoid some blunders and 
+bloopers, if they are aware of Indianisms. On the other hand, Idioms and phrases will help 
+them to speak like native speakers. We will also conduct “Spell Bee Championships (SBC)” for 
+our students to encourage the talented English language Loving Vardhamanians
 
+##### Module V: Theme Detection/Inference, Common Errors in English, Basic Punctuation Rules, Context Clues, Listening Comprehension and Pronunciation.
 
+###### Objective:
 
+Theme detection/Inference is a concept in Verbal Ability and is all about finding or 
+detecting the facts or message from a given passage or from few statements, where as Context 
+Clues i.e Identification of Clues in Sentences – Explained (ICSE), helps the students to look out 
+for clues in the given sentences like a professional detective. We, at Vardhaman, also included 
+Listening Comprehension to help our students gain insight and knowledge in order to clear 
+TOEFL and IELTS. In this regard, we have established a dedicated and exclusive CDC Computer 
+Lab, which is equipped with state-of-art software and hardware and of course, empowered by 
+well experienced Faculties to help our students march towards the path of success. 
 
-### Greedy Method
- Introduction, general method.
+**KPI:** Upon completion of this Module, the students will be able to understand the exam 
+patterns of TOEFL and IELTS and they will have wider understanding of Inferences and Context 
+clues plus our exclusive Listening Comprehension Labs helps them to understand the US slang 
+and they will be able to clear those competitive exams and face the interviews with confidence 
+and ease.
 
-#### Problems on Greedy Method:
-1. Activity Selection Problem.
+#### Text Books
 
-2. Connect N ropes with minimum cost.
-3. Fractional Knapsack.
-4. Dijkstra’s Shortest path
+1. High School English Grammar & Composition by Wren and Martin.
+  
+2. Word Power Made Easy by Norman Lewis.
+   
+4. Mastering the Verbal Ability for CAT by Ajay Singh.
+  
+5. How to Prepare for Verbal Ability and Reading Comprehension for the CAT by Arun Sharma and 
+Meenakshi Upadhyay.
 
-#### Online Resources
-1. https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1
+#### Reference Books
 
-2. https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
-3. https://leetcode.com/problems/maximum-units-on-a-truck/
-4. https://practice.geeksforgeeks.org/problems/minimum-cost-path3833/1
+1. Quick Learning Objective General English by RS Aggarwal and Vikas Aggarwal.
 
+2. Ulysses by James Joyce. (For Reading).
 
+3. B. B. Sinha's Synonyms and Antonyms:
 
+4. The Reading Strategies Book: Your Everything Guide to Developing Skilled Readers by Jennifer 
+Serrvallo. 
 
-### Dynamic Programming 
-Introduction, Memoization and Tabular Methods to store the 
-results.
-
-#### Problems on Dynamic Programming:
-1. n-stair problems.
-2. Domino/Tiling problem.
-3. Compute nCr.
-4. Longest increasing sub sequence.
-5. Maximum contiguous sub array/non- contiguous sub sequence sum.
-6. Maze with blockers.
-7. Maximum collected apples in a 2D maze.
-
-#### Online Resouces
-1. https://leetcode.com/problems/climbing-stairs/
-
-2. https://leetcode.com/problems/domino-and-tromino-tiling/
-3. https://practice.geeksforgeeks.org/problems/ncr1019/1
-4. https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1
-5. https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1
-6. https://leetcode.com/problems/unique-paths-ii/
-7. https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1
-
-### Graph Theory
-Graph terminology, Graph representation, Graph traversal techniques.
-
-#### Problems on Graph Theory :
-1. Check if there exists a path between 2 given nodes A and B of a graph.
-
-2. Detect Cycle in a Directed/Undirected Graph.
-3. Given an undirected graph, check if it's a tree.
-4. Find the number of islands considering neighborhood.
-5. Given an unweighted, undirected tree, find the length of the longest path in that 
-tree. The length of a path is the number of edges in that path.
-6. Given a snake and ladder board, find the minimum number of dice throws required 
-to reach the destination or last cell from source or I cell.
-
-#### Online Resources
-1. https://leetcode.com/problems/find-if-path-exists-in-graph/
-
-2. https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
-3. https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
-4. https://www.codingninjas.com/studio/problems/is-it-a-tree_630511
-5. https://leetcode.com/problems/number-of-islands/
-6. https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1
-
-### Priority Queues/Heaps 
-Introduction to Priority Queues, Heap, Implementation of Heaps.
-
-#### Problems on Priority Queues/Heaps:
-1. Given an array of integers, find k smallest elements in the array.
-
-2. Given an array of n integers, devise an algorithm to get median of the sub-array 0 to 
-i for ∀ i from 0 to n-1.
-3. Given an array of n elements, where each element is at most k away from its actual 
-position in the sorted version of the array (k-sorted array), devise an algorithm that
-sorts the given k-sorted array in O(n x log2(k)) time.
-4. Given a row and column wise sorted matrix of size n x n, print all elements in sorted
-order
+5. Critical Thinking and Problem Solving by Carl Patterson
 
 #### Online Resources
-1. https://practice.geeksforgeeks.org/problems/top-k-numbers3425/1
 
-2. https://practice.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1
-3. https://practice.geeksforgeeks.org/problems/nearly-sorted-1587115620/1
-4. https://www.codingninjas.com/studio/problems/sorted-matrix_758931
+1. IndiaBIX (https://www.indiabix.com/)
 
+2. PrepInsta (https://prepinsta.com/)
 
+3. Sawaal (https://www.sawaal.com/)
 
-### Tries
-Introduction to trie and its implementation.
-Problems on Tries:
+4. FreshersLive (https://www.fresherslive.com/)
 
-#### Problems on Tries :
-1. Design a spell-checker
-
-2. Build auto-complete word suggestion.
-3. Given a list of phone numbers, determine if it is consistent in the sense that no
-number is the prefix of another.
-4. Given an array of integers, we have to find two elements whose XOR is maximum.
-
-#### Online Resources
-1. https://practice.geeksforgeeks.org/problems/trie-insert-and-search0651/1
-
-2. https://practice.geeksforgeeks.org/problems/search-query-auto-complete/1
-3. https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
-4. https://practice.geeksforgeeks.org/problems/minimum-xor-value-pair/1
-5. https://practice.geeksforgeeks.org/problems/prefix-match-with-other-strings/1
-
-
-### References
-1. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed. Fundamentals of Data Structure in C. 2nd Edition. University Press, India, 2008.
-
-2. Reema Thareja. Data Structures Using C. 2nd Edition. Oxford University Press, New Delhi India,
-2014
-
-
-### Syllabus
-
-- **[Click Here](https://drive.google.com/file/d/18_q1e8feABMcCgCFd-y1vOPIWcYJmwtj/view?usp=sharing)**
