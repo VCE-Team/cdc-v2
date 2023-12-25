@@ -13,7 +13,7 @@ category: "Programming"
 # teacher
 teacher: "Devid Luis"
 # duration
-duration : "1"
+duration : "1 Semester"
 # weekly
 weekly : "Will be Updated"
 # course fee
@@ -61,11 +61,11 @@ answer.
 
 #### <br>Problem 4
 print a hallow pyramid in following pattern.
-* * * * * * * * * 
-  *           * 
-    *       * 
-      *   * 
-        *
+           * * * * * * * * * 
+             *           * 
+               *       * 
+                 *   * 
+                   *
 
 #### <br>Problem 5 
 Ramu started collecting different types of flowers for prayer, he wants to pick only one 
