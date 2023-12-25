@@ -61,11 +61,16 @@ answer.
 
 #### <br>Problem 4
 print a hallow pyramid in following pattern.
-           * * * * * * * * *  <br>
-             *           * <br>
-               *       * <br>
-                 *   * <br>
-                   *<br>
+
+           * * * * * * * * *  
+           
+             *           * 
+             
+               *       * 
+               
+                 *   * 
+                 
+                   *
 
 #### <br>Problem 5 
 Ramu started collecting different types of flowers for prayer, he wants to pick only one 
