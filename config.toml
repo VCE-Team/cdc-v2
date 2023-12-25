@@ -142,6 +142,10 @@ name = "Contact"
 url = "contact/"
 weight = 6
 
+[[Languages.en.menu.main]]
+name = "Recruitors"
+url = "#"
+weight = 7
 
 # footer menu
 
