@@ -118,6 +118,8 @@ image: "images/committee/committee-page.jpg"
 | Total  |                                            | 530 | 230 | 383 | 201 | 137  | 27    | 1556  | 620345           |
 
 
+
+
 ### Summary							
 
 | Branch                                          | CSE         | IT          | ECE         | EEE         | MECH        | CIVIL       | TOTAL       |
@@ -129,6 +131,8 @@ image: "images/committee/committee-page.jpg"
 | Percentage of Multiple Offers                   | 248.83      | 203.54      | 180.66      | 193.27      | 182.67      | 245.4545455 | 213.74      |
 | Percentage of Unique Offers                     | 82.16       | 76.11       | 83.02       | 90.38       | 102.67      | 163.6363636 | 85.99       |
 | Percentage of Unique Offers On Total Batch Size | 66.53992395 | 66.15384615 | 66.41509434 | 71.75572519 | 61.11111111 | 24.65753425 | 63.36032389 |
+
+
 
 
 ### Salary
