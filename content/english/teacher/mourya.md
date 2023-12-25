@@ -20,7 +20,7 @@ contact:
     icon: "ti-email" # icon pack : https://themify.me/themify-icons
     link: "mailto:#"
     
-** [Click here to Know About Me](https://vardhaman.irins.org/profile/247937)
+**[Click here to Know About Me](https://vardhaman.irins.org/profile/247937)
 
 # type
 type: "teacher"
