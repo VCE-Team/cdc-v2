@@ -4,31 +4,28 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Trainer"
+description: "Assistant Professor"
 # teacher portrait
 image: "images/teachers/SP-Kishore-scaled-1-200x200.jpg"
 # course
-course: "CDC"
+course: "H&S"
 # biography
-bio: "Senior Instructor"
+bio: "Assistant Professor"
 # interest
 interest: [""]
 # contact info
 contact:
   # contact item loop
-  - name: "#"
+  - name: "Mail Me"
     icon: "ti-email" # icon pack : https://themify.me/themify-icons
     link: "#"
 
-  # contact item loop
-  - name: "#"
-    icon: "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link: "#"
 
 # type
 type: "teacher"
+
 ---
 
-### About Me
+##### [CLICK HERE TO KNOW MORE](https://vardhaman.irins.org/profile/249512)
 
 
