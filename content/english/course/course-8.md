@@ -1,5 +1,5 @@
 ---
-title: "Advanced Data Structures and Algorithms"
+title: "Java Programming"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -13,7 +13,7 @@ category: "Programming"
 # teacher
 teacher: "Devid Luis"
 # duration
-duration : "03 Years"
+duration : "1"
 # weekly
 weekly : "Will be Updated"
 # course fee
@@ -27,186 +27,161 @@ type: "course"
 
 ## About Course
 
-Advanced Data Structures and algorithms is a course for an engineering graduate to improve 
-the problem solving skills with the help of different Data Structures and algorithmic
-approaches. These methods can be used in decision making and optimization problems.
-Advanced Data Structures and algorithms course covers concepts to find strategies to win 
-games, finding best paths and cost, searching and matching of words . The course also
-includes fundamental terminology of non-linear data structures like Trees and Graphs which
-are especially used to handle large amount of data. The course will also enable the use of
-appropriate searching methods in handling collection of elements.
+This course provides a comprehensive exploration of object-oriented programming, exception 
+handling, collections, and multi-threading through hands-on programming exercises. Students will 
+gain practical experience by writing programs that incorporate these essential elements of modern 
+software development. By the end of this practical course, students will have the necessary skills, 
+practical experience in java Programming.
 
-## Course Syllabus
+### Course Syllabus
 
-### Mixed Bag Problems:
+### Problems
 
-1. Rotate an array of size n in clockwise direction k times.
+#### <br>Problem 1
+Given an integer, perform the following conditional actions:
+1. If is odd, print Weird
+2. If is even and in the inclusive range of to , print Not Weird
+3. If is even and in the inclusive range of to , print Weird
+4. If is even and greater than , print Not Weird
 
-2. Prime Generator.
+#### <br>Problem 2   
+For a given value N print no of multiples of 3,5 in the range [1,N]
 
-3. Given a sorted array of n distinct integers where each integer is in the range from 0 
-to m-1 and m > n. Find the smallest number that is missing from the array.
+#### <br>Problem 3
+Kristen loves playing with and comparing numbers. She thinks that if she takes two different 
+positive numbers, the one whose digits sum to a larger number is better than the other. If 
+the sum of digits is equal for both numbers, then she thinks the smaller number is better. For 
+example, Kristen thinks that 13 is better than31 and that12 is better than 11.
+Given an integern, can you find the divisor of N that Kristin will consider to be the best?
+input: 12
+output :6
+The set of divisors of 12 can be expressed as {1,2,3,4,6,12}The divisor whose digits sum to 
+the largest number is (which, having only one digit, sums to itself). Thus, we print as our 
+answer.
 
-4. Calculate the sum of the elements of matrix inside the rectangle defined by its upper 
-left corner (row1, col1) and lower right corner (row2, col2).
+#### <br>Problem 4
+print a hallow pyramid in following pattern.
+* * * * * * * * * 
+  *           * 
+    *       * 
+      *   * 
+        *
 
-5. The birthday bar problem.
+#### <br>Problem 5 
+Ramu started collecting different types of flowers for prayer, he wants to pick only one 
+flower for each type, if plants are arranged in multiple straight lines and flower type 
+represented by positive numbers how many maximum type flowers he can collect.
 
-6. Given a string text, you want to use the characters of text to form as many instances 
-of the word “balloon” as possible.
+input:
+4 5
+1 1 1 2 1
+1 2 2 1 3
+1 1 7 1 1
+5 1 4 2 3
 
-7. Partition the line of filing cabinets into K sections so as to minimize the maximum 
-number of files a partition contains. E.g.: 10 20 30 40 50| 60 70 | 80 90 [N = 9, K = 3].
+OUTPUT: 6
 
-8. Find Longest common prefix string amongst an array of strings.
+#### <br>Problem 6
+Given an array of characters chars, compress it using the following algorithm:
+1. If the group's length is 1, append the character to s
+2.Otherwise, append the character followed by the group's length
 
+input: aabbccc 
+
+output: a2b2c3
+
+#### <br>Problem 7
+Raju gifted a bicycle to his son Ramu, enthusiastic Ramu fixed a engine to it and made it 
+as a motor bike, but being afraid of his father, in father presence he using it as cycle, 
+otherwise as a bike, there is only one key(i. e. object of Ramu class) , prepare Ramu, Raju 
+classes, both should have whatIAm( ) method, When Ramu class method is invoked it 
+should print im a bike, im a cycle.
+(**Hint**: Inheritance, call parent class method using super
+in child class)
+
+#### <br>Problem 8
+Create a class Sports which is having a method noOfPlayers(int n) for printing total 
+players per team in that sport, Now create Soccer, VollyBall, Kabaddi classes which 
+inherits Sports class and modifies the noOfPlayers(int n) method. call all the sports 
+methods(use Over Riding/ Polymorphism ) 
+
+#### <br>Problem 9
+Create a class PrimeGenerator which has a method primes(int n) which prints all prime 
+numbers in range of n.
+
+#### <br>Problem 10
+Write a Java program to create an abstract class Bird with abstract methods fly() and 
+makeSound(). Create subclasses Eagle and Hawk that extend the Bird class and implement 
+the respective methods to describe how each bird flies and makes a sound.
+
+#### <br>Problem 11
+You are given an interface AdvancedArithmetic which contains a method signature int 
+divisor_sum(int n). You need to write a class called MyCalculator which implements the 
+interface.divisor_Sum() function just takes an integer as input and return the sum of all its 
+divisors. For example divisors of 6 are 1, 2, 3 and 6, so divisor_sum should return 12.
+
+#### <br>Problem 12
+You are required to compute the power of a number by implementing a calculator. Create a 
+class MyCalculator which consists of a single method long power(int, int). This method takes 
+two integers, n and p as parameters and finds n power p. If either or is negative, then the 
+method must throw an exception which says "n or p should not be negative". Also, if 
+both and are zero, then the method must throw an exception which says "n or be should 
+not be zero".
+
+#### <br>Problem 13
+Write a Java program that uses multithreading to print even and odd numbers alternatively. 
+Create two threads: one to print even numbers along with their squres and another to print 
+odd numbers along with cubes. The program should print the numbers from 1 to 20 in the 
+following format:
+Thread-Even: 2 4
+Thread-Odd: 1 1
+Thread-Even: 4 16
+Thread-Odd: 3 27
+
+#### <br>Problem 14
+You are given pairs of strings. Two pairs (a, b) and(c, d) are identical if a=c and b=d . That 
+also implies (a, b) is not same as (b, a) . After taking each pair as input, you need to print 
+number of unique pairs you currently have(use HashSet).
+
+input:
+5
+john tom
+john mary
+john tom
+mary anna
+mary anna
+
+OUTPUT: 1 2 2 3 3
+
+#### <br>Problem 15
+Given a string of size ‘n’. The task is to remove or delete the minimum number of characters 
+from the string so that the resultant string is a palindrome.
+
+Input : aebcbda
+
+Output : 2
+Remove characters 'e' and 'd'
+Resultant string will be 'abcba'which is a palindromic string
+
+#### <br>Problem 16
+Print row wise sum of a Matrix.
+Example:
+Input: array[4][4] = { {1, 1, 1, 1}, 
+ {2, 2, 2, 2}, 
+{3, 3, 3, 3}, 
+{4, 4, 4, 4}};
+
+Output: Sum of the 0 row is = 4
+ Sum of the 1 row is = 8
+ Sum of the 2 row is = 12
+ Sum of the 3 row is = 16
+ 
 #### Online Resources
-1. https://leetcode.com/problems/rotate-array/
 
-2. https://leetcode.com/problems/count-primes/
-3. https://leetcode.com/problems/missing-element-in-sorted-array/
-4. https://leetcode.com/problems/range-sum-query-2d-immutable/
-5. https://www.hackerrank.com/challenges/the-birthday-bar/problem
-6. https://leetcode.com/problems/maximum-number-of-balloons/
-7. https://practice.geeksforgeeks.org/problems/the-painters-partition-problem1535/1
-8. https://leetcode.com/problems/longest-common-prefix/
+1.https://www.hackerrank.com/domains/java
 
+2.https://www.interviewbit.com/java-interview-questions/
 
-### Problems on Game Theory:
-1. Bulb Switcher problem.
+3.https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions4610/1
 
-2. Game of N stones where each player can remove 1, 3 or 4.
-3. Game of Nim.
-4. Find the winner in Nim game where a player fails if XOR of remaining elements is 0
-
-#### Online Resources
-1. https://leetcode.com/problems/bulb-switcher/
-
-2. https://www.hackerrank.com/challenges/game-of-stones-1/problem
-3. https://www.hackerrank.com/challenges/nim-game-1/problem
-4. https://practice.geeksforgeeks.org/problems/variation-in-nim-game4317/1
-5. https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1
-
-
-
-
-### Greedy Method
- Introduction, general method.
-
-#### Problems on Greedy Method:
-1. Activity Selection Problem.
-
-2. Connect N ropes with minimum cost.
-3. Fractional Knapsack.
-4. Dijkstra’s Shortest path
-
-#### Online Resources
-1. https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1
-
-2. https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
-3. https://leetcode.com/problems/maximum-units-on-a-truck/
-4. https://practice.geeksforgeeks.org/problems/minimum-cost-path3833/1
-
-
-
-
-### Dynamic Programming 
-Introduction, Memoization and Tabular Methods to store the 
-results.
-
-#### Problems on Dynamic Programming:
-1. n-stair problems.
-2. Domino/Tiling problem.
-3. Compute nCr.
-4. Longest increasing sub sequence.
-5. Maximum contiguous sub array/non- contiguous sub sequence sum.
-6. Maze with blockers.
-7. Maximum collected apples in a 2D maze.
-
-#### Online Resouces
-1. https://leetcode.com/problems/climbing-stairs/
-
-2. https://leetcode.com/problems/domino-and-tromino-tiling/
-3. https://practice.geeksforgeeks.org/problems/ncr1019/1
-4. https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1
-5. https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1
-6. https://leetcode.com/problems/unique-paths-ii/
-7. https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1
-
-### Graph Theory
-Graph terminology, Graph representation, Graph traversal techniques.
-
-#### Problems on Graph Theory :
-1. Check if there exists a path between 2 given nodes A and B of a graph.
-
-2. Detect Cycle in a Directed/Undirected Graph.
-3. Given an undirected graph, check if it's a tree.
-4. Find the number of islands considering neighborhood.
-5. Given an unweighted, undirected tree, find the length of the longest path in that 
-tree. The length of a path is the number of edges in that path.
-6. Given a snake and ladder board, find the minimum number of dice throws required 
-to reach the destination or last cell from source or I cell.
-
-#### Online Resources
-1. https://leetcode.com/problems/find-if-path-exists-in-graph/
-
-2. https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
-3. https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
-4. https://www.codingninjas.com/studio/problems/is-it-a-tree_630511
-5. https://leetcode.com/problems/number-of-islands/
-6. https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1
-
-### Priority Queues/Heaps 
-Introduction to Priority Queues, Heap, Implementation of Heaps.
-
-#### Problems on Priority Queues/Heaps:
-1. Given an array of integers, find k smallest elements in the array.
-
-2. Given an array of n integers, devise an algorithm to get median of the sub-array 0 to 
-i for ∀ i from 0 to n-1.
-3. Given an array of n elements, where each element is at most k away from its actual 
-position in the sorted version of the array (k-sorted array), devise an algorithm that
-sorts the given k-sorted array in O(n x log2(k)) time.
-4. Given a row and column wise sorted matrix of size n x n, print all elements in sorted
-order
-
-#### Online Resources
-1. https://practice.geeksforgeeks.org/problems/top-k-numbers3425/1
-
-2. https://practice.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1
-3. https://practice.geeksforgeeks.org/problems/nearly-sorted-1587115620/1
-4. https://www.codingninjas.com/studio/problems/sorted-matrix_758931
-
-
-
-### Tries
-Introduction to trie and its implementation.
-Problems on Tries:
-
-#### Problems on Tries :
-1. Design a spell-checker
-
-2. Build auto-complete word suggestion.
-3. Given a list of phone numbers, determine if it is consistent in the sense that no
-number is the prefix of another.
-4. Given an array of integers, we have to find two elements whose XOR is maximum.
-
-#### Online Resources
-1. https://practice.geeksforgeeks.org/problems/trie-insert-and-search0651/1
-
-2. https://practice.geeksforgeeks.org/problems/search-query-auto-complete/1
-3. https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
-4. https://practice.geeksforgeeks.org/problems/minimum-xor-value-pair/1
-5. https://practice.geeksforgeeks.org/problems/prefix-match-with-other-strings/1
-
-
-### References
-1. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed. Fundamentals of Data Structure in C. 2nd Edition. University Press, India, 2008.
-
-2. Reema Thareja. Data Structures Using C. 2nd Edition. Oxford University Press, New Delhi India,
-2014
-
-
-### Syllabus
-
-- **[Click Here](https://drive.google.com/file/d/18_q1e8feABMcCgCFd-y1vOPIWcYJmwtj/view?usp=sharing)**
+4.https://www.hackerrank.com/challenges/java-hashset/problem
