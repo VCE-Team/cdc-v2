@@ -25,9 +25,7 @@ type: "course"
 ---
 
 
-## About Course
-
-## Course Syllabus
+### About Course
 
 ### <br>Course Syllabus
 <br>
@@ -273,11 +271,11 @@ False
 
 #### Online Resources
 1.https://www.hackerrank.com
+
 2.https://leetcode.com › tag › linked-lis
 
 ### References
-1. Python Programming 2nd
- edition by Reema Thareja Publisher by Oxford University Press
+1. Python Programming 2nd edition by Reema Thareja Publisher by Oxford University Press
  
 2. Python Programming 3rd edition by John M Zelle publisher by Ingram short title
 
