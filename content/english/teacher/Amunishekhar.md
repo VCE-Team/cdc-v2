@@ -10,7 +10,7 @@ image: "images/teachers/MUNI-SHEKAR-200x200.jpg"
 # course
 course: "IT"
 # biography
-bio: "Dean-CDC and Proffesor"
+bio: "Dean-CDC and Professor"
 # interest
 interest: [""]
 # contact info
@@ -24,5 +24,5 @@ contact:
 type: "teacher"
 ---
 
-###### [CLICK HERE TO KNOW MORE](https://vardhaman.irins.org/profile/239989)
+##### [CLICK HERE TO KNOW MORE](https://vardhaman.irins.org/profile/239989)
 
