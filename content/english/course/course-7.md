@@ -1,5 +1,5 @@
 ---
-title: "Advanced Data Structures and Algorithms"
+title: " Python Programming"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -13,7 +13,7 @@ category: "Programming"
 # teacher
 teacher: "Devid Luis"
 # duration
-duration : "03 Years"
+duration : "1 Semester"
 # weekly
 weekly : "Will be Updated"
 # course fee
@@ -27,186 +27,258 @@ type: "course"
 
 ## About Course
 
-Advanced Data Structures and algorithms is a course for an engineering graduate to improve 
-the problem solving skills with the help of different Data Structures and algorithmic
-approaches. These methods can be used in decision making and optimization problems.
-Advanced Data Structures and algorithms course covers concepts to find strategies to win 
-games, finding best paths and cost, searching and matching of words . The course also
-includes fundamental terminology of non-linear data structures like Trees and Graphs which
-are especially used to handle large amount of data. The course will also enable the use of
-appropriate searching methods in handling collection of elements.
-
 ## Course Syllabus
 
-### Mixed Bag Problems:
+### <br>Course Syllabus
+<br>
 
-1. Rotate an array of size n in clockwise direction k times.
+### <br>Problems
 
-2. Prime Generator.
+#### <br>Problem 1
+ Given the meal price (base cost of a meal), tip percent (the percentage of the meal price 
+being added as tip), and tax percent (the percentage of the meal price being added as tax) 
+for a meal, find and print the meal’s total cost. Round the result to the nearest integer.
 
-3. Given a sorted array of n distinct integers where each integer is in the range from 0 
-to m-1 and m > n. Find the smallest number that is missing from the array.
+Sample Input
+12.00
+20
+8
 
-4. Calculate the sum of the elements of matrix inside the rectangle defined by its upper 
-left corner (row1, col1) and lower right corner (row2, col2).
+Sample Output
+15
 
-5. The birthday bar problem.
+#### <br>Problem 2
+Given set S = {1, 2, 3, . . . ,N}. Find two integers, A and B (where A < B), from set S such that 
+the value of A&B is the maximum possible and also less than a given integer, K. In this 
+case, & represents the bitwise AND operator.
 
-6. Given a string text, you want to use the characters of text to form as many instances 
-of the word “balloon” as possible.
+Sample Input
+3 
+5 2 
+8 5 
+2 2 
 
-7. Partition the line of filing cabinets into K sections so as to minimize the maximum 
-number of files a partition contains. E.g.: 10 20 30 40 50| 60 70 | 80 90 [N = 9, K = 3].
+Sample Output
+1
+4
+0
 
-8. Find Longest common prefix string amongst an array of strings.
+#### <br>Problem 3
+You will be given an integer n, and a threshold k. For each number i from 1 to n, find the 
+maximum value of logical and , or and xor when compared against all integers through n 
+that are greater than i. Consider a value only if the comparison returns a result less than k.
+
+Sample Input 0
+5 4
+
+Sample Output 0
+2
+3
+3
+
+#### <br>Problem 4
+  Complete the getGrade(score) function in the editor. It has one parameter: an integer, 
+score, denoting the number of points Julia earned on an exam. It must return the letter 
+corresponding to her grade according to the following:
+If 25 < score ≤30, then grade A
+If 20 < score ≤ 25, then grade B
+If 15 < score ≤ 20, then grade C
+If 10 < score ≤ 15, then grade D
+If 5 < score ≤ 10, then grade E
+If 0≤ score ≤5, then grade F.
+
+Sample Input 0
+ 11
+ 
+ Sample Output 0
+D
+
+#### <br>Problem 5
+Ramesh went to a bookshop to buy books. There is a list of books with their value and price. 
+Now Ramesh has limited money but he wants maximum value possible. Now there are 2 
+kinds of books, one is denoted with 1, that is independent, another one is denoted as 2, 
+which you have to buy in double, that means you can not buy a single or odd number of 
+those books. Print the maximum value Ramesh can extract from the books.
+
+Sample Input:
+5 20
+1 3 7 0
+3 9 10 1
+2 4 3 1
+7 3 2 0
+22 7 7 0
+
+Sample Output:
+20
+
+
+#### <br>Problem 6
+Given a string, S, of length N that is indexed from 0 to N-1, print its even indexed and oddindexed characters as two space-separated strings on a single line.
+
+Sample Input
+2
+Hacker
+Rank
+
+Sample Output
+Hce akr
+Rn ak
+
+#### <br>Problem 7
+   There is an id code that is supposed to be given to all the aspirants of an exam. It is actually a 
+substring of a given string. That means, the authority takes a string and then assigns all the 
+unique substrings to all the students.
+
+Sample Input: 
+Abdc
+
+Sample output: 
+dc
+
+#### <br>Problem 8
+  Raman was playing a game, he starts with x coins. Now in every step, he wins and loses and 
+he has to get the money or pay the money as needed. He came in contact with a psychic 
+who can see the future and the Psychic predicted the outcomes after each step. Now Raman 
+wants to start the game with the minimum wage where he doesn’t run out of money. Help 
+Raman to find what money he should start with. The only rule to keep playing is not going in 
+a credit situation.
+
+Sample Input:
+4
+2
+-9
+15
+2
+
+Sample Output:
+ 7
+
+#### <br>Problem 9
+   The user enters a string and a substring. You have to print the number of times that the 
+substring occurs in the given string. String traversal will take place from left to right, not 
+from right to left.
+
+**Input Format**
+The first line of input contains the original string. The next line contains the substring.
+
+**Constraints**
+1 <= len(string) <= 200
+Each character in the string is an ascii character.
+
+**Output Format**
+Output the integer number indicating the total number of occurrences of the substring in 
+the original string.
+
+Sample Input 0
+ABCDCDC
+CDC
+
+#### <br>Problem 10
+ Repeating Characters
+Problem Statement – Cod is given a string and he thinks the letters that are repeated do 
+have more power. He gathers only the repeating characters and keeps them as the most 
+powerful to least powerful manner. Now it is your turn to write a code that will help Codu to 
+do that.
+Note that: only lowercase alphabets are accepted in input.
+**Input Format:**
+A string in a single line
+
+**Output Format:**
+A string made of only the repeated characters as sorted their frequency reducin, if the same 
+the lower ascii value comes before.
+
+**Constraints:**
+Length of string<=10^5
+
+Sample Input:
+Abcdefghaabca
+
+Sample Output:
+abc
+
+
+#### <br>Problem 11
+ Amit is a salesman who wishes to know the maximum revenue received from a given item of 
+the N products each day . Amit has a sales record of N products for M days. Help Amit to find 
+the highest revenue received each day.
+Sample Testcases :
+Input:
+3 4
+ 101 123 234 344
+143 282 499 493
+283 493 202 304
+
+Output:
+344 499 493
+
+
+#### <br>Problem 12
+ You are in-charge of the cake for a child's birthday. You have decided the cake will have one 
+candle for each year of their total age. They will only be able to blow out the tallest of the 
+candles. Count how many candles are tallest.
+
+Sample Input 0
+4
+3 2 1 3
+
+Sample Output 0
+2
+
+
+#### <br>Problem 13
+ Given an array of distinct integers candidates and a target integer target, return a list of all 
+unique combinations of candidates where the chosen numbers sum to target. You may 
+return the combinations in any order. The same number may be chosen from candidates an 
+unlimited number of times. Two combinations are unique if the frequency of at least one of 
+the chosen numbers is different.
+
+Input: candidates = [2,3,6,7], target = 7
+
+Output: [[2,2,3],[7]]
+2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used multiple times.
+7 is a candidate, and 7 = 7.
+These are the only two combinations.
+
+Input: candidates = [2,3,5], target = 8
+
+Output: [[2,2,2,2],[2,3,3],[3,5]]
+
+Input: candidates = [2], target = 1
+
+Output: []
+
+#### <br>Problem 14
+You are given two sets, A and B. Your job is to find whether set A is a subset of set B. If 
+set A is subset of set B, print True, else print False.
+
+ Sample Input
+3
+5
+1 2 3 5 6
+9
+9 8 5 6 3 2 1 4 7
+ 1
+2
+5
+3 6 5 4 1
+7
+1 2 3 5 6 8 9
+3
+9 8 2
+
+Sample Output
+True 
+False
+False
 
 #### Online Resources
-1. https://leetcode.com/problems/rotate-array/
-
-2. https://leetcode.com/problems/count-primes/
-3. https://leetcode.com/problems/missing-element-in-sorted-array/
-4. https://leetcode.com/problems/range-sum-query-2d-immutable/
-5. https://www.hackerrank.com/challenges/the-birthday-bar/problem
-6. https://leetcode.com/problems/maximum-number-of-balloons/
-7. https://practice.geeksforgeeks.org/problems/the-painters-partition-problem1535/1
-8. https://leetcode.com/problems/longest-common-prefix/
-
-
-### Problems on Game Theory:
-1. Bulb Switcher problem.
-
-2. Game of N stones where each player can remove 1, 3 or 4.
-3. Game of Nim.
-4. Find the winner in Nim game where a player fails if XOR of remaining elements is 0
-
-#### Online Resources
-1. https://leetcode.com/problems/bulb-switcher/
-
-2. https://www.hackerrank.com/challenges/game-of-stones-1/problem
-3. https://www.hackerrank.com/challenges/nim-game-1/problem
-4. https://practice.geeksforgeeks.org/problems/variation-in-nim-game4317/1
-5. https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1
-
-
-
-
-### Greedy Method
- Introduction, general method.
-
-#### Problems on Greedy Method:
-1. Activity Selection Problem.
-
-2. Connect N ropes with minimum cost.
-3. Fractional Knapsack.
-4. Dijkstra’s Shortest path
-
-#### Online Resources
-1. https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1
-
-2. https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
-3. https://leetcode.com/problems/maximum-units-on-a-truck/
-4. https://practice.geeksforgeeks.org/problems/minimum-cost-path3833/1
-
-
-
-
-### Dynamic Programming 
-Introduction, Memoization and Tabular Methods to store the 
-results.
-
-#### Problems on Dynamic Programming:
-1. n-stair problems.
-2. Domino/Tiling problem.
-3. Compute nCr.
-4. Longest increasing sub sequence.
-5. Maximum contiguous sub array/non- contiguous sub sequence sum.
-6. Maze with blockers.
-7. Maximum collected apples in a 2D maze.
-
-#### Online Resouces
-1. https://leetcode.com/problems/climbing-stairs/
-
-2. https://leetcode.com/problems/domino-and-tromino-tiling/
-3. https://practice.geeksforgeeks.org/problems/ncr1019/1
-4. https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1
-5. https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1
-6. https://leetcode.com/problems/unique-paths-ii/
-7. https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1
-
-### Graph Theory
-Graph terminology, Graph representation, Graph traversal techniques.
-
-#### Problems on Graph Theory :
-1. Check if there exists a path between 2 given nodes A and B of a graph.
-
-2. Detect Cycle in a Directed/Undirected Graph.
-3. Given an undirected graph, check if it's a tree.
-4. Find the number of islands considering neighborhood.
-5. Given an unweighted, undirected tree, find the length of the longest path in that 
-tree. The length of a path is the number of edges in that path.
-6. Given a snake and ladder board, find the minimum number of dice throws required 
-to reach the destination or last cell from source or I cell.
-
-#### Online Resources
-1. https://leetcode.com/problems/find-if-path-exists-in-graph/
-
-2. https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
-3. https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
-4. https://www.codingninjas.com/studio/problems/is-it-a-tree_630511
-5. https://leetcode.com/problems/number-of-islands/
-6. https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1
-
-### Priority Queues/Heaps 
-Introduction to Priority Queues, Heap, Implementation of Heaps.
-
-#### Problems on Priority Queues/Heaps:
-1. Given an array of integers, find k smallest elements in the array.
-
-2. Given an array of n integers, devise an algorithm to get median of the sub-array 0 to 
-i for ∀ i from 0 to n-1.
-3. Given an array of n elements, where each element is at most k away from its actual 
-position in the sorted version of the array (k-sorted array), devise an algorithm that
-sorts the given k-sorted array in O(n x log2(k)) time.
-4. Given a row and column wise sorted matrix of size n x n, print all elements in sorted
-order
-
-#### Online Resources
-1. https://practice.geeksforgeeks.org/problems/top-k-numbers3425/1
-
-2. https://practice.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1
-3. https://practice.geeksforgeeks.org/problems/nearly-sorted-1587115620/1
-4. https://www.codingninjas.com/studio/problems/sorted-matrix_758931
-
-
-
-### Tries
-Introduction to trie and its implementation.
-Problems on Tries:
-
-#### Problems on Tries :
-1. Design a spell-checker
-
-2. Build auto-complete word suggestion.
-3. Given a list of phone numbers, determine if it is consistent in the sense that no
-number is the prefix of another.
-4. Given an array of integers, we have to find two elements whose XOR is maximum.
-
-#### Online Resources
-1. https://practice.geeksforgeeks.org/problems/trie-insert-and-search0651/1
-
-2. https://practice.geeksforgeeks.org/problems/search-query-auto-complete/1
-3. https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
-4. https://practice.geeksforgeeks.org/problems/minimum-xor-value-pair/1
-5. https://practice.geeksforgeeks.org/problems/prefix-match-with-other-strings/1
-
+1.https://www.hackerrank.com
+2.https://leetcode.com › tag › linked-lis
 
 ### References
-1. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed. Fundamentals of Data Structure in C. 2nd Edition. University Press, India, 2008.
+1. Python Programming 2nd
+ edition by Reema Thareja Publisher by Oxford University Press
+ 
+2. Python Programming 3rd edition by John M Zelle publisher by Ingram short title
 
-2. Reema Thareja. Data Structures Using C. 2nd Edition. Oxford University Press, New Delhi India,
-2014
 
-
-### Syllabus
-
-- **[Click Here](https://drive.google.com/file/d/18_q1e8feABMcCgCFd-y1vOPIWcYJmwtj/view?usp=sharing)**
