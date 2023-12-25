@@ -1,5 +1,5 @@
 ---
-title: ["Muralidher Mourya"](https://vardhaman.irins.org/profile/247937)
+title: "Muralidher Mourya"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -26,5 +26,6 @@ contact:
     link: "tel:#"
 # type
 type: "teacher"
+url: "https://vardhaman.irins.org/profile/247937"
 ---
 
