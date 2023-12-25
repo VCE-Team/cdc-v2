@@ -16,14 +16,10 @@ interest: [""]
 # contact info
 contact:
   # contact item loop
-  - name: "#"
+  - name: "Mail Me"
     icon: "ti-email" # icon pack : https://themify.me/themify-icons
     link: "mailto:#"
 
-  # contact item loop
-  - name: "#"
-    icon: "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link: "tel:#"
 # type
 type: "teacher"
 
