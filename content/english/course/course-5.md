@@ -13,7 +13,7 @@ category: "Programming"
 # teacher
 teacher: "Devid Luis"
 # duration
-duration : "03 Years"
+duration : "1 semester"
 # weekly
 weekly : "Will be Updated"
 # course fee
@@ -25,18 +25,18 @@ type: "course"
 ---
 
 
-## About Course
+### About Course
 
 This course is designed for individuals who are new to programming and want to master the C 
 Programming Language. The course aims to introduce the problem statements various coding platforms 
 such as Hackerrank, GeeksforGeeks, leetcode, etc and include concepts of operators, control structures, 
 functions, and arrays.
 
-## Course Syllabus
+### <br>Course Syllabus
 
-### Problems
+### <br>Problems
 
-#### Problem 1
+#### <br>Problem 1
   A positive integer is called a palindrome if its representation in the decimal system is the same when read from left to right and from right to left. For a given positive integer K of not more than 1000000 digits, write the value of the smallest palindrome larger than K to output. Numbers are always displayed without leading zeros.
 
 **Input Format**    
@@ -52,7 +52,7 @@ functions, and arrays.
     Output: 18
             2222
 
-#### Problem 2
+#### <br>Problem 2
 
 Print hollow diamond pattern using '*'. See examples for more 
 details.
@@ -76,7 +76,7 @@ details.
                        * * 
                         *   
  
-#### Problem 3
+#### <br>Problem 3
 Given 2 numbers, find their LCM and HCF.<br>
 Note: Do not use any inbuilt functions/libraries for your main logic.
 
@@ -107,7 +107,7 @@ separated by newline
             78
 
 
-#### Problem 4
+#### <br>Problem 4
   Given a number N, find the least palindromic number K, such 
 that K>N.
 
@@ -129,7 +129,7 @@ that K>N, separated by newline.
 
 
 
-#### Problem 5
+#### <br>Problem 5
   Given a number N, find the number of bits that are set to 1 in 
 its binary representation.
 
@@ -138,7 +138,7 @@ its binary representation.
     Output: 4
 
 
-#### Problem 6
+#### <br>Problem 6
   Given a number, check if it is a power of 2.
 
 **Input Format**    
@@ -161,7 +161,7 @@ line.
 
 
 
-#### Problem 7
+#### <br>Problem 7
   Given an array of size N, it contains all the numbers from 1 to 
 N+1 inclusive, except one number. You have to find the missing 
 number.
@@ -192,7 +192,7 @@ newline.
             9
 
 
-#### Problem 8
+#### <br>Problem 8
   Given two numbers X and Y, find the number whose binary 
 representation has X 1's followed by Y 0's.
 
@@ -201,7 +201,7 @@ representation has X 1's followed by Y 0's.
     Output: 120
 
 
-#### Problem 9
+#### <br>Problem 9
   You are given two numbers A and B. Write a program to count 
 the number of bits to be flipped to change the number A to the 
 number B. Flipping a bit of a number means changing a bit from 
@@ -212,7 +212,7 @@ number B. Flipping a bit of a number means changing a bit from
     Output: 4
 
 
-#### Problem 10
+#### <br>Problem 10
   Given 2 numbers - a and b, evaluate ab.
 Note: Do not use any inbuilt functions/libraries for your main 
 logic.
@@ -222,7 +222,7 @@ logic.
     Output: 24
 
 
-#### Problem 11
+#### <br>Problem 11
   Given an array of unique integer elements, print all the subsets 
 of the given array in lexicographical order.
 
@@ -237,7 +237,7 @@ of the given array in lexicographical order.
             15
 
 
-#### Problem 12
+#### <br>Problem 12
   Given an array of size 3X+1, where every element occurs three 
 times, except one element, which occurs only once. Find the 
 element that occurs only once.
@@ -247,7 +247,7 @@ element that occurs only once.
     Output: 9
 
 
-#### Problem 13
+#### <br>Problem 13
   The Tower of Hanoi (also called the Tower of Brahma or Lucas') 
 is a mathematical game or puzzle. It consists of three rods, and 
 a number of disks of different sizes which can slide onto any 
@@ -295,7 +295,7 @@ actual moves.<br>
 
 
 
-### References
+### <br>References
 1. Yeshvanth Kanethkar., Let Us C, 5th Edition, BPB Publications , New Delhi, 2017.
 
 2. B.A. Forouzan and R.F. Gilberg, Computer Science: A Structured Programming Approach 
@@ -318,4 +318,4 @@ HILL Edition, 2018.
 
 ### Syllabus
 
-- **[Click here to view](https://drive.google.com/file/d/1uNj0dvS_ZXk4Llg5XJ9M8wb9RmPcN_5_/view?usp=sharing)**
+- **[Click here to view](#)**
