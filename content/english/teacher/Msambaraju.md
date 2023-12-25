@@ -1,16 +1,16 @@
 ---
-title: "Shaik Khaleel"
-draft: true
+title: "M. Sambaraju"
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Lecturer in Chemistry"
+description: "Guest Trainer"
 # teacher portrait
-image: "images/teachers/male-staff-avatar.jpg"
+image: "images/teachers/Samba-raj-200x160 (1).jpeg"
 # course
-course: "Chemistry"
+course: "CDC"
 # biography
-bio: "Lecturer"
+bio: "Guest Trainer"
 # interest
 interest: [""]
 # contact info
@@ -18,17 +18,15 @@ contact:
   # contact item loop
   - name: "#"
     icon: "ti-email" # icon pack : https://themify.me/themify-icons
-    link: "mailto:#"
+    link: "#"
 
   # contact item loop
   - name: "#"
     icon: "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link: "tel:#"
+    link: "#"
 
 # type
 type: "teacher"
 ---
 
 ### About Me
-
-Mr. Shaik Khaleel has deputed as Lecturer in Chemistry for Government Polytechnic College, Maheshwaram, Telangana. He previously worked at JNGPT, Ramanthapur, Hyderabad, Telangana
