@@ -25,16 +25,16 @@ type: "course"
 ---
 
 
-# About Course
+### <br>About Course
 
 
-## Course Syllabus
+### <br>Course Syllabus
 
-### Complexity analysis of Algorithms
+#### <br>Complexity analysis of Algorithms
 Algorithm definition, time complexity and space 
 complexity, examples on finding complexity.
 
-#### Practice Problems on Frequency logic
+##### <br>Practice Problems on Frequency logic
 1. **[Print the frequency count of array elements](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1)**
 1. **[Print the not-repeated elements of array elements](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)**
 1. **[Find the missing number in an unsorted array](https://leetcode.com/problems/missing-number/)**
@@ -42,10 +42,10 @@ complexity, examples on finding complexity.
 1. **[Given a string, find the first repeated character in it](https://practice.geeksforgeeks.org/problems/find-first-repeated-character4108/1)**
 1. **[Super ascii string checker]()**
 
-### Recursion/Back Tracking
+#### <br>Recursion/Back Tracking
 Definition, understanding base case and general case, recurrence relations, masters theorem.
 
-#### Practice Problems on Recursion/ Backtracking
+##### <br>Practice Problems on Recursion/ Backtracking
 1. **[Print moves in Towers of Hanoi  problem](https://www.hackerrank.com/contests/launchpad-1-winter-challenge/challenges/shift-plates)**
 1. **[find nth Fibonacci number](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem)**
 1. **[Find factorial of a number](https://www.hackerrank.com/contests/c-programming-test/challenges/finding-factorial-of-n-number/problem)**
@@ -56,20 +56,20 @@ Definition, understanding base case and general case, recurrence relations, mast
 1. **[Word break problem](https://leetcode.com/problems/word-break/)**
 1. **[Remove invalid parenthesis](https://leetcode.com/problems/remove-invalid-parentheses/)**
 
-### Sorting algorithms
+#### <br>Sorting algorithms
 Bubble sort, insertion sort, quick sort, merge sort, counting sort
 
-#### Practice Problems on sorting
+##### <br>Practice Problems on sorting
 1. **[Winner in election](https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1)**
 1. **[Count inversions in an array](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)**
 1. **[Sort an array of 0’s and 1’s(Duch flag)](https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1)**
 1. **[Find median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)**
 1. **[Find the Minimum length Unsorted Subarray, sorting which makes complete array sorted](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)**
 
-### Searching algorithms
+#### <br>Searching algorithms
 Linear Search, Binary search, Ternary Search
 
-#### Practice Problems on Searching
+##### <br>Practice Problems on Searching
 1. **[Find ceil and floor in sorted array](https://practice.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)**
 1. **[Find square root of real number](https://leetcode.com/problems/sqrtx/)**
 1. **[Find single element in sorted array where remaining elements occurs twice](https://leetcode.com/problems/single-element-in-a-sorted-array/)**
@@ -83,6 +83,6 @@ Linear Search, Binary search, Ternary Search
 
 
 
-### Syllabus
+### <br>Syllabus
 
-- **[Click here to download](https://drive.google.com/file/d/12oLZgVGyKw5n2XimE3cZWSpBIMTrHXFq/view?usp=sharing)**
+- **[Click here to view](https://drive.google.com/file/d/12oLZgVGyKw5n2XimE3cZWSpBIMTrHXFq/view?usp=sharing)**
