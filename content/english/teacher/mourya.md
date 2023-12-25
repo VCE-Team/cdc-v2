@@ -4,13 +4,13 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Trainer"
+description: "Assistant Professor"
 # teacher portrait
 image: "images/teachers/Maurya-Muralidhar-200x200.png"
 # course
-course: "CDC"
+course: "CSE"
 # biography
-bio: "Lecturer"
+bio: "Assistant Professor"
 # interest
 interest: [""]
 # contact info
