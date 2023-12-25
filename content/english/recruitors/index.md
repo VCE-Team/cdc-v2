@@ -1,11 +1,18 @@
 ---
 title: "Recruitors"
 description : "Our Major Recritors"
+draft: false
+# page title background image
+bg_image: "images/backgrounds/page-title.jpg"
+# image
+image: "images/committee/committee-page.jpg"
 ---
+
+### PLACEMENT AND TRAINING CENTRE (ACADEMIC YEAR: 2022- 2023)									
 
 
 | S No.  | Name of the Company                        | CSE | IT  | ECE | EEE | MECH | CIVIL | TOTAL | SALARY PER ANNUM |
-|-----------|----------------------------------------------|--------|--------|--------|---------|----------|----------|-------------|---------------------|
+|--------|--------------------------------------------|-----|-----|-----|-----|------|-------|-------|------------------|
 | 1      | Infosys(InfyTQ)                            | 26  | 5   | 3   | 0   | NA   | NA    | 34    | 360000           |
 | 3      | TCS Codevita                               | 9   | 0   | 1   | 0   | NA   | NA    | 10    | 336877           |
 | 4      | Concentrix Catalyst                        | 25  | 4   | 9   | NA  | NA   | NA    | 38    | 800000           |
@@ -109,3 +116,24 @@ description : "Our Major Recritors"
 | 103    | Ryan India Tax Services Private Limited    | MBA |     |     |     |      |       | 5     | 462000           |
 | 104    | Sai Life Science Limited                   | MBA |     |     |     |      |       | 1     | 216000           |
 | Total  |                                            | 530 | 230 | 383 | 201 | 137  | 27    | 1556  | 620345           |
+
+
+### Summary							
+
+| Branch                                          | CSE         | IT          | ECE         | EEE         | MECH        | CIVIL       | TOTAL       |
+|-------------------------------------------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| Total Batch Size                                | 263         | 130         | 265         | 131         | 126         | 73          | 988         |
+| Total PAT Registred Students                    | 213         | 113         | 212         | 104         | 75          | 11          | 728         |
+| Multiple Offers                                 | 530         | 230         | 383         | 201         | 137         | 27          | 1508        |
+| UNIQUE OFFERS                                   | 175         | 86          | 176         | 94          | 77          | 18          | 626         |
+| Percentage of Multiple Offers                   | 248.83      | 203.54      | 180.66      | 193.27      | 182.67      | 245.4545455 | 213.74      |
+| Percentage of Unique Offers                     | 82.16       | 76.11       | 83.02       | 90.38       | 102.67      | 163.6363636 | 85.99       |
+| Percentage of Unique Offers On Total Batch Size | 66.53992395 | 66.15384615 | 66.41509434 | 71.75572519 | 61.11111111 | 24.65753425 | 63.36032389 |
+
+
+### Salary
+
+| Minimum Salary | 200000  |
+|----------------|---------|
+| Maximum Salary | 3387000 |
+| Average Salary | 620345  |
