@@ -26,6 +26,8 @@ contact:
     link: "tel:#"
 # type
 type: "teacher"
+
 url = "//vardhaman.irins.org/profile/247937"
+
 ---
 
