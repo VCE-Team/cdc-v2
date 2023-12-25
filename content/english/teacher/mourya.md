@@ -27,7 +27,5 @@ contact:
 # type
 type: "teacher"
 
-url = "https://vardhaman.irins.org/profile/247937"
-
 ---
-
+## [Click here to Know About Me](https://vardhaman.irins.org/profile/247937)
