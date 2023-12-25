@@ -85,4 +85,4 @@ Linear Search, Binary search, Ternary Search
 
 ### Syllabus
 
-- **[Click here](https://drive.google.com/file/d/1BIdzZdYtY-NHKxNshKLJj9rtk45puWWp/view?usp=sharing)**
+- **[Click here to download](https://drive.google.com/file/d/12oLZgVGyKw5n2XimE3cZWSpBIMTrHXFq/view?usp=sharing)**

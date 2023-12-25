@@ -166,4 +166,4 @@ Introduction to trees, tree terminology, implementation of BST.
 
 ### Syllabus
 
-- **[Click here](https://drive.google.com/file/d/1uNj0dvS_ZXk4Llg5XJ9M8wb9RmPcN_5_/view?usp=sharing)**
+- **[Click here to download](https://drive.google.com/file/d/1YjJm5pebWsvh3lT-YKg5niCDuhrkMxAB/view?usp=sharing)**
