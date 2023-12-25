@@ -1,6 +1,6 @@
 ---
 title: "Recruitors"
-description : "Our major recritors"
+description : "Our Major Recritors"
 ---
 
 
