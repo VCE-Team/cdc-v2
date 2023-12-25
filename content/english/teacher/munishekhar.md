@@ -8,26 +8,21 @@ description: "Dean-CDC"
 # teacher portrait
 image: "images/teachers/MUNI-SHEKAR-200x200.jpg"
 # course
-course: "CDC"
+course: "IT"
 # biography
-bio: "Head of Section"
+bio: "Dean-CDC and Proffesor"
 # interest
 interest: [""]
 # contact info
 contact:
   # contact item loop
-  - name: "#"
+  - name: "Mail Me"
     icon: "ti-email" # icon pack : https://themify.me/themify-icons
     link: "mailto:#"
-
-  # contact item loop
-  - name: "-"
-    icon: "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link: "tel:#"
 
 # type
 type: "teacher"
 ---
 
-### About Me
+###### [CLICK HERE TO KNOW MORE](https://vardhaman.irins.org/profile/239989)
 
