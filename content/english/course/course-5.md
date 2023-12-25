@@ -33,6 +33,7 @@ such as Hackerrank, GeeksforGeeks, leetcode, etc and include concepts of operato
 functions, and arrays.
 
 ### <br>Course Syllabus
+<br>
 
 ### <br>Problems
 
