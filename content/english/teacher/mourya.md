@@ -24,10 +24,8 @@ contact:
   - name: "#"
     icon: "ti-mobile" # icon pack : https://themify.me/themify-icons
     link: "tel:#"
-link: https://vardhaman.irins.org/profile/247937
+link: "https://vardhaman.irins.org/profile/247937"
 # type
 type: "teacher"
 ---
-
-### [About Me](https://vardhaman.irins.org/profile/247937)
 
