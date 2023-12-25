@@ -1,5 +1,5 @@
 ---
-title: "Advanced Data Structures and Algorithms"
+title: "Data Structures"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -25,188 +25,135 @@ type: "course"
 ---
 
 
-## About Course
+### About Course
 
-Advanced Data Structures and algorithms is a course for an engineering graduate to improve 
-the problem solving skills with the help of different Data Structures and algorithmic
-approaches. These methods can be used in decision making and optimization problems.
-Advanced Data Structures and algorithms course covers concepts to find strategies to win 
-games, finding best paths and cost, searching and matching of words . The course also
-includes fundamental terminology of non-linear data structures like Trees and Graphs which
-are especially used to handle large amount of data. The course will also enable the use of
-appropriate searching methods in handling collection of elements.
+This course provides Problem Solving skills as required by companies for Campus Recruitment 
+and also for other Competitive exams. The contents of this course include analyzing and solving the 
+problem, basic methodology in programming, problem solving skills etc…
 
-## Course Syllabus
+### <br>Course Syllabus
 
-### Mixed Bag Problems:
+### <br>Sorting
 
-1. Rotate an array of size n in clockwise direction k times.
+#### <br>Problem 1
+  Sort elements by their frequency and index:
+Given an integer array, sort its element by their frequency and index. i.e., if two elements have 
+different frequencies, then the one which has more frequency should come first; otherwise, the 
+one which has less index should come first.
 
-2. Prime Generator.
+    Input: [3, 3, 1, 1, 1, 8, 3, 6, 8, 7, 8]
+    
+    Output:  [3, 3, 3, 1, 1, 1, 8, 8, 8, 6, 7]
 
-3. Given a sorted array of n distinct integers where each integer is in the range from 0 
-to m-1 and m > n. Find the smallest number that is missing from the array.
+#### <br>Problem 2
+  Find the largest number possible from a set of given numbers where the numbers append to 
+each other in any order to form the largest number
 
-4. Calculate the sum of the elements of matrix inside the rectangle defined by its upper 
-left corner (row1, col1) and lower right corner (row2, col2).
+    Input:  { 10, 68, 75, 7, 21, 12 }
 
-5. The birthday bar problem.
+    Output:  77568211210
 
-6. Given a string text, you want to use the characters of text to form as many instances 
-of the word “balloon” as possible.
+### Searching
 
-7. Partition the line of filing cabinets into K sections so as to minimize the maximum 
-number of files a partition contains. E.g.: 10 20 30 40 50| 60 70 | 80 90 [N = 9, K = 3].
+#### <br>Problem 1
+  Given a sorted array ar[] and a target value, return the index of the first element in the array, 
+which is greater than or equal to the target value, i.e., findthe ceil of the given target in ar[].
 
-8. Find Longest common prefix string amongst an array of strings.
-
-#### Online Resources
-1. https://leetcode.com/problems/rotate-array/
-
-2. https://leetcode.com/problems/count-primes/
-3. https://leetcode.com/problems/missing-element-in-sorted-array/
-4. https://leetcode.com/problems/range-sum-query-2d-immutable/
-5. https://www.hackerrank.com/challenges/the-birthday-bar/problem
-6. https://leetcode.com/problems/maximum-number-of-balloons/
-7. https://practice.geeksforgeeks.org/problems/the-painters-partition-problem1535/1
-8. https://leetcode.com/problems/longest-common-prefix/
+#### <br>Problem 2
+ Given an array of sorted integers which represent box sizes and an integer representing an item
+size, find best fit box for the item, say ar=[1,2,5,6,8,9,15, 18, 20]and size=7, we should return 8
+as outcome.
 
 
-### Problems on Game Theory:
-1. Bulb Switcher problem.
+### Stack
 
-2. Game of N stones where each player can remove 1, 3 or 4.
-3. Game of Nim.
-4. Find the winner in Nim game where a player fails if XOR of remaining elements is 0
+#### <br>Problem 1
+ Implement two stacks in a single array.
 
-#### Online Resources
-1. https://leetcode.com/problems/bulb-switcher/
+#### <br>Problem 2
+ Design a data structure for peek(), push(), pop() and getMin() operations. Make sure that all the 
+mentioned operations take only O(1) time to execute.
 
-2. https://www.hackerrank.com/challenges/game-of-stones-1/problem
-3. https://www.hackerrank.com/challenges/nim-game-1/problem
-4. https://practice.geeksforgeeks.org/problems/variation-in-nim-game4317/1
-5. https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1
+### Queue
 
+#### <br>Problem 1 
+ Implement a queue using stack data structure 
 
-
-
-### Greedy Method
- Introduction, general method.
-
-#### Problems on Greedy Method:
-1. Activity Selection Problem.
-
-2. Connect N ropes with minimum cost.
-3. Fractional Knapsack.
-4. Dijkstra’s Shortest path
-
-#### Online Resources
-1. https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1
-
-2. https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
-3. https://leetcode.com/problems/maximum-units-on-a-truck/
-4. https://practice.geeksforgeeks.org/problems/minimum-cost-path3833/1
+#### <br>Problem 2
+Design a Queue Data Structure ,which supports following operations enque, deque, and 
+getMin() which takes O(1) time complexity.
 
 
+### Linked List
+
+#### <br>Problem 1
+ Reverse a singly linked list – Iterative and Recursive.
+
+    Input:  6->20->3->14->5->NULL
+    
+    Output:  5->14->3->20->6->NULL
+
+#### <br>Problem 2
+Find the midpoint of a linked-list.
+
+    Input:  1->2->3->4->5->NULL
+    
+    Output:  3
+If there are even nodes, then there would be two middle nodes, we need to print the second 
+middle element.
+
+    Input:  1->2->3->4->5->6 ->NULL
+    
+    Output:  4
+    
+#### <br>Problem 3
+ Reverse second half of singly linked list
+
+    Input:  6->20->3->14->5->NULL
+    
+    Output:  6->20->3->5->14->NULL
 
 
-### Dynamic Programming 
-Introduction, Memoization and Tabular Methods to store the 
-results.
+### Trees
 
-#### Problems on Dynamic Programming:
-1. n-stair problems.
-2. Domino/Tiling problem.
-3. Compute nCr.
-4. Longest increasing sub sequence.
-5. Maximum contiguous sub array/non- contiguous sub sequence sum.
-6. Maze with blockers.
-7. Maximum collected apples in a 2D maze.
+#### <br>Problem 1
+ Convert a Binary Tree into its Mirror Tree.<br>
+Mirror of a Tree: Mirror of a Binary Tree T is another Binary Tree M(T) with left and right 
+children of all non-leaf nodes interchanged.
 
-#### Online Resouces
-1. https://leetcode.com/problems/climbing-stairs/
-
-2. https://leetcode.com/problems/domino-and-tromino-tiling/
-3. https://practice.geeksforgeeks.org/problems/ncr1019/1
-4. https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1
-5. https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1
-6. https://leetcode.com/problems/unique-paths-ii/
-7. https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1
-
-### Graph Theory
-Graph terminology, Graph representation, Graph traversal techniques.
-
-#### Problems on Graph Theory :
-1. Check if there exists a path between 2 given nodes A and B of a graph.
-
-2. Detect Cycle in a Directed/Undirected Graph.
-3. Given an undirected graph, check if it's a tree.
-4. Find the number of islands considering neighborhood.
-5. Given an unweighted, undirected tree, find the length of the longest path in that 
-tree. The length of a path is the number of edges in that path.
-6. Given a snake and ladder board, find the minimum number of dice throws required 
-to reach the destination or last cell from source or I cell.
-
-#### Online Resources
-1. https://leetcode.com/problems/find-if-path-exists-in-graph/
-
-2. https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
-3. https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
-4. https://www.codingninjas.com/studio/problems/is-it-a-tree_630511
-5. https://leetcode.com/problems/number-of-islands/
-6. https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1
-
-### Priority Queues/Heaps 
-Introduction to Priority Queues, Heap, Implementation of Heaps.
-
-#### Problems on Priority Queues/Heaps:
-1. Given an array of integers, find k smallest elements in the array.
-
-2. Given an array of n integers, devise an algorithm to get median of the sub-array 0 to 
-i for ∀ i from 0 to n-1.
-3. Given an array of n elements, where each element is at most k away from its actual 
-position in the sorted version of the array (k-sorted array), devise an algorithm that
-sorts the given k-sorted array in O(n x log2(k)) time.
-4. Given a row and column wise sorted matrix of size n x n, print all elements in sorted
-order
-
-#### Online Resources
-1. https://practice.geeksforgeeks.org/problems/top-k-numbers3425/1
-
-2. https://practice.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1
-3. https://practice.geeksforgeeks.org/problems/nearly-sorted-1587115620/1
-4. https://www.codingninjas.com/studio/problems/sorted-matrix_758931
+#### <br>Problem 2
+Print Left View of a Binary Tree<br>
+Given a Binary Tree, print left view of it. Left view of a Binary Tree is set of nodes visible when 
+tree is visited from left side.
 
 
+### Graphs
 
-### Tries
-Introduction to trie and its implementation.
-Problems on Tries:
+#### Problem 1
+Topological sorting using dfs.
 
-#### Problems on Tries :
-1. Design a spell-checker
-
-2. Build auto-complete word suggestion.
-3. Given a list of phone numbers, determine if it is consistent in the sense that no
-number is the prefix of another.
-4. Given an array of integers, we have to find two elements whose XOR is maximum.
-
-#### Online Resources
-1. https://practice.geeksforgeeks.org/problems/trie-insert-and-search0651/1
-
-2. https://practice.geeksforgeeks.org/problems/search-query-auto-complete/1
-3. https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
-4. https://practice.geeksforgeeks.org/problems/minimum-xor-value-pair/1
-5. https://practice.geeksforgeeks.org/problems/prefix-match-with-other-strings/1
+#### Problem 2
+Detect a cycle in a directed graph/ undirected graph.
 
 
-### References
-1. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed. Fundamentals of Data Structure in C. 2nd Edition. University Press, India, 2008.
+### Books and Materials
 
-2. Reema Thareja. Data Structures Using C. 2nd Edition. Oxford University Press, New Delhi India,
-2014
+**Text Books:**
+1. Reema Thareja., Data Structures Using C, 2
+nd Edition, Oxford University Press, NewDelhi
+India, 2014.
+
+**Reference Books:**
+1. Samanta Debasis., Classic Data Structures, 2nd Edition, Prentice Hall of India, NewDelhi,
+India, 2012.
+
+2. Ellis Horowitz., SartajSahni, Susan Anderson-Freed., Fundamentals of Data Structurein C, 2nd Edition University Press, India, 2008.
 
 
-### Syllabus
+### Online Resources
 
-- **[Click Here](https://drive.google.com/file/d/18_q1e8feABMcCgCFd-y1vOPIWcYJmwtj/view?usp=sharing)**
+1. https://sonucgn.files.wordpress.com/2018/01/data-structures-by-d-samantha.pdf
+
+2. https://caucse.club/wp-content/uploads/2022/05/Fundamentals-of-Data-Structures-in-C-EllisHorowitz-Sartaj-Sahni-etc.-.pdf
+3. https://www.mygreatlearning.com/blog/data-structures-using-c/
+4. https://www.youtube.com/watch?v=Db9ZYbJONHc
