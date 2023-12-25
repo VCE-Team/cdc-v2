@@ -3,8 +3,7 @@ title: "Recruitors"
 description : "Our major recritors"
 ---
 
-| PLACEMENT AND TRAINING CENTRE (ACADEMIC YEAR: 2022- 2023) |
-| --------------------------------------------------------- |
+
 | S No.                                                     | Name of the Company | CSE | IT | ECE | EEE | MECH | CIVIL | TOTAL | SALARY PER ANNUM |
 | 1                                                         | Infosys(InfyTQ) | 26 | 5 | 3 | 0 | NA | NA | 34 | 360000 |
 | 3                                                         | TCS Codevita | 9 | 0 | 1 | 0 | NA | NA | 10 | 336877 |
