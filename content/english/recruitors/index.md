@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # image
-image: "images/committee/committee-page.jpg"
+#image: "images/committee/committee-page.jpg"
 ---
 
 ### PLACEMENT AND TRAINING CENTRE (ACADEMIC YEAR: 2022- 2023)									
