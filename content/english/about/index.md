@@ -20,9 +20,9 @@ Provide transformative education, empowering individuals and organization to ach
 
 ##### Mission
 
-  - Provide high quality and relevant training programs that inspire lifelong learning and personal growth.
+  * Provide high quality and relevant training programs that inspire lifelong learning and personal growth.
 
-  - Equip individuals with the knowledge, skills and confidence to excel in their chosen field
+  * Equip individuals with the knowledge, skills and confidence to excel in their chosen field
 
 ##### Objectives
 
