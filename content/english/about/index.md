@@ -14,33 +14,33 @@ description : "The CDC department aims to enhance and upskill your skils and bri
 
 Career Development Cell (CDC) works to help the students understand the variety of career options they have and help them prepare better to make the best out of the opportunities. CDC is making constant efforts to help the students of Vardhaman College of Engineering in every aspect of skill development and career progression ranging from Placements, Internships, Competitive Exams and Higher Studies.
 
-**Vision**
+##### Vision
 
 Provide transformative education, empowering individuals and organization to achieve their full potentials.
 
-**Mission**
+##### Mission
 
-1.Provide high quality and relevant training programs that inspire lifelong learning and personal growth.
+  - Provide high quality and relevant training programs that inspire lifelong learning and personal growth.
 
-2.Equip individuals with the knowledge, skills and confidence to excel in their chosen field
+  - Equip individuals with the knowledge, skills and confidence to excel in their chosen field
 
-**Objectives**
+##### Objectives
 
-1.To Produce industry ready graduates and bridge the gap between industry and academia.
+  - To Produce industry ready graduates and bridge the gap between industry and academia.
 
-2.To develop Intrapersonal and Interpersonal Skills among students.
+  - To develop Intrapersonal and Interpersonal Skills among students.
 
-3.To Assess current level of student skill set and transform them into competent working-professionals.
+  -  To Assess current level of student skill set and transform them into competent working-professionals.
 
 **Principles of CDC**
 
-1.Slow progress.
+  - Slow progress.
 
-2.Make Notes & Revise.
+  - Make Notes & Revise.
 
-3.Ask Doubts.
+  - Ask Doubts.
 
-4.Assignments- 1 to 2 hrs/day.
+  - Assignments- 1 to 2 hrs/day.
 
-5.Practice 
+  - Practice 
 
