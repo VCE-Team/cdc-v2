@@ -121,7 +121,6 @@ image: "images/committee/committee-page.jpg"
 
 <br>
 
-
 ### <br>Salary
 
 | Minimum Salary | 200000  |
