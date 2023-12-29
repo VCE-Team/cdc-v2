@@ -119,12 +119,12 @@ image: "images/committee/committee-page.jpg"
 
 
 
+<br>
 
 
+### <br>Salary
 
-### Salary
-
-| Minimum Salary         | 200000         |
+| Minimum Salary | 200000  |
 |----------------|---------|
 | Maximum Salary | 3387000 |
 | Average Salary | 620345  |
