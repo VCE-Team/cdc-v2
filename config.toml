@@ -143,9 +143,20 @@ url = "contact/"
 weight = 6
 
 [[Languages.en.menu.main]]
-name = "Recruitors"
-url = "recruitors/"
+name = "Campus Training"
 weight = 7
+
+[[Languages.en.menu.dropdown]]
+name= "Our Recruitors"
+url= "#"
+
+[[Languages.en.menu.dropdown]]
+name= "Previous Questions"
+url= "#"
+
+[[Languages.en.menu.dropdown]]
+name= "Career Paths"
+url= "#"
 
 # footer menu
 
