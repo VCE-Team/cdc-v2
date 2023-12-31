@@ -20,7 +20,7 @@ contact:
     icon: "ti-email" # icon pack : https://themify.me/themify-icons
     link: "mailto:#"
 
-  - name : "Know more"
+  - name : "Know more about me"
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : "#"
 
