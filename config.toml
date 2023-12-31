@@ -142,7 +142,7 @@ name = "Contact"
 url = "contact/"
 weight = 7
 
-[[Languages.en.menu.main.dropdown]]
+[[Languages.en.menu.main]]
 name = "Campus Training"
 weight = 5
 
