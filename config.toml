@@ -160,7 +160,7 @@ url= "#"
 [[Languages.en.menu.main]]
 parent = "Campus Training"
 name= "Career Paths"
-url= "#"
+url= "career paths/"
 
 # footer menu
 
