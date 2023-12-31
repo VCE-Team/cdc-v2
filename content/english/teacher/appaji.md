@@ -22,7 +22,7 @@ contact:
 
   - name : "Know more about me"
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://vardhaman.irins.org/profile/295432"
 
 # type
 type: "teacher"
