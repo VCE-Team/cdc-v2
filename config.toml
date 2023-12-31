@@ -142,20 +142,23 @@ name = "Contact"
 url = "contact/"
 weight = 7
 
-[[Languages.en.menu.main.HasChildren]]
+[[Languages.en.menu.main]]
 name = "Campus Training"
+HasChildren = true
 weight = 5
 
-
-[[Languages.en.menu.Children]]
+[[Languages.en.menu.main]]
+parent = "Campus Training"
 name= "Our Recruitors"
 url= "recruitors/"
 
-[[Languages.en.menu.Children]]
+[[Languages.en.menu.main]]
+parent = "Campus Training"
 name= "Previous Questions"
 url= "#"
 
-[[Languages.en.menu.Children]]
+[[Languages.en.menu.main]]
+parent = "Campus Training"
 name= "Career Paths"
 url= "#"
 
