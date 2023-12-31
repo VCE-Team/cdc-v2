@@ -3,6 +3,9 @@ title: "Carrer Paths"
 draft: false
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""
+
+---
+
 ##### SOFTWARE DEVELOPER/PROGRAMMER
 
 image: images/career_paths/programmer.jpg
@@ -38,5 +41,3 @@ image: images/career_paths/cyber_analyst.jpg
 ##### CLOUD SUPPORT ENGINEER
 
 image: images/career_paths/cloud_engineer.jpg
-
----
