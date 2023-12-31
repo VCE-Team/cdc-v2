@@ -135,15 +135,17 @@ weight = 4
 [[Languages.en.menu.main]]
 name = "Gallery"
 url = "gallery2/"
-weight = 5
+weight = 6
     
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 6
+weight = 7
 
 [[Languages.en.menu.main.dropdown]]
 name = "Campus Training"
+weight = 5
+
 
 [[Languages.en.menu.dropdown]]
 name= "Our Recruitors"
