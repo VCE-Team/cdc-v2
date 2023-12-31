@@ -1,5 +1,5 @@
 ---
-title: "Recruitors"
+title: "Campus Training"
 description : "Our Major Recritors"
 draft: false
 # page title background image
