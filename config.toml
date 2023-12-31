@@ -142,8 +142,9 @@ name = "Contact"
 url = "contact/"
 weight = 6
 
-[[Languages.en.menu.main]]
+[[Languages.en.menu.main.dropdown]]
 name = "Campus Training"
+url= "campus-training/"
 weight = 7
 
 [[Languages.en.menu.dropdown]]
