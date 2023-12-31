@@ -144,11 +144,11 @@ weight = 6
 
 [[Languages.en.menu.main.dropdown]]
 name = "Campus Training"
-weight = 7
+
 
 [[Languages.en.menu.dropdown]]
 name= "Our Recruitors"
-url= "#"
+url= "recruitors/"
 
 [[Languages.en.menu.dropdown]]
 name= "Previous Questions"
