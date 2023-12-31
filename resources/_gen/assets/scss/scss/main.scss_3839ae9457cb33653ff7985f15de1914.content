@@ -409,6 +409,7 @@ textarea.form-control {
 .content table {
   text-align: left;
   width: 100%;
+  max-width: 100%;
   margin-bottom: 1rem;
   border: 1px solid #dee2e6; }
   .content table th,
