@@ -6,9 +6,7 @@ description: ""
 
 ---
 
-##### SOFTWARE DEVELOPER/PROGRAMMER
-
-image: images/career_paths/programmer.jpg
+ ##### ![SOFTWARE DEVELOPER/PROGRAMMER](images/career_paths/programmer.jpg)
 
 ##### WEB DEVELOPER
 
