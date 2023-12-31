@@ -406,7 +406,7 @@ textarea.form-control {
       color: #ffbc3b;
       transition: .3s ease; }
 
-.content table {
+ table {
   text-align: left;
   width: 100%;
   max-width: 100%;
