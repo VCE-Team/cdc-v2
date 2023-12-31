@@ -147,15 +147,15 @@ name = "Campus Training"
 weight = 5
 
 
-[[Languages.en.menu.dropdown]]
+[[Languages.en.menu.Children]]
 name= "Our Recruitors"
 url= "recruitors/"
 
-[[Languages.en.menu.dropdown]]
+[[Languages.en.menu.Children]]
 name= "Previous Questions"
 url= "#"
 
-[[Languages.en.menu.dropdown]]
+[[Languages.en.menu.Children]]
 name= "Career Paths"
 url= "#"
 
