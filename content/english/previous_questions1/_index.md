@@ -7,7 +7,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 image: "images/committee/committee-page.jpg"
 # meta description
 description: "**Contains previous problem statements given by various recruitors during their selection process.**"
-# List of committees appointed for the Govt. Polytechnic College in Maheshwaram.
 
 ---
 ### Adobe 
