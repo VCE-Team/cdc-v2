@@ -155,7 +155,7 @@ url= "recruitors/"
 [[Languages.en.menu.main]]
 parent = "Campus Training"
 name= "Previous Questions"
-url= "#"
+url= "previous_questions/"
 
 [[Languages.en.menu.main]]
 parent = "Campus Training"
