@@ -10,6 +10,9 @@ image: "images/career_paths/programmer.jpg"
 
 ![SOFTWARE DEVELOPER/PROGRAMMER](https://vce-team.github.io/cdc-v2/images/career_paths/programmer.jpg)
 
+<img src="https://vce-team.github.io/cdc-v2/images/career_paths/programmer.jpg" alt="Software Developer" width="690" height="976">
+
+
 #### WEB DEVELOPER
  
 ![WEB DEVELOPER](/static/images/career_paths/web_developer.jpg)
