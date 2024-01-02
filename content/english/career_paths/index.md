@@ -3,6 +3,7 @@ title: "Carrer Paths"
 draft: false
 bg_image: "images/backgrounds/page-title.jpg"
 description: ""
+image: "images/career_paths/programmer.jpg"
 
 ---
 #### SOFTWARE DEVELOPER/PROGRAMMER
