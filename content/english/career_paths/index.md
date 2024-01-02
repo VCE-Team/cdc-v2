@@ -8,7 +8,7 @@ image: "images/career_paths/programmer.jpg"
 ---
 #### SOFTWARE DEVELOPER/PROGRAMMER
 
-![SOFTWARE DEVELOPER/PROGRAMMER](https://vce-team.github.io/cdc-v2/images/career_paths/prog2.jpg)
+![SOFTWARE DEVELOPER/PROGRAMMER](https://vce-team.github.io/cdc-v2/images/career_paths/prog3.jpg)
 
 #### WEB DEVELOPER
  
