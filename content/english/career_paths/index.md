@@ -12,32 +12,32 @@ image: "images/career_paths/programmer.jpg"
 
 #### WEB DEVELOPER
  
-![WEB DEVELOPER](https://vce-team.github.io/cdc-v2/images/career_paths/web_developer.jpg)
+![WEB DEVELOPER](https://vce-team.github.io/cdc-v2/images/career_paths/web_develop2.jpg)
 
 #### SYSTEM ANALYST
 
-![SYSTEM ANALYST](/static/images/career_paths/system_analyst.jpg)
+![SYSTEM ANALYST](https://vce-team.github.io/cdc-v2/images/career_paths/system_analyst2.jpg)
 
 #### QUALITY ASSURANCE / QA TESTER
 
-![QUALITY ASSURANCE / QA TESTER](/static/images/career_paths/qa_tester.jpg)
+![QUALITY ASSURANCE / QA TESTER](https://vce-team.github.io/cdc-v2/images/career_paths/qa_tester2.jpg)
 
 #### NETWORK ADMINISTRATOR
 
-![NETWORK ADMINISTRATOR](/static/images/career_paths/netwok_admin.jpg)
+![NETWORK ADMINISTRATOR](https://vce-team.github.io/cdc-v2/images/career_paths/network_admin2.jpg)
 
 #### DATA ANALYST
 
-![DATA ANALYST](/static/images/career_paths/data_analyst.jpg)
+![DATA ANALYST](https://vce-team.github.io/cdc-v2/images/career_paths/data_analyst2.jpg)
 
 #### IT SUPPORT / HELPDESK TECHNICIAN
 
-![IT SUPPORT / HELPDESK TECHNICIAN](/static/images/career_paths/it_support.jpg)
+![IT SUPPORT / HELPDESK TECHNICIAN](https://vce-team.github.io/cdc-v2/images/career_paths/it_support2.jpg)
 
 #### CYBERSECURITY ANALYST
 
-![CYBERSECURITY ANALYST](/static/images/career_paths/cyber_analyst.jpg)
+![CYBERSECURITY ANALYST](https://vce-team.github.io/cdc-v2/images/career_paths/cyber_analyst2.jpg)
 
 #### CLOUD SUPPORT ENGINEER
 
-![CLOUD SUPPORT ENGINEER](/static/images/career_paths/cloud_engineer.jpg)
+![CLOUD SUPPORT ENGINEER](https://vce-team.github.io/cdc-v2/images/career_paths/cloud_engineer2.jpg)
