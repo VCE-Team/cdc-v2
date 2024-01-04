@@ -109,7 +109,7 @@ h6, .h6 {
   color: #fff;
   background-color: #ffbc3b; }
   .btn-primary::before {
-    background-color: #fff; }
+    background-color: #ffbc3b; }
   .btn-primary:active, .btn-primary:hover, .btn-primary.focus, .btn-primary:focus, .btn-primary.active {
     color: #ffbc3b !important;
     background-color: #ffab08 !important;
