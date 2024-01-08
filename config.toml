@@ -114,7 +114,7 @@ copyright = "Copyright &copy; 2023 Vardhaman College of Engineering, Telangana. 
 # main menu
 [[Languages.en.menu.main]]
 name = "About"
-url = "about/"
+url = "committee/about/"
 weight = 1
 
 [[Languages.en.menu.main]]
