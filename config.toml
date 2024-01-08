@@ -160,7 +160,7 @@ url= "previous_questions/"
 [[Languages.en.menu.main]]
 parent = "Campus Training"
 name= "Career Paths"
-url= "career_paths/"
+url= "committee/career_paths/"
 
 # footer menu
 
