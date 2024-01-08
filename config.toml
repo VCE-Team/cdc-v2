@@ -140,7 +140,7 @@ weight = 6
     
 [[Languages.en.menu.main]]
 name = "Contact"
-url = "contact/"
+url = "https://forms.office.com/r/HcXPyQgzcP"
 weight = 7
 
 [[Languages.en.menu.main]]
