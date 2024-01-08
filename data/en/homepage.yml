@@ -84,10 +84,10 @@ cta:
 success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Visit the College"
-  content : "Click on the play button to visit the College virtually"
+  title : "Know More About College"
+  content : "Click on the play button to visit the College website"
   # video link
-  video_link : "https://youtu.be/GWkueHhz64U"
+  link : "https://vardhaman.org/"
 
 
 ############################# event ################################
@@ -111,7 +111,7 @@ funfacts:
 
     # funfact item loop
     - name : "COURSES"
-      count : "4"
+      count : "22"
 
 # funfact is for about page
 
