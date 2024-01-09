@@ -136,12 +136,12 @@ weight = 4
 [[Languages.en.menu.main]]
 name = "Gallery"
 url = "gallery2/"
-weight = 6
+weight = 7
     
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "https://forms.office.com/r/HcXPyQgzcP"
-weight = 7
+weight = 8
 
 [[Languages.en.menu.main]]
 name = "Campus Training"
@@ -154,11 +154,19 @@ name= "Our Recruitors"
 url= "recruitors/"
 
 [[Languages.en.menu.main]]
-parent = "Campus Training"
 HasChildren = true
 name= "Previous Questions"
-url= "previous_questions/"
-weight=8
+weight = 6
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= "Adobe"
+url= "author/adobe"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= "Amazon"
+url= "author/amazon"
 
 
 
