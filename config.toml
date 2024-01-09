@@ -151,104 +151,104 @@ weight = 6
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Adobe"
 url= "previous_questions/adobe/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Amazon"
 url= "previous_questions/amazon/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Apple"
 url= "previous_questions/apple/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Attlasian"
 url= "previous_questions/attlasian/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= Bloomberg""
 url= "previous_questions/bloomberg/"
 
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Citadel"
 url= "previous_questions/citadel/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Facebook"
 url= "previous_questions/facebook/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Goldman Sachs"
 url= "previous_questions/goldman sachs/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Google"
 url= "previous_questions/google/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "IBM"
 url= "previous_questions/IBM/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "JP Mordan"
 url= "previous_questions/jp-mordan/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Microsoft"
 url= "previous_questions/microsoft/"
 
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Nvidia"
 url= "previous_questions/nvidia/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Oracle"
 url= "previous_questions/oracle/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Salesforce"
 url= "previous_questions/salesforce/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "TCS"
 url= "previous_questions/TCS/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Tiktok"
 url= "previous_questions/tiktok/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Uber"
 url= "previous_questions/uber/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Walmart Labs"
 url= "previous_questions/walmart-labs/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= ""
+name= "Yandex"
 url= "previous_questions/yandex/"
 
 [[Languages.en.menu.main]]
