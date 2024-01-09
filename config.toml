@@ -154,8 +154,8 @@ name= "Our Recruitors"
 url= "recruitors/"
 
 [[Languages.en.menu.main]]
-HasChildren = true
 name= "Previous Questions"
+HasChildren = true
 weight = 6
 
 [[Languages.en.menu.main]]
