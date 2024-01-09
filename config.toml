@@ -171,7 +171,7 @@ url= "previous_questions/attlasian/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
-name= Bloomberg""
+name= "Bloomberg"
 url= "previous_questions/bloomberg/"
 
 
@@ -253,7 +253,7 @@ url= "previous_questions/yandex/"
 
 [[Languages.en.menu.main]]
 name = "Gallery"
-url = "gallery2/"
+url = "committee/gallery/"
 weight = 7
     
 [[Languages.en.menu.main]]
