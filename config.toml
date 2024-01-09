@@ -127,11 +127,129 @@ weight = 3
 name = "Committees"
 url = "committee/board-of-governers/"
 
+
+
 [[Languages.en.menu.main]]
-parent= "Previous Questions"
-name = "Staff"
-url = "teacher/"
-weight = 4
+name = "Campus Training"
+HasChildren = true
+weight = 5
+
+[[Languages.en.menu.main]]
+parent = "Campus Training"
+name= "Our Recruitors"
+url= "recruitors/"
+
+[[Languages.en.menu.main]]
+parent = "Campus Training"
+name= "Career Paths"
+url= "committee/career_paths/"
+
+[[Languages.en.menu.main]]
+name= "Previous Questions"
+HasChildren = true
+weight = 6
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/adobe/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/amazon/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/apple/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/attlasian/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/bloomberg/"
+
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/citadel/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/facebook/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/goldman sachs/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/google/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/IBM/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/jp-mordan/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/microsoft/"
+
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/nvidia/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/oracle/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/salesforce/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/TCS/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/tiktok/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/uber/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/walmart-labs/"
+
+[[Languages.en.menu.main]]
+parent = "Previous Questions"
+name= ""
+url= "previous_questions/yandex/"
 
 [[Languages.en.menu.main]]
 name = "Gallery"
@@ -143,15 +261,9 @@ name = "Contact"
 url = "https://forms.office.com/r/HcXPyQgzcP"
 weight = 8
 
-[[Languages.en.menu.main]]
-name = "Campus Training"
-HasChildren = true
-weight = 5
 
-[[Languages.en.menu.main]]
-parent = "Campus Training"
-name= "Our Recruitors"
-url= "recruitors/"
+
+
 
 [[Languages.en.menu.main]]
 name= "Previous Questions"
@@ -169,11 +281,6 @@ name= "Amazon"
 url= "author/amazon/"
 
 
-
-[[Languages.en.menu.main]]
-parent = "Campus Training"
-name= "Career Paths"
-url= "committee/career_paths/"
 
 # footer menu
 
