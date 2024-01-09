@@ -161,12 +161,12 @@ weight = 6
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Adobe"
-url= "author/adobe"
+url= "author/adobe/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Amazon"
-url= "author/amazon"
+url= "author/amazon/"
 
 
 
