@@ -155,104 +155,104 @@ weight = 6
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Adobe"
-url= "previous_questions/adobe/"
+url= "author/adobe/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Amazon"
-url= "previous_questions/amazon/"
+url= "author/amazon/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Apple"
-url= "previous_questions/apple/"
+url= "author/apple/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Attlasian"
-url= "previous_questions/attlasian/"
+url= "author/attlasian/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Bloomberg"
-url= "previous_questions/bloomberg/"
+url= "author/bloomberg/"
 
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Citadel"
-url= "previous_questions/citadel/"
+url= "author/citadel/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Facebook"
-url= "previous_questions/facebook/"
+url= "author/facebook/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Goldman Sachs"
-url= "previous_questions/goldman sachs/"
+url= "author/goldman sachs/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Google"
-url= "previous_questions/google/"
+url= "author/google/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "IBM"
-url= "previous_questions/IBM/"
+url= "author/IBM/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "JP Mordan"
-url= "previous_questions/jp-mordan/"
+url= "author/jp-mordan/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Microsoft"
-url= "previous_questions/microsoft/"
+url= "author/microsoft/"
 
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Nvidia"
-url= "previous_questions/nvidia/"
+url= "author/nvidia/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Oracle"
-url= "previous_questions/oracle/"
+url= "author/oracle/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Salesforce"
-url= "previous_questions/salesforce/"
+url= "author/salesforce/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "TCS"
-url= "previous_questions/TCS/"
+url= "author/TCS/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Tiktok"
-url= "previous_questions/tiktok/"
+url= "author/tiktok/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Uber"
-url= "previous_questions/uber/"
+url= "author/uber/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Walmart Labs"
-url= "previous_questions/walmart-labs/"
+url= "author/walmart-labs/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Yandex"
-url= "previous_questions/yandex/"
+url= "author/yandex/"
 
 [[Languages.en.menu.main]]
 name = "Gallery"
