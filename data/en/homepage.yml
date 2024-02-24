@@ -82,12 +82,12 @@ cta:
 
 ######################## Success story #############################
 success_story:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Know More About College"
   content : "Click on the play button to visit the College website"
   # video link
-  url = "https://vardhaman.org/"
+  video_link : "#"
 
 
 ############################# event ################################
