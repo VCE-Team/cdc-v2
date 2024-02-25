@@ -12,7 +12,7 @@ description: "**Contains previous problem statements given by various recruitors
 
 ### Salesforce
 
-| ID   | **[Title](Link)**                                                                                                                                                           |
+| ID   | Questions                                                                                                                                                           |
 |------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | **[Two Sum](https://leetcode.com/problems/two-sum/description/)**                                                                                                           |
 | 3    | **[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)**                             |

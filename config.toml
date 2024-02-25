@@ -170,7 +170,7 @@ url= "author/apple/"
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Attlasian"
-url= "author/attlasian/"
+url= "author/atlassian/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
@@ -191,7 +191,7 @@ url= "author/facebook/"
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Goldman Sachs"
-url= "author/goldman sachs/"
+url= "author/goldman-sachs/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
@@ -213,7 +213,6 @@ parent = "Previous Questions"
 name= "Microsoft"
 url= "author/microsoft/"
 
-
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "Nvidia"
@@ -232,7 +231,7 @@ url= "author/salesforce/"
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
 name= "TCS"
-url= "author/TCS/"
+url= "author/tcs/"
 
 [[Languages.en.menu.main]]
 parent = "Previous Questions"
@@ -253,6 +252,8 @@ url= "author/walmart-labs/"
 parent = "Previous Questions"
 name= "Yandex"
 url= "author/yandex/"
+
+
 
 [[Languages.en.menu.main]]
 name = "Gallery"

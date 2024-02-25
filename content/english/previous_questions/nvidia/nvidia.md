@@ -11,7 +11,7 @@ description: "**Contains previous problem statements given by various recruitors
 ---
 ### NVIDIA
 
-| ID   | **[Title](Link)**                                                                                                                               |
+| ID   | Questions                                                                                                                               |
 |------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | **[Two Sum](https://leetcode.com/problems/two-sum/description/)**                                                                               |
 | 2    | **[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)**                                                               |
