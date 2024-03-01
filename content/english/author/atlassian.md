@@ -14,8 +14,8 @@ description: "**Contains previous problem statements given by various recruitors
 
 ### Atlassian
 
-| ID   | **[Title](Link)**                                                                                                                                                                                         |
-|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ID   | Questions                                                                                                                                                                                         |
+|------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 6    | **[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)**                                                                                                                     |
 | 49   | **[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)**                                                                                                                           |
 | 56   | **[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)**                                                                                                                         |

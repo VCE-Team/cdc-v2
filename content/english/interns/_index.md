@@ -7,4 +7,14 @@ bg_image: "images/backgrounds/page-title.jpg"
 description: "**Enthusiastic students working at CDC Department of Vardhaman College of Engineering**"
 ---
 
-A curated team of students united by a single goal; to provide good quality education to everyone and learning experiences that make an impact, shape culture and connect people.
+### Student Interns
+<br></br>
+
+| Name                 | Role              |
+|:----------------------|:-------------------|
+| Sai Shivamani Sangem | Web Scraping      |
+| Kurnal               | Web Scraping      |
+| Sri Vandana          | Web Development   |
+| M. Pranav Reddy      | Web Development   |
+| Rithvik Reddy        | Weekly Assessment |
+| Vamshi               | Weekly Assessment |
