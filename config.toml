@@ -140,7 +140,7 @@ url= "teacher/"
 [[Languages.en.menu.main]]
 parent = "people"
 name= "Interns"
-url= "interns/"
+url= "teacher/interns/"
 
 [[Languages.en.menu.main]]
 name = "Campus Training"
