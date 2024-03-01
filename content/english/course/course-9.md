@@ -134,36 +134,24 @@ and they will be able to clear those competitive exams and face the interviews w
 and ease.
 
 #### Text Books
-
-1. High School English Grammar & Composition by Wren and Martin.
-  
-2. Word Power Made Easy by Norman Lewis.
-   
-4. Mastering the Verbal Ability for CAT by Ajay Singh.
-  
-5. How to Prepare for Verbal Ability and Reading Comprehension for the CAT by Arun Sharma and 
+* High School English Grammar & Composition by Wren and Martin.
+* Word Power Made Easy by Norman Lewis.
+* Mastering the Verbal Ability for CAT by Ajay Singh.
+* How to Prepare for Verbal Ability and Reading Comprehension for the CAT by Arun Sharma and 
 Meenakshi Upadhyay.
 
 #### Reference Books
 
-1. Quick Learning Objective General English by RS Aggarwal and Vikas Aggarwal.
-
-2. Ulysses by James Joyce. (For Reading).
-
-3. B. B. Sinha's Synonyms and Antonyms:
-
-4. The Reading Strategies Book: Your Everything Guide to Developing Skilled Readers by Jennifer 
+* Quick Learning Objective General English by RS Aggarwal and Vikas Aggarwal.
+* Ulysses by James Joyce. (For Reading).
+* B. B. Sinha's Synonyms and Antonyms:
+The Reading Strategies Book: Your Everything Guide to Developing Skilled Readers by Jennifer 
 Serrvallo. 
-
-5. Critical Thinking and Problem Solving by Carl Patterson
+* Critical Thinking and Problem Solving by Carl Patterson
 
 #### Online Resources
-
-1. IndiaBIX (https://www.indiabix.com/)
-
-2. PrepInsta (https://prepinsta.com/)
-
-3. Sawaal (https://www.sawaal.com/)
-
-4. FreshersLive (https://www.fresherslive.com/)
+* IndiaBIX (https://www.indiabix.com/)
+* PrepInsta (https://prepinsta.com/)
+* Sawaal (https://www.sawaal.com/)
+* FreshersLive (https://www.fresherslive.com/)
 
