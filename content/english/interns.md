@@ -10,8 +10,8 @@ description: "**Enthusiastic students working at CDC Department of Vardhaman Col
 ### Student Interns
 <br></br>
 
-|'           Name           '|'            Role           '|
-|:----------------------------|:-----------------------------|
+|          Name           |           Role           |
+|----------------------------|-----------------------------|
 | Sai Shivamani Sangem | Web Scraping      |
 | Kurnal               | Web Scraping      |
 | Sri Vandana          | Web Development   |
