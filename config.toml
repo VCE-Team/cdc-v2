@@ -43,7 +43,7 @@ link = "plugins/google-map/gmap.js"
 
 #################### default parameters ################################
 [params]
-logo = "images/favicon.png"
+logo = "images/Screenshot 2024-02-29 222435.png"
 # Meta data
 description = "Vardhaman College of Engineering"
 author = "Team Yayin"
