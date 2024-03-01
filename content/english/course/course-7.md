@@ -24,15 +24,13 @@ apply_url : "#"
 type: "course"
 ---
 
+#### About Course
 
-### About Course
+##### <br>Course Syllabus
 
-### <br>Course Syllabus
-<br>
+##### <br>Problems
 
-### <br>Problems
-
-#### <br>Problem 1
+##### <br>Problem 1
  Given the meal price (base cost of a meal), tip percent (the percentage of the meal price 
 being added as tip), and tax percent (the percentage of the meal price being added as tax) 
 for a meal, find and print the meal’s total cost. Round the result to the nearest integer.
@@ -45,7 +43,7 @@ Sample Input
 Sample Output
 15
 
-#### <br>Problem 2
+##### <br>Problem 2
 Given set S = {1, 2, 3, . . . ,N}. Find two integers, A and B (where A < B), from set S such that 
 the value of A&B is the maximum possible and also less than a given integer, K. In this 
 case, & represents the bitwise AND operator.
@@ -61,7 +59,7 @@ Sample Output
 4
 0
 
-#### <br>Problem 3
+##### <br>Problem 3
 You will be given an integer n, and a threshold k. For each number i from 1 to n, find the 
 maximum value of logical and , or and xor when compared against all integers through n 
 that are greater than i. Consider a value only if the comparison returns a result less than k.
@@ -74,7 +72,7 @@ Sample Output 0
 3
 3
 
-#### <br>Problem 4
+##### <br>Problem 4
   Complete the getGrade(score) function in the editor. It has one parameter: an integer, 
 score, denoting the number of points Julia earned on an exam. It must return the letter 
 corresponding to her grade according to the following:
@@ -91,7 +89,7 @@ Sample Input 0
  Sample Output 0
 D
 
-#### <br>Problem 5
+##### <br>Problem 5
 Ramesh went to a bookshop to buy books. There is a list of books with their value and price. 
 Now Ramesh has limited money but he wants maximum value possible. Now there are 2 
 kinds of books, one is denoted with 1, that is independent, another one is denoted as 2, 
@@ -110,7 +108,7 @@ Sample Output:
 20
 
 
-#### <br>Problem 6
+##### <br>Problem 6
 Given a string, S, of length N that is indexed from 0 to N-1, print its even indexed and oddindexed characters as two space-separated strings on a single line.
 
 Sample Input
@@ -122,7 +120,7 @@ Sample Output
 Hce akr
 Rn ak
 
-#### <br>Problem 7
+##### <br>Problem 7
    There is an id code that is supposed to be given to all the aspirants of an exam. It is actually a 
 substring of a given string. That means, the authority takes a string and then assigns all the 
 unique substrings to all the students.
@@ -133,7 +131,7 @@ Abdc
 Sample output: 
 dc
 
-#### <br>Problem 8
+##### <br>Problem 8
   Raman was playing a game, he starts with x coins. Now in every step, he wins and loses and 
 he has to get the money or pay the money as needed. He came in contact with a psychic 
 who can see the future and the Psychic predicted the outcomes after each step. Now Raman 
@@ -151,7 +149,7 @@ Sample Input:
 Sample Output:
  7
 
-#### <br>Problem 9
+##### <br>Problem 9
    The user enters a string and a substring. You have to print the number of times that the 
 substring occurs in the given string. String traversal will take place from left to right, not 
 from right to left.
@@ -171,7 +169,7 @@ Sample Input 0
 ABCDCDC
 CDC
 
-#### <br>Problem 10
+##### <br>Problem 10
  Repeating Characters
 Problem Statement – Cod is given a string and he thinks the letters that are repeated do 
 have more power. He gathers only the repeating characters and keeps them as the most 
@@ -195,7 +193,7 @@ Sample Output:
 abc
 
 
-#### <br>Problem 11
+##### <br>Problem 11
  Amit is a salesman who wishes to know the maximum revenue received from a given item of 
 the N products each day . Amit has a sales record of N products for M days. Help Amit to find 
 the highest revenue received each day.
@@ -210,7 +208,7 @@ Output:
 344 499 493
 
 
-#### <br>Problem 12
+##### <br>Problem 12
  You are in-charge of the cake for a child's birthday. You have decided the cake will have one 
 candle for each year of their total age. They will only be able to blow out the tallest of the 
 candles. Count how many candles are tallest.
@@ -223,7 +221,7 @@ Sample Output 0
 2
 
 
-#### <br>Problem 13
+##### <br>Problem 13
  Given an array of distinct integers candidates and a target integer target, return a list of all 
 unique combinations of candidates where the chosen numbers sum to target. You may 
 return the combinations in any order. The same number may be chosen from candidates an 
@@ -245,7 +243,7 @@ Input: candidates = [2], target = 1
 
 Output: []
 
-#### <br>Problem 14
+##### <br>Problem 14
 You are given two sets, A and B. Your job is to find whether set A is a subset of set B. If 
 set A is subset of set B, print True, else print False.
 
@@ -269,14 +267,12 @@ True
 False
 False
 
-#### Online Resources
-1.https://www.hackerrank.com
+##### Online Resources
+* **[HackerRank](https://www.hackerrank.com)**
+* **[Linked List](https://leetcode.com › tag › linked-lis)**
 
-2.https://leetcode.com › tag › linked-lis
-
-### References
-1. Python Programming 2nd edition by Reema Thareja Publisher by Oxford University Press
- 
-2. Python Programming 3rd edition by John M Zelle publisher by Ingram short title
+#### References
+* Python Programming 2nd edition by Reema Thareja Publisher by Oxford University Press
+* Python Programming 3rd edition by John M Zelle publisher by Ingram short title
 
 
