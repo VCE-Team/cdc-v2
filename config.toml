@@ -43,7 +43,7 @@ link = "plugins/google-map/gmap.js"
 
 #################### default parameters ################################
 [params]
-logo = "images/Screenshot 2024-02-29 222435.png"
+logo = "images/favicon.png"
 # Meta data
 description = "Vardhaman College of Engineering"
 author = "Team Yayin"
@@ -146,113 +146,6 @@ url= "recruitors/"
 parent = "Campus Training"
 name= "Career Paths"
 url= "committee/career_paths/"
-
-[[Languages.en.menu.main]]
-name= "Previous Questions"
-HasChildren = true
-weight = 6
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Adobe"
-url= "author/adobe/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Amazon"
-url= "author/amazon/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Apple"
-url= "author/apple/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Attlasian"
-url= "author/atlassian/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Bloomberg"
-url= "author/bloomberg/"
-
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Citadel"
-url= "author/citadel/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Facebook"
-url= "author/facebook/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Goldman Sachs"
-url= "author/goldman-sachs/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Google"
-url= "author/google/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "IBM"
-url= "author/ibm/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "JP Mordan"
-url= "author/jp-mordan/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Microsoft"
-url= "author/microsoft/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Nvidia"
-url= "author/nvidia/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Oracle"
-url= "author/oracle/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Salesforce"
-url= "author/salesforce/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "TCS"
-url= "author/tcs/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Tiktok"
-url= "author/tiktok/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Uber"
-url= "author/uber/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Walmart Labs"
-url= "author/walmart-labs/"
-
-[[Languages.en.menu.main]]
-parent = "Previous Questions"
-name= "Yandex"
-url= "author/yandex/"
-
 
 
 [[Languages.en.menu.main]]
