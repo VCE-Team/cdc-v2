@@ -140,9 +140,10 @@ url= "teacher/"
 [[Languages.en.menu.main]]
 parent = "people"
 name= "Interns"
-url= "interns/"
+url= "author/Intern/"
 
-[[Languages.en.menu.main]]
+[[Languages.en.menu.
+main]]
 name = "Campus Training"
 HasChildren = true
 weight = 5
