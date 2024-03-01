@@ -25,7 +25,6 @@ type: "course"
 ---
 
 ## <br> About Course
-
 The "Technical Skills" course covers essential subjects, including operating systems, computer 
 networks, object-oriented programming, and database management systems. This course aims to 
 provide students with a foundational understanding of these key topics in computer science and 
@@ -35,12 +34,10 @@ industry and academic progression.
 ### <br>Course Syllabus
 
 ##### Operating System
-
 System calls, processes, threads, inter‐process communication, concurrency and synchronization. 
 Deadlock. CPU and I/O scheduling. Memory management and virtual memory. File systems.
 
 ##### Computer Networks
-
 **Concept of layering:** OSI and TCP/IP Protocol Stacks; Basics of packet, circuit and virtual circuitswitching; 
 **Data link layer:** framing, error detection, Medium Access Control, Ethernet bridging; 
 **Routing protocols:** shortest path, flooding, distance vector and link state routing; 
@@ -49,21 +46,19 @@ Deadlock. CPU and I/O scheduling. Memory management and virtual memory. File sys
 **Application layer protocols:** DNS, SMTP, HTTP, FTP, Email.
 
 ##### OOP
-
 Java features, OOP principles, object oriented thinking, Encapsulation: class, object, Inheritancetypes of inheritance, aggregation and generalization , Polymorphism: Static and Dynamic 
 Polymorphism, Abstraction- Abstract class and Interface.
 
 ##### Database Management Systems:
-
 ER‐model, Relational model: relational algebra, tuple calculus, SQL. Integrity constraints, normal 
 forms, File organization, indexing (e.g., B and B+ trees). Transactions and concurrency control.
 
 ##### References:
-1. Abraham Silberschatz, Peter Baer Galvin, Greg Gagne., ,Operating System Concepts, 8th 
+* Abraham Silberschatz, Peter Baer Galvin, Greg Gagne., ,Operating System Concepts, 8th 
 Edition, Wiley India Private Limited, New Delhi,2009.
-2. S.Tanenbaum.,Computer Networks , 6th Edition, Pearson Education/ PHI, New Delhi,
+* S.Tanenbaum.,Computer Networks , 6th Edition, Pearson Education/ PHI, New Delhi,
 India, 2003
-3. Herbert Schildt, Java: The Complete Reference, 11th Edition, Tata McGraw-Hill Education, 
+* Herbert Schildt, Java: The Complete Reference, 11th Edition, Tata McGraw-Hill Education, 
 2019.
-4. Raghurama Krishnan, Johannes Gehrke., Database Management Systems, 3rd Edition,Tata 
+* Raghurama Krishnan, Johannes Gehrke., Database Management Systems, 3rd Edition,Tata 
 McGraw-Hill, New Delhi, India, 2014.

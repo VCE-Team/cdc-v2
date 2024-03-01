@@ -24,7 +24,6 @@ apply_url : "#"
 type: "course"
 ---
 ## <br>About Course
-
 Data and information visualization is the graphical communication of data and information for 
 the purposes of presentation, confirmation, exploration, and analysis. Images can be used to 
 convey numbers, concepts, and relationships using techniques such as maps, icons, graphs, and 
@@ -38,15 +37,12 @@ datasets through graphical means such as charts, maps, visual analytics interfac
 dashboards, and interactive visualizations
 
 ### <br> Course Syllabus
-
 ##### Module - 1 
-
 Introduction to Statistical Analysis: Counting, Probability, and Probability Distributions , 
 Sampling Distributions , Estimation and Hypothesis Testing , Scatter Diagram , Anova 
 and Chisquare , Imputation Techniques , Data Cleaning , Correlation and Regression.
 
 ##### Module-2
-
 Introduction to Data Analytics , Data Analytics Overview , Importance of Data Analytics 
 , Types of Data Analytics , Descriptive Analytics , Diagnostic Analytics ,Predictive 
 Analytics , Prescriptive Analytics , Benefits of Data Analytics , Data Visualization for 
@@ -55,7 +51,6 @@ Graphical Techniques, Skewness & Kurtosis, Box Plot , Descriptive Stats , Sampli
 Funnel, Sampling Variation, Central Limit Theorem, Confidence interval.
 
 ##### Module - 3  
-
 Tableau: Start Page,Show Me, Connecting to Excel Files, Connecting to Text Files , 
 Connect to Microsoft SQL Server , Connecting to Microsoft Analysis Services , Creating 
 and Removing Hierarchies , Bins , Joining Tables ,Data Blending.
@@ -63,9 +58,7 @@ Learn Tableau Basic Reports , Parameters , Grouping Example 1  Grouping Examp
 Edit Groups , Set , Combined Sets , Creating a First Report ,Data Labels , Create 
 Folders , Sorting Data , Add Totals, Sub Totals and Grand Totals to Report
 
-
 ##### Module - 4 
-
 Learn Tableau Charts: Area Chart , Bar Chart , Box Plot , Bubble Chart , Bump Chart 
 Bullet Graph , Circle Views , Dual Combination Chart , Dual Lines Chart , Funnel 
 Chart , Traditional Funnel Charts , Gantt Chart , Grouped Bar or Side by Side Bars 
@@ -77,9 +70,7 @@ a Device Preview of a Dashboard , Create Filters on Dashboard , Dashboard Object
 Create a Story
 
 ##### Module - 5 
-
- Power BI
- Introduction to Power BI , Get Started with Power BI , Overview: Power BI concepts ,
+Power BI :Introduction to Power BI , Get Started with Power BI , Overview: Power BI concepts ,
 Sign up for Power BI , Overview: Power BI data sources , Connect to a SaaS solution ,
 Upload a local CSV file , Connect to Excel data that can be refreshed , Connect to a 
 sample , Create a Report with Visualizations , Explore the Power BI portal.
@@ -87,21 +78,14 @@ sample , Create a Report with Visualizations , Explore the Power BI portal.
 Create and arrange visualizations , Format a visualization , Create chart visualizations 
 , Use text, map, and gauge visualizations and save a report , Use a slicer to filter 
 visualizations , Sort, copy, and paste visualizations , Download and use a custom 
-visual from the gallery
-
- Reports and Dashboards , Modify and Print a Report , Rename and delete report 
+visual from the gallery Reports and Dashboards , Modify and Print a Report , Rename and delete report 
 pages , Add a filter to a page or report, Set visualization interactions , Print a report 
 page , Send a report to PowerPoint  Create a Dashboard
 
-
 ### References
-
 1.Ward, M., Grinstein, G. G., & Keim, D. (2015). Interactive Data Visualization : Foundations, 
 Techniques, and Applications, Second Edition (Vol. Second edition). Boca Raton: A K 
 Peters/CRC Press. Retrieved from http://search.ebscohost.com/login.aspx?direct=true&site=edslive&db=edsebk&AN=1763678
-
 2.https://github.com/topics/data-visualization
-
 3.https://github.com/showcases/data-visualization
-
 4.https://github.com/topics/visualization-tools
