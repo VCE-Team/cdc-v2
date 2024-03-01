@@ -23,8 +23,7 @@ apply_url : "#"
 # type
 type: "course"
 ---
-## <br>About Course
-
+### <br>About Course
 Explore the key technical, organisational and compliance challenges of cloud computing. Grasp 
 the concepts of virtualization efficiently. delivering Cloud based enterprise IT services.
 
@@ -32,31 +31,29 @@ the concepts of virtualization efficiently. delivering Cloud based enterprise IT
 
 ##### Cloud Computing Capstone Project using AWS IaaS
 
-1. **Implement AWS IaaS:** Evaluate AWS as a deployment platform. To accomplish this, you must 
+* **Implement AWS IaaS:** Evaluate AWS as a deployment platform. To accomplish this, you must 
 create virtual networks in the aforementioned region.
-2. **Using Azure Portal to Implement Security and PaaS Services:** Onboard an employee on a 
+* **Using Azure Portal to Implement Security and PaaS Services:** Onboard an employee on a 
 company's default AWS Active Directory and assign a Custom RBAC role under which they can 
 connect to the network.
-3. **AWS Functions:** Listening to a Queue 02- Bring serverless functionality into a company's 
+* **AWS Functions:** Listening to a Queue 02- Bring serverless functionality into a company's 
 application workloads using AWS Function and Storage Queue.
-4. **Load balancer configuration** - Launch two web servers, configure a load balancer, and implement 
+* **Load balancer configuration** - Launch two web servers, configure a load balancer, and implement 
 auto-scaling.
 
 ##### Cloud Computing Capstone Project using Azure
-
-5. **Implement Azure:** Evaluate Azure as a deployment platform. To accomplish this, you must create 
+* **Implement Azure:** Evaluate Azure as a deployment platform. To accomplish this, you must create 
 virtual networks in the aforementioned region.
-6. **Using Azure Portal to Implement Security and PaaS Services:** Onboard an employee on a 
+* **Using Azure Portal to Implement Security and PaaS Services:** Onboard an employee on a 
 company's default Azure Active Directory and assign a Custom RBAC role under which they can 
 connect to the network.
-7. **Azure Functions:** Listening to a Queue 02- Bring serverless functionality into a company's 
+* **Azure Functions:** Listening to a Queue 02- Bring serverless functionality into a company's 
 application workloads using Azure Function and Storage Queue.
-8. **Load balancer configuration**- Launch two web servers, configure a load balancer, and implement 
+* **Load balancer configuration**- Launch two web servers, configure a load balancer, and implement 
 auto-scaling.
-9. **Automating Workloads**  with ARM Templates Test an ARM template- to bring infrastructure as 
+* **Automating Workloads**  with ARM Templates Test an ARM template- to bring infrastructure as 
 code into practice for a company. You need to define the entire networking architecture using 
 the ARM template
 
 ### Course Syllabus
-
 [Click Here](https://drive.google.com/file/d/1wR8rlir606KVjuORZGN-3njR8_K2igCR/view?usp=sharing)
