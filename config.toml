@@ -128,9 +128,19 @@ url = "committee/board-of-governers/"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Staff"
-url = "teacher/"
+name = "people"
+HasChildren = true
 weight = 4
+
+[[Languages.en.menu.main]]
+parent = "people"
+name= "Staff"
+url= "teacher/"
+
+[[Languages.en.menu.main]]
+parent = "people"
+name= "Interns"
+url= "interns/"
 
 [[Languages.en.menu.main]]
 name = "Campus Training"
