@@ -49,8 +49,6 @@ description = "Vardhaman College of Engineering"
 author = "Team Yayin"
 # contact info
 address = "Vardhaman College of Engineering,Kacharam, Shamshabad – 501218 Hyderabad, Telangana, India"
-mobile = "+91-8688901557"
-email = "deancdc@vardhaman.org"
 # contact form action
 contact_form_action = "deancdc@vardhaman.org" # contact form works with https://formspree.io
 # Google Analitycs
@@ -161,7 +159,7 @@ url= "committee/career_paths/"
 [[Languages.en.menu.main]]
 parent = "Campus Training"
 name= "Previous Questions"
-url="previous_questions/"
+url="previous_questions/_index.md"
 
 [[Languages.en.menu.main]]
 name = "Gallery"
