@@ -158,7 +158,7 @@ url= "committee/career_paths/"
 [[Languages.en.menu.main]]
 parent = "Campus Training"
 name= "Previous Questions"
-url="previous_questions/"
+url="committee/previous_questions/"
 
 [[Languages.en.menu.main]]
 name = "Gallery"
