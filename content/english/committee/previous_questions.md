@@ -20,13 +20,13 @@ description: "**Contains previous problem statements given by various recruitors
 * **[Facebook](author/facebook/)**
 * **[Goldman Sachs](author/goldman-sachs/)**
 * **[Google](author/google/)**
-* **[IBM](ibm/)**
+* **[IBM](/content/english/author/IBM.md)**
 * **[JP Mordan](author/jp-mordan/)**
 * **[Microsoft](author/microsoft/)**
 * **[Nvidia](author/nvidia/)**
 * **[Oracle](author/oracle/)**
 * **[Salesforce](author/salesforce/)**
-* **[TCS](author/tcs/)**
+* **[TCS](/author/tcs/)**
 * **[Uber](author/uber/)**
 * **[Walmart Labs](author/walmart-labs/)**
 * **[Yandex](author/yandex/)**
