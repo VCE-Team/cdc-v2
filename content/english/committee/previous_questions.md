@@ -11,22 +11,22 @@ description: "**Contains previous problem statements given by various recruitors
 
 ##### LIST OF COMPANIES 
 
-* **[Adobe](author/adobe/)**
-* **[Amazon](author/amazon/)**
-* **[Apple](author/apple/)**
-* **[Attlasian](author/atlassian/)**
-* **[Bloomberg](author/bloomberg/)**
-* **[Citadel](author/citadel/)**
-* **[Facebook](author/facebook/)**
-* **[Goldman Sachs](author/goldman-sachs/)**
-* **[Google](author/google/)**
+* **[Adobe](adobe/)**
+* **[Amazon](amazon/)**
+* **[Apple](apple/)**
+* **[Attlasian](atlassian/)**
+* **[Bloomberg](bloomberg/)**
+* **[Citadel](citadel/)**
+* **[Facebook](facebook/)**
+* **[Goldman Sachs](goldman-sachs/)**
+* **[Google](google/)**
 * **[IBM](/IBM.md)**
-* **[JP Mordan](author/jp-mordan/)**
-* **[Microsoft](author/microsoft/)**
-* **[Nvidia](author/nvidia/)**
-* **[Oracle](author/oracle/)**
-* **[Salesforce](author/salesforce/)**
-* **[TCS](author/tcs/)**
-* **[Uber](author/uber/)**
-* **[Walmart Labs](author/walmart-labs/)**
-* **[Yandex](author/yandex/)**
+* **[JP Mordan](jp-mordan/)**
+* **[Microsoft](microsoft/)**
+* **[Nvidia](nvidia/)**
+* **[Oracle](oracle/)**
+* **[Salesforce](salesforce/)**
+* **[TCS](tcs/)**
+* **[Uber](uber/)**
+* **[Walmart Labs](walmart-labs/)**
+* **[Yandex](yandex/)**
