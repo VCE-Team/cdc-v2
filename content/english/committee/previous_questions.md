@@ -20,7 +20,7 @@ description: "**Contains previous problem statements given by various recruitors
 * **[Facebook](author/facebook/)**
 * **[Goldman Sachs](author/goldman-sachs/)**
 * **[Google](author/google/)**
-* **[IBM](ibm/)**
+* **[IBM](ibm/IBM.md)**
 * **[JP Mordan](author/jp-mordan/)**
 * **[Microsoft](author/microsoft/)**
 * **[Nvidia](author/nvidia/)**
