@@ -11,22 +11,22 @@ description: "**Contains previous problem statements given by various recruitors
 
 ##### LIST OF COMPANIES 
 
-* **[Adobe](https://cdc.vardhaman.org/author/adobe/)**
-* **[Amazon](https://cdc.vardhaman.org/author/amazon/)**
-* **[Apple](https://cdc.vardhaman.org/author/apple/)**
-* **[Attlasian](https://cdc.vardhaman.org/author/atlassian/)**
-* **[Bloomberg](https://cdc.vardhaman.org/author/bloomberg/)**
-* **[Citadel](https://cdc.vardhaman.org/author/citadel/)**
-* **[Facebook](https://cdc.vardhaman.org/author/facebook/)**
-* **[Goldman Sachs](https://cdc.vardhaman.org/author/goldman-sachs/)**
-* **[Google](/committee/questions_files/google/)**
+* **[Adobe](/committee/questions/adobe/)**
+* **[Amazon](/committee/questions/amazon/)**
+* **[Apple](/committee/questions/apple/)**
+* **[Attlasian](/committee/questions/atlassian/)**
+* **[Bloomberg](/committee/questions/bloomberg/)**
+* **[Citadel](/committee/questions/citadel/)**
+* **[Facebook](/committee/questions/facebook/)**
+* **[Goldman Sachs](/committee/questions/goldman-sachs/)**
+* **[Google](/committee/questions/google/)**
 * **[IBM](https://cdc.vardhaman.org/committee/IBM/)**
-* **[JP Mordan](https://cdc.vardhaman.org/author/jp-mordan/)**
-* **[Microsoft](https://cdc.vardhaman.org/author/microsoft/)**
-* **[Nvidia](https://cdc.vardhaman.org/author/nvidia/)**
-* **[Oracle](https://cdc.vardhaman.org/author/oracle/)**
-* **[Salesforce](https://cdc.vardhaman.org/author/salesforce/)**
-* **[TCS](https://cdc.vardhaman.org/author/tcs/)**
-* **[Uber](https://cdc.vardhaman.org/author/tiktok/)**
-* **[Walmart Labs](https://cdc.vardhaman.org/author/walmart-labs/)**
-* **[Yandex](https://cdc.vardhaman.org/author/yandex/)**
+* **[JP Mordan](/committee/questions/jp-mordan/)**
+* **[Microsoft](/committee/questions/microsoft/)**
+* **[Nvidia](/committee/questions/nvidia/)**
+* **[Oracle](/committee/questions/oracle/)**
+* **[Salesforce](/committee/questions/salesforce/)**
+* **[TCS](/committee/questions/tcs/)**
+* **[Uber](/committee/questions/tiktok/)**
+* **[Walmart Labs](/committee/questions/walmart-labs/)**
+* **[Yandex](/committee/questions/yandex/)**
