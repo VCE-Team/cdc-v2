@@ -11,22 +11,22 @@ description: "**Contains previous problem statements given by various recruitors
 
 ##### LIST OF COMPANIES 
 
-* **[Adobe](author/adobe/)**
-* **[Amazon](author/amazon/)**
-* **[Apple](author/apple/)**
-* **[Attlasian](author/atlassian/)**
-* **[Bloomberg](author/bloomberg/)**
-* **[Citadel](author/citadel/)**
-* **[Facebook](author/facebook/)**
-* **[Goldman Sachs](author/goldman-sachs/)**
-* **[Google](author/google/)**
-* **[IBM](https://cdc.vardhaman.org/author/oracle/)**
-* **[JP Mordan](author/jp-mordan/)**
-* **[Microsoft](author/microsoft/)**
-* **[Nvidia](author/nvidia/)**
-* **[Oracle](author/oracle/)**
-* **[Salesforce](author/salesforce/)**
-* **[TCS](/author/tcs/)**
-* **[Uber](author/uber/)**
-* **[Walmart Labs](author/walmart-labs/)**
-* **[Yandex](author/yandex/)**
+* **[Adobe](https://cdc.vardhaman.org/author/adobe/)**
+* **[Amazon](https://cdc.vardhaman.org/author/amazon/)**
+* **[Apple](https://cdc.vardhaman.org/author/apple/)**
+* **[Attlasian](https://cdc.vardhaman.org/author/atlassian/)**
+* **[Bloomberg](https://cdc.vardhaman.org/author/bloomberg/)**
+* **[Citadel](https://cdc.vardhaman.org/author/citadel/)**
+* **[Facebook](https://cdc.vardhaman.org/author/facebook/)**
+* **[Goldman Sachs](https://cdc.vardhaman.org/author/goldman-sachs/)**
+* **[Google](https://cdc.vardhaman.org/author/google/)**
+* **[IBM](https://cdc.vardhaman.org/author/IBM/)**
+* **[JP Mordan](https://cdc.vardhaman.org/author/jp-mordan/)**
+* **[Microsoft](https://cdc.vardhaman.org/author/microsoft/)**
+* **[Nvidia](https://cdc.vardhaman.org/author/nvidia/)**
+* **[Oracle](https://cdc.vardhaman.org/author/oracle/)**
+* **[Salesforce](https://cdc.vardhaman.org/author/salesforce/)**
+* **[TCS](https://cdc.vardhaman.org/author/tcs/)**
+* **[Uber](https://cdc.vardhaman.org/author/tiktok/)**
+* **[Walmart Labs](https://cdc.vardhaman.org/author/walmart-labs/)**
+* **[Yandex](https://cdc.vardhaman.org/author/yandex/)**
