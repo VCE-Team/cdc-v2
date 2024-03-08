@@ -20,7 +20,7 @@ description: "**Contains previous problem statements given by various recruitors
 * **[Facebook](https://cdc.vardhaman.org/author/facebook/)**
 * **[Goldman Sachs](https://cdc.vardhaman.org/author/goldman-sachs/)**
 * **[Google](https://cdc.vardhaman.org/author/google/)**
-* **[IBM](https://cdc.vardhaman.org/author/IBM/)**
+* **[IBM](https://cdc.vardhaman.org/committee/IBM/)**
 * **[JP Mordan](https://cdc.vardhaman.org/author/jp-mordan/)**
 * **[Microsoft](https://cdc.vardhaman.org/author/microsoft/)**
 * **[Nvidia](https://cdc.vardhaman.org/author/nvidia/)**
