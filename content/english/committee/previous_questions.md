@@ -19,7 +19,7 @@ description: "**Contains previous problem statements given by various recruitors
 * **[Citadel](https://cdc.vardhaman.org/author/citadel/)**
 * **[Facebook](https://cdc.vardhaman.org/author/facebook/)**
 * **[Goldman Sachs](https://cdc.vardhaman.org/author/goldman-sachs/)**
-* **[Google](/committee/google/)**
+* **[Google](/committee/questions_files/google/)**
 * **[IBM](https://cdc.vardhaman.org/committee/IBM/)**
 * **[JP Mordan](https://cdc.vardhaman.org/author/jp-mordan/)**
 * **[Microsoft](https://cdc.vardhaman.org/author/microsoft/)**
