@@ -11,18 +11,24 @@ description: "**Contains previous problem statements given by various recruitors
 
 ##### LIST OF COMPANIES 
 
+* **[Accenture](/committee/questions/accenture/)**
 * **[Adobe](/committee/questions/adobe/)**
 * **[Amazon](/committee/questions/amazon/)**
 * **[Apple](/committee/questions/apple/)**
 * **[Attlasian](/committee/questions/atlassian/)**
 * **[Bloomberg](/committee/questions/bloomberg/)**
+* **[Capgemini](/committee/questions/capgemini/)**
 * **[Citadel](/committee/questions/citadel/)**
+* **[Cognizant](/committee/questions/cagemini/)**
+* **[Delloite](/committee/questions/delloite/)**
 * **[Facebook](/committee/questions/facebook/)**
 * **[Goldman Sachs](/committee/questions/goldman-sachs/)**
 * **[Google](/committee/questions/google/)**
-* **[IBM](https://cdc.vardhaman.org/committee/IBM/)**
+* **[IBM](/committee/questions/IBM/)**
+* **[Infosys](/committee/questions/infosys/)**
 * **[JP Mordan](/committee/questions/jp-mordan/)**
 * **[Microsoft](/committee/questions/microsoft/)**
+* **[Netflix](/committee/questions/netflix/)**
 * **[Nvidia](/committee/questions/nvidia/)**
 * **[Oracle](/committee/questions/oracle/)**
 * **[Salesforce](/committee/questions/salesforce/)**
