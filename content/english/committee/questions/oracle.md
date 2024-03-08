@@ -11,6 +11,7 @@ description: "**Contains previous problem statements given by various recruitors
 ---
 ### Oracle
 
+
 | ID   | Questions                                                                                                                                                 |
 |------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | **[Two Sum](https://leetcode.com/problems/two-sum/description/)**                                                                                                 |
