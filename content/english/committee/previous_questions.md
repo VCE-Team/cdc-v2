@@ -19,7 +19,7 @@ description: "**Contains previous problem statements given by various recruitors
 * **[Bloomberg](/committee/questions/bloomberg/)**
 * **[Capgemini](/committee/questions/capgemini/)**
 * **[Citadel](/committee/questions/citadel/)**
-* **[Cognizant](/committee/questions/cagemini/)**
+* **[Cognizant](/committee/questions/cognizant/)**
 * **[Delloite](/committee/questions/delloite/)**
 * **[Facebook](/committee/questions/facebook/)**
 * **[Goldman Sachs](/committee/questions/goldman-sachs/)**
@@ -36,3 +36,4 @@ description: "**Contains previous problem statements given by various recruitors
 * **[Uber](/committee/questions/tiktok/)**
 * **[Walmart Labs](/committee/questions/walmart-labs/)**
 * **[Yandex](/committee/questions/yandex/)**
+
