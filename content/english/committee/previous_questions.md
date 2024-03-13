@@ -24,7 +24,7 @@ description: "**Contains previous problem statements given by various recruitors
 * **[Facebook](/committee/questions/facebook/)**
 * **[Goldman Sachs](/committee/questions/goldman-sachs/)**
 * **[Google](/committee/questions/google/)**
-* **[IBM](/committee/questions/IBM/)**
+* **[IBM](/committee/questions/ibm/)**
 * **[Infosys](/committee/questions/infosys/)**
 * **[JP Mordan](/committee/questions/jp-mordan/)**
 * **[Microsoft](/committee/questions/microsoft/)**
