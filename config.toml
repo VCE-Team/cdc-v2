@@ -174,8 +174,8 @@ weight = 8
 # footer menu
 
 [[Languages.en.menu.footer]]
-name = "Notifications"
-url = "notice/"
+name = "Courses"
+url = "course/"
 
 [[Languages.en.menu.footer]]
 name = "Events"
