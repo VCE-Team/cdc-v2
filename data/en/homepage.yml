@@ -1,7 +1,7 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/vardhaman.png"
+  bg_image : "images/banner/vardhaman2.png"
   slider_item:
     # slider item loop
     - title : "Welcome To Career Development Cell-Vardhaman College of Engineering"
