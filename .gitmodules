@@ -1,3 +1,6 @@
 [submodule "themes/educenter-fork"]
 	path = themes/educenter-fork
 	url = git@github.com:TeamYayin/educenter-hugo.git
+[submodule "themes/vce-educenter-fork"]
+	path = themes/vce-educenter-fork
+	url = git@github.com:VCE-Team/vce-educenter-hugo.git
