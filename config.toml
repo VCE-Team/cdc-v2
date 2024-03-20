@@ -2,7 +2,7 @@
 baseURL = 'http://cdc.vardhaman.org/'
 languageCode = 'en-us'
 title = 'CDC - Vardhaman'
-theme = 'vce-educenter-fork'
+theme = 'educenter-fork'
 
 # post pagination
 paginate = "6"
