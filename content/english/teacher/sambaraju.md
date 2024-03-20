@@ -16,18 +16,16 @@ interest: [""]
 # contact info
 contact:
   # contact item loop
-  - name: "#"
+  - name: "Mail Me"
     icon: "ti-email" # icon pack : https://themify.me/themify-icons
     link: "#"
 
   # contact item loop
-  - name: "#"
-    icon: "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link: "#"
+  - name : "Click here to Know more"
+    icon : "ti-world" # icon pack : https://themify.me/themify-icons
+    link : "https://vardhaman.irins.org/profile/247937"
 
 # type
 type: "teacher"
 ---
-
-### About Me
 

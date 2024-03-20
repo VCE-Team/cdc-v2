@@ -19,13 +19,15 @@ contact:
   - name: "Mail Me"
     icon: "ti-email" # icon pack : https://themify.me/themify-icons
     link: "#"
-
+    
+  - name : "Click here to Know more"
+    icon : "ti-world" # icon pack : https://themify.me/themify-icons
+    link : "https://vardhaman.irins.org/profile/249512"
 
 # type
 type: "teacher"
 
 ---
 
-##### [CLICK HERE TO KNOW MORE](https://vardhaman.irins.org/profile/249512)
 
 

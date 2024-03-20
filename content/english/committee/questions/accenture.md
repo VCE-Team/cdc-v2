@@ -1,4 +1,4 @@
-[text](IBM.md)---
+---
 title: "Previous Questions"
 draft: false
 # page title background image

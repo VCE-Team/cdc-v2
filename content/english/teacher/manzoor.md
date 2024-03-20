@@ -17,7 +17,10 @@ contact:
   - name: "Mail Me"
     icon: "ti-email" # icon pack : https://themify.me/themify-icons
     link: "mailto:manzoor@vardhaman.org"
-
+    
+    - name : "Click here to Know more"
+    icon : "ti-world" # icon pack : https://themify.me/themify-icons
+    link : "https://vardhaman.irins.org/profile/240348"
 
 # type
 type: "teacher"
@@ -26,5 +29,4 @@ course: "CSE(AI&ML)"
 
 ---
 
-##### [CLICK HERE TO KNOW MORE](https://vardhaman.irins.org/profile/240348)
 
