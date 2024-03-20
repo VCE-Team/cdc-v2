@@ -48,7 +48,9 @@ logo = "images/favicon.png"
 description = "Vardhaman College of Engineering"
 author = "Team Yayin"
 # contact info
-address = "Vardhaman College of Engineering,Kacharam, Shamshabad – 501218 Hyderabad, Telangana, India"
+address = "Vardhaman College of Engineering, Kacharam, Shamshabad – 501218 Hyderabad, Telangana, India"
+mobile = "+91-8688901557"
+email = "info@vardhaman.org"
 # contact form action
 contact_form_action = "deancdc@vardhaman.org" # contact form works with https://formspree.io
 # Google Analitycs
@@ -77,23 +79,18 @@ expire_days = 2
 ############################# social site ########################
 [[params.social]]
 title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+icon = "ti-facebook" 
+link = "https://www.facebook.com/vardhamancollegeofengineering/"
 
 [[params.social]]
 title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+icon = "ti-github"
+link = "https://github.com/vce-open"
 
 [[params.social]]
 title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+icon = "ti-linkedin"
+link = "https://in.linkedin.com/school/vardhaman/"
 
 
 ################################### English language #####################################
@@ -104,7 +101,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2023 Vardhaman College of Engineering, Telangana. Handcrafted with ❤️ by [Yayin AI Lab](https://yayinailab.tech), Website design template from [Themefisher](https://themefisher.com/hugo-themes/)."
+copyright = "Handcrafted with ❤️ by [Yayin AI Lab](https://yayinailab.tech), Website Design template from [Themefisher](https://themefisher.com/hugo-themes/). Copyright &copy; 2024 Vardhaman College of Engineering, Telangana. "
 
 
 ################### English navigation ####################
@@ -172,10 +169,6 @@ weight = 8
 
 
 # footer menu
-
-[[Languages.en.menu.footer]]
-name = "Courses"
-url = "course/"
 
 [[Languages.en.menu.footer]]
 name = "Events"
