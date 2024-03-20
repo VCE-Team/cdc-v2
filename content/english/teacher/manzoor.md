@@ -13,12 +13,12 @@ bio: "Assistant Professor"
 intrest: [""]
 # contact info
 contact:
-  # contact item loop
+# contact item loop
   - name: "Mail Me"
     icon: "ti-email" # icon pack : https://themify.me/themify-icons
     link: "mailto:#"
     
-    - name : "Click here to Know more"
+  - name : "Click here to Know more"
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : "https://vardhaman.irins.org/profile/240348"
 
