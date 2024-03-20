@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = 'https://cdc.vardhaman.org/'
+baseURL = 'http://cdc.vardhaman.org/'
 languageCode = 'en-us'
 title = 'CDC - Vardhaman'
 theme = 'educenter-fork'
