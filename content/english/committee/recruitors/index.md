@@ -14,7 +14,7 @@ bg_image: "images/banner/vardhaman2.png"
 
 | S No. | Name of the Company                        |
 |-------|--------------------------------------------|
-| 1     | Infosys(InfyTQ)                            |
+| 1     | Infosys(InfyTQ)                         |
 | 3     | TCS Codevita                               |
 | 4     | Concentrix Catalyst                        |
 | 5     | Darwinbox                                  |
@@ -26,7 +26,7 @@ bg_image: "images/banner/vardhaman2.png"
 | 11    | CYBER SOPHY (Analysabl)                    |
 | 12    | Loginsoft Pvt Ltd                          |
 | 14    | Ecolab Digital Center                      |
-| 15    | Accenture                                  |
+| 15    | [Accenture](https://drive.google.com/file/d/1jvIT_-Nq0YUP8MBdjgEOPNHKEo3dVgbs/view?usp=drivesdk)                                 |
 | 16    | Accenture-(Adv ASE)                        |
 | 17    | Gainsight Software Pvt Ltd                 |
 | 18    | Virtusa-(Catapult)                         |
@@ -69,7 +69,7 @@ bg_image: "images/banner/vardhaman2.png"
 | 55    | RineX Technologies                         |
 | 56    | TCS Digital.                               |
 | 57    | Kamai Elevators                            |
-| 58    | Deloitte                                   |
+| 58    | [Deloitte](https://drive.google.com/file/d/1lxqP8-VXxUs2lZA-kbLmcb3g78XEDKx_/view?usp=drivesdk)                                   |
 | 59    | Hexaware Technologies - (PGET)             |
 | 60    | Zemoso Technologies                        |
 | 61    | Minfy Technologies Private Limited         |
