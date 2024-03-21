@@ -1,14 +1,14 @@
 ---
-title: "Muralidher Mourya"
+title: "K.Santhosh Kumar"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "Assistant Professor"
 # teacher portrait
-image: "images/teachers/Maurya-Muralidhar-200x200.png"
+image: "images/teachers/santhosh.jpg"
 # course
-course: "CSE"
+course: "AI&ML"
 # biography
 bio: "Assistant Professor"
 # interest
@@ -22,8 +22,9 @@ contact:
     
   - name : "Click here to Know more"
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "https://vardhaman.irins.org/profile/247937"
-    # type
-type: "teacher"
----
+    link : "https://vardhaman.irins.org/profile/251239"
 
+# type
+type: "teacher"
+
+---

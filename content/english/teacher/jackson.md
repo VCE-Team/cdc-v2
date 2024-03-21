@@ -1,14 +1,14 @@
 ---
-title: "Muralidher Mourya"
+title: "Jackson Boaz Jessie"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "Assistant Professor"
 # teacher portrait
-image: "images/teachers/Maurya-Muralidhar-200x200.png"
+image: "images/teachers/jackson.jpg"
 # course
-course: "CSE"
+course: "English"
 # biography
 bio: "Assistant Professor"
 # interest
@@ -22,7 +22,7 @@ contact:
     
   - name : "Click here to Know more"
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "https://vardhaman.irins.org/profile/247937"
+    link : "#"
     # type
 type: "teacher"
 ---
