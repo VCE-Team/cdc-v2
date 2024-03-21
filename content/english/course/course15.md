@@ -1,9 +1,9 @@
 ---
 title: "Full Stack Development"
-date: 2019-07-06T15:27:17+06:00
+date: 2023-12-06T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/banner/vardhaman2.png"
 # meta description
 description : "Course Code:C1201"
 # course thumbnail
@@ -34,8 +34,7 @@ application from front end and back end programming
 Java Fundamentals, HelloJavaProgram,JDK,JRE, 
 JVM,JavaVariables,JavaDataTypes,Operators,Keywords,OOPS,JavaOOPsConcepts,NamingConventi
 on,Object&Class,Method,Constructor,StaticKeyword,ThisKeyword,Inheritance&Polymorphism,Inhr
-itance(Is-A),Aggregation(HasA),MethodOverloading,MethodOverriding,Super&FinalKeyword,Abstraction,AbstractClass,Interfac
-,Encapsulation&Arrays,Package,AccessModifiers,Encapsulation,JavaArrays
+itance(Is-A),Aggregation(Has-A),MethodOverloading,MethodOverriding,Super&FinalKeyword,Abstraction,AbstractClass,Interfac,Encapsulation&Arrays,Package,AccessModifiers,Encapsulation,JavaArrays
 ##### Module-2
 ExceptionHandling,ExceptionHandling,AdvantagesofException 
 Handling,HierarchyofExceptionclasses,TypesofException,ExceptionExample,Scenarioswherean 

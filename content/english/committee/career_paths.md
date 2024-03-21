@@ -1,5 +1,6 @@
 ---
 title: "Carrer Paths"
+date: 2023-11-17T15:27:17+06:00
 draft: false
 bg_image: "images/banner/vardhaman2.png"
 description: ""

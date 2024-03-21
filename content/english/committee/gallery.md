@@ -1,5 +1,6 @@
 ---
 title: "Gallery"
+date: 2023-08-10sT15:27:17+06:00
 draft: false
 bg_image: "images/banner/vardhaman2.png"
 description: "Our Gallery"

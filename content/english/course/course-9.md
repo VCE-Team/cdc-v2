@@ -9,7 +9,7 @@ description : "Course Code:C1001"
 # course thumbnail
 image: "images/courses/course-4.jpg"
 # taxonomy
-category: "Programming"
+category: "Non-Technical Campus Recruitment Training"
 # teacher
 teacher: "Devid Luis"
 # duration

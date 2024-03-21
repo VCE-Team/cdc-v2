@@ -9,7 +9,7 @@ description : ""
 # course thumbnail
 image: "images/courses/course-4.jpg"
 # taxonomy
-category: "Data Structures"
+category: "Technical Campus Recruitment Training"
 # teacher
 teacher: "Devid Luis"
 # duration

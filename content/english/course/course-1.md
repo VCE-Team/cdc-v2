@@ -9,7 +9,7 @@ description : ""
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
-category: "Programming"
+category: "Technical Campus Recruitment Training"
 # teacher
 teacher: "Clark Malik"
 # duration

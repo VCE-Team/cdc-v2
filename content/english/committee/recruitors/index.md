@@ -1,5 +1,6 @@
 ---
 title: "Campus Training"
+date: 2023-12-12T15:27:17+06:00
 description : "Our Major Recritors"
 draft: false
 # page title background image
