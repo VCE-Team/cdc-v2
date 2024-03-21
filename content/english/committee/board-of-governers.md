@@ -3,7 +3,7 @@ title: "Board of Studies"
 date: 2023-05-03T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/banner/vardhaman2.png"
 # scholarship image
 image: "images/committee/scholarship.jpg"
 # meta description
