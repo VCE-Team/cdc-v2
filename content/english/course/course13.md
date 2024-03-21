@@ -25,14 +25,14 @@ type: "course"
 ---
 
 
-## <br> About Course
+### <br> About Course
 This course provides the basic skills required in solving the problems of Aptitude required by various 
 companies for Campus Recruitment and competitive tests. The contents of course include solving 
 problems on different concepts such as –Averages, Problems on ages, Ratio and Proportion, Chain 
 rule, Alligation or mixture, Percentages, Permutations and combinations, Clocks and Calendars. This 
 course also lays foundation for fundamentals of Mathematics.
 
-### <br> Course Syllabus
+#### <br> Course Syllabus
 
 ##### Numbers
 Operation on numbers, HCF and LCM of numbers, Decimal fractions.

@@ -24,9 +24,9 @@ apply_url : "#"
 type: "course"
 ---
 
-## <br> About Course
+### <br> About Course
 
-### <br>Course Syllabus
+#### <br>Course Syllabus
 
 The 21st century skills include skills such as communication, collaboration, critical thinking, 
 problem solving and digital literacy to name a few. Due to the universal nature of this attributes, they 
@@ -81,4 +81,4 @@ overall presentation, conduct and technical knowledgege.
 
 ### Syllabus
 
-[Click Here](https://drive.google.com/file/d/1a6UIFlMQp0LttAWvtLVigukWnkJgXfHd/view?usp=sharing)
+ [Click Here](https://drive.google.com/file/d/1a6UIFlMQp0LttAWvtLVigukWnkJgXfHd/view?usp=sharing)

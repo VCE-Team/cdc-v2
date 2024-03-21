@@ -2,7 +2,7 @@
 title: "Previous Questions"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/banner/vardhaman2.png"
 # image
 # meta description
 description: "**Contains previous problem statements given by various recruitors during their selection process.**"

@@ -1,7 +1,7 @@
 ---
 title: "Gallery"
 draft: false
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/banner/vardhaman2.png"
 description: "Our Gallery"
 
 ---

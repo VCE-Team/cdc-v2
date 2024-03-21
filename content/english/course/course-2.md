@@ -1,9 +1,9 @@
 ---
 title: "Logical Programming and Algorithms"
-date: 2019-07-06T15:27:17+06:00
+date: 2023-12-06T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/banner/vardhaman2.png"
 # meta description
 description : ""
 # course thumbnail
@@ -13,7 +13,7 @@ category: "Programming"
 # teacher
 teacher: "Jacke Mastio"
 # duration
-duration : "03 Years"
+duration : "1 Semester"
 # weekly
 weekly : "Will be Updated"
 # course fee

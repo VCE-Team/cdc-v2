@@ -3,7 +3,7 @@ title: "Campus Training"
 description : "Our Major Recritors"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/banner/vardhaman2.png"
 # image
 #image: "images/committee/committee-page.jpg"
 ---
