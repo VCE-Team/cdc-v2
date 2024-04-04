@@ -13,9 +13,9 @@ description: "**Enthusiastic students working at CDC Department of Vardhaman Col
 
 |          Name           |           Role           |
 |----------------------------|-----------------------------|
-| Sai Shivamani Sangem | Web Scraping      |
-| Krunal               | Web Scraping      |
-| Sri Vandana          | Web Development   |
-| M. Pranav Reddy      | Web Development   |
-| Rithvik Reddy        | Weekly Assessment |
-| Vamshi               | Weekly Assessment |
+| Sai Shivamani Sangem       | Web Scraping      |
+| Krunal Samtani             | Web Scraping      |
+| Talla Sri Vandana          | Web Development   |
+| Mandala Pranav Reddy       | Web Development   |
+| Kanyagiri Sai Rithvik Reddy| Weekly Assessment |
+| Gorige Vamshi              | Weekly Assessment |
