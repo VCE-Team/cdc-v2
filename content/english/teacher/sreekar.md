@@ -1,16 +1,16 @@
 ---
-title: "Dr. V V Appaji"
+title: "Dr. G.Sreekar"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Professor"
+description: "Assistant Professor"
 # teacher portrait
-image: "images/teachers/appaji_v-200x200.jpeg"
+image: "#"
 # course
-course: "CSE(AI&ML)"
+course: "CDC"
 # biography
-bio: "Professor"
+bio: "Assistant Professor"
 # interest
 interest: [""]
 # contact info
@@ -22,7 +22,7 @@ contact:
 
   - name : "Click here to Know more"
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "https://vardhaman.irins.org/profile/295432"
+    link : "#"
 
 # type
 type: "teacher"

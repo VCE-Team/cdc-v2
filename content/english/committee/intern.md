@@ -1,6 +1,6 @@
 ---
 title: "Intern Details"
-date: 2024-02-14T15:27:17+06:00
+date: 2023-07-14T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/banner/vardhaman2.png"
@@ -19,3 +19,4 @@ description: "**Enthusiastic students working at CDC Department of Vardhaman Col
 | Mandala Pranav Reddy       | Web Development   |
 | Kanyagiri Sai Rithvik Reddy| Weekly Assessment |
 | Gorige Vamshi              | Weekly Assessment |
+| Prathamesh Satish Sawant   | Web Development   |
