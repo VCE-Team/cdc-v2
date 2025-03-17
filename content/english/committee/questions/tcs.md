@@ -10,6 +10,7 @@ description: "**Contains previous problem statements given by various recruitors
 
 ---
 ### TCS
+- **[Click Here For TCS NQT Previous Questions](https://drive.google.com/file/d/1Gbch30otFeSBtSJwc41PtKxhNlO5QMJi/view?usp=drivesdk)
 
 | ID   | Questions                                                                                                                               |
 |------|:-------------------------------------------------------------------------------------------------------------------------------------------------|
