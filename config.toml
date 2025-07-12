@@ -114,8 +114,18 @@ weight = 1
 
 [[Languages.en.menu.main]]
 name = "Courses"
-url = "course/"
+HasChildren = true
 weight = 2
+
+[[Languages.en.menu.main]]
+parent = "Courses"
+name= "CDC-R24"
+url= "cdc_r24/"
+
+[[Languages.en.menu.main]]
+parent = "Courses"
+name= "Berfore CDC-R24"
+url= "course/"
 
 [[Languages.en.menu.main]]
 name = "Committees"
