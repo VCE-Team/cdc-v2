@@ -139,8 +139,13 @@ weight = 4
 
 [[Languages.en.menu.main]]
 parent = "people"
-name= "Staff"
+name= "Faculty"
 url= "teacher/"
+
+[[Languages.en.menu.main]]
+parent = "people"
+name= "Staff"
+url= "staff/"
 
 [[Languages.en.menu.main]]
 parent = "people"
