@@ -13,7 +13,7 @@ category: "Technical Campus Recruitment Training"
 # teacher
 teacher: "Clark Malik"
 # duration
-duration : "1 Semester"
+duration : "2 Semester"
 # weekly
 weekly : "Will be Updated"
 # course fee
