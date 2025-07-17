@@ -13,7 +13,7 @@ category: "Technical Campus Recruitment Training"
 # teacher
 teacher: "Jacke Mastio"
 # duration
-duration : "1 Semester"
+duration : "3 Semester"
 # weekly
 weekly : "Will be Updated"
 # course fee
