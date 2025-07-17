@@ -4,7 +4,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Dean-CDC"
+description: "staff"
 # teacher portrait
 image: "images/teachers/female-staff-avatar.png"
 # course
