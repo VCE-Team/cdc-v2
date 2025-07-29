@@ -1,10 +1,10 @@
 ---
-title: "Mr.T.Vinay Goud"
+title: "Mr.V.Rama Chandra Murthy Raju"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Assistant Professor"
+description: "CSE"
 # teacher portrait
 image: "images/teachers/male-staff-avatar.jpg"
 # course
@@ -26,7 +26,3 @@ contact:
 # type
 type: "teacher"
 ---
-
-
-
-

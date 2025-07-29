@@ -1,12 +1,12 @@
 ---
-title: "Mr.T.Vinay Goud"
+title: "Ms.Uppu Mamatha"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Assistant Professor"
+description: "CSE"
 # teacher portrait
-image: "images/teachers/male-staff-avatar.jpg"
+image: "images/teachers/female-staff-avatar.jpg"
 # course
 course: "CSE"
 # biography
@@ -26,7 +26,3 @@ contact:
 # type
 type: "teacher"
 ---
-
-
-
-
