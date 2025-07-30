@@ -8,7 +8,7 @@ description: "Dean-CDC"
 # teacher portrait
 image: "images/teachers/male-staff-avatar.jpg"
 # course
-course: "CSD"
+course: ["CSD"]
 # biography
 bio: "Assistant Professor"
 # interest
