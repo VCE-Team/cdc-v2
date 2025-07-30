@@ -1,5 +1,5 @@
 ---
-title: "Mr.V.Shashivanth"
+title: "Mr.V Rama Chandra Murthy Raju"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description: "Assistant Professor"
 # teacher portrait
 image: "images/teachers/male-staff-avatar.jpg"
 # course
-course: "CSD"
+course: "CSE"
 # biography
 bio: "Assistant Professor"
 # interest
@@ -26,5 +26,3 @@ contact:
 # type
 type: "teacher"
 ---
-
-

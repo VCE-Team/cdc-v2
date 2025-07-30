@@ -1,16 +1,16 @@
 ---
-title: "Mr.V.Shashivanth"
+title: "DR.D.Srinavas Reddy"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description: "Assistant Professor"
+description: " Professor"
 # teacher portrait
 image: "images/teachers/male-staff-avatar.jpg"
 # course
-course: "CSD"
+course: "H&S"
 # biography
-bio: "Assistant Professor"
+bio: " Professor"
 # interest
 interest: [""]
 # contact info
@@ -26,5 +26,4 @@ contact:
 # type
 type: "teacher"
 ---
-
 
