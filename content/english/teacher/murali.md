@@ -1,14 +1,14 @@
 ---
-title: "Azhar Baig"
+title: "Mr.K.H.Murali"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "Assistant Professor"
 # teacher portrait
-image: "images/teachers/azhar-pp-200x200.jpeg"
+image: "images/teachers/male-staff-avatar.jpg"
 # course
-course: "IT"
+course: "ECE"
 # biography
 bio: "Assistant Professor"
 # interest
@@ -19,13 +19,11 @@ contact:
   - name: "Mail Me"
     icon: "ti-email" # icon pack : https://themify.me/themify-icons
     link: "mailto:#"
-
+  
   - name : "Click here to Know more"
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "https://vardhaman.irins.org/profile/247837"
+    link : "#"
 # type
 type: "teacher"
 ---
-
-
 
