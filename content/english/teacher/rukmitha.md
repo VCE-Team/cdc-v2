@@ -1,5 +1,5 @@
 ---
-title: "Ms.Rukmita Pal"
+title: "Ms.Rukmitha Pal"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,7 +8,7 @@ description: "Assistant Professor"
 # teacher portrait
 image: "static/images/teachers/female-staff-avatar.png"
 # course
-course: "ENGLISH"
+course: "CDC"
 # biography
 bio: "Assistant Professor"
 # interest
