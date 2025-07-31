@@ -24,5 +24,5 @@ contact:
     icon : "ti-world" # icon pack : https://themify.me/themify-icons
     link : "#"
 # type
-type: "staff"
+type: "teacher"
 ---
