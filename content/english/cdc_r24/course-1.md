@@ -12,10 +12,8 @@ image: "images/courses/course-1.jpg"
 category: "Technical Campus Recruitment Training"
 # teacher
 teacher: "Clark Malik"
-# semester
-semester : "I semester"
 # duration
-duration : "60 Hours"
+duration : "I semester"
 # weekly
 weekly : "5 Hours"
 # course fee
