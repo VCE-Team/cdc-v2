@@ -1,5 +1,5 @@
 ---
-title: "Mr.K.H.Murali"
+title: "Mr.Butti Vivekanada"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,9 +8,9 @@ description: "Assistant Professor"
 # teacher portrait
 image: "images/teachers/male-staff-avatar.jpg"
 # course
-course: "ECE"
+course: "CDC"
 # biography
-bio: "Associate Dean CDC"
+bio: "Assistant Professor"
 # interest
 interest: [""]
 # contact info
