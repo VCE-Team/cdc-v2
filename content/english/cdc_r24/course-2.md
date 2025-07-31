@@ -50,5 +50,5 @@ facilitation and self discovery.
 
 ### <br>Syllabus
 
-- **[Click here to view](https://docs.google.com/document/d/1ZMUbzuzDG5DknCV9LgRevsOVnr_XHOpB/edit?usp=sharing&ouid=110262177818296743909&rtpof=true&sd=true)**
+- **[Click here to view](https://drive.google.com/file/d/1UfthgRE9QXgJSyICTgLyi2xGrfMrFOzf/view?usp=sharing)**
 
