@@ -11,9 +11,9 @@ image: "images/courses/course-1.jpg"
 # taxonomy
 category: "Technical Campus Recruitment Training"
 # teacher
-teacher: "Clark Malik"
+teacher: "Dr.V Muni Sekhar"
 # duration
-duration : "I semester"
+duration : "II semester"
 # weekly
 weekly : "5 Hours"
 # course fee
