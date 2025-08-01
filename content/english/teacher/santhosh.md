@@ -8,7 +8,7 @@ description: "Assistant Professor"
 # teacher portrait
 image: "images/teachers/santhosh.jpg"
 # course
-course: "AI&ML"
+course: "IT"
 # biography
 bio: "Assistant Professor"
 # interest

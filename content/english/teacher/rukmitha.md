@@ -8,7 +8,7 @@ description: "Assistant Professor"
 # teacher portrait
 image: "static/images/teachers/female-staff-avatar.png"
 # course
-course: "CDC"
+course: "ENGLISH"
 # biography
 bio: "Assistant Professor"
 # interest

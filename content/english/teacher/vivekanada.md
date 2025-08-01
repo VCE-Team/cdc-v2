@@ -8,7 +8,7 @@ description: "Assistant Professor"
 # teacher portrait
 image: "images/teachers/vivs.jpg"
 # course
-course: "CDC"
+course: "ENGLISH"
 # biography
 bio: "Assistant Professor"
 # interest
