@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "Assistant Professor"
 # teacher portrait
-image: "static/images/teachers/rukmita.jpg"
+image: "images/teachers/rukmitha.md"
 # course
 course: "ENGLISH"
 # biography
@@ -26,4 +26,3 @@ contact:
 # type
 type: "teacher"
 ---
-
