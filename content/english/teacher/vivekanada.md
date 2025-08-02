@@ -8,7 +8,7 @@ description: "Assistant Professor"
 # teacher portrait
 image: "images/teachers/vivs.jpg"
 # course
-course: "ENGLISH"
+course: "MBA"
 # biography
 bio: "Assistant Professor"
 # interest
