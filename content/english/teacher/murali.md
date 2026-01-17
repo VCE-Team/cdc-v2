@@ -1,6 +1,6 @@
 ---
 title: "Mr.K.H.Murali"
-draft: false
+draft: true
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
