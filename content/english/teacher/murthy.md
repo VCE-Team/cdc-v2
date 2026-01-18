@@ -1,5 +1,5 @@
 ---
-title: "Mr.V Rama Chandra Murthy Raju"
+title: "Mr.V Murthy Raju"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"

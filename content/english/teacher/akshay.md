@@ -1,5 +1,5 @@
 ---
-title: "Mr.Akshay Kumar Karlapati"
+title: "Mr. K Akshay Kumar"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
