@@ -20,9 +20,7 @@ contact:
     icon: "ti-email" # icon pack : https://themify.me/themify-icons
     link: "mailto:#"
   
-  - name : "Click here to Know more"
-    icon : "ti-world" # icon pack : 
-    link : "#"
+ 
 # type
 type: "teacher"
 ---

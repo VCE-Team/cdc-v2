@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "Assistant Professor"
 # teacher portrait
-image: "images/teachers/Vinay Goud.JPG"
+image: "images/teachers/Vinay.JPG"
 # course
 course: "CSE"
 # biography
