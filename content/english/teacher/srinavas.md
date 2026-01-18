@@ -26,4 +26,3 @@ contact:
 # type
 type: "teacher"
 ---
-
