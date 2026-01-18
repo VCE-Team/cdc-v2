@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "Assistant Professor"
 # teacher portrait
-image: "images/teachers/akshay.jpg"
+image: "images/teachers/Akshay.JPG"
 # course
 course: "CSE"
 # biography

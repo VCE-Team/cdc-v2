@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description: "Dean-CDC"
 # teacher portrait
-image: "images/teachers/MUNI-SHEKAR-200x200.jpg"
+image: "images/teachers/munishekar.JPG"
 # course
 course: "IT"
 # biography
